@@ -1,0 +1,3113 @@
+,itemId,itemName,avgPlat
+0,54ca39abe7798915c1c11e10,Creeping Bullseye,6.1
+1,54d4c727e77989281cc7d753,Mutalist Alad V Assassinate (Key),8.8
+2,54e0c9eee7798903744178b0,Irradiating Disarm,12.5
+3,54e644ffe779897594fa68cf,Antimatter Absorb,12.6
+4,551085aee77989729e1416d0,Arcane Barrier,8.6
+5,551085c9e7798972b4a2b206,Arcane Ice,10.9
+6,55e797d2e7798924849dd9f0,Telos Boltor,31.4
+7,56783f24cbfa8f0432dd899c,Frost Prime Set,79.2
+8,56a7b2a51133f656cb085d93,Catalyzer Link,5.4
+9,56a7b2bb1133f656cb085d98,Targeting Subsystem,10.2
+10,56aba2f78d6d183da42403c0,Strun Wraith Receiver,13.2
+11,56b656d1ef0390c7e4006381,Tectonic Fracture,13.5
+12,57222f1c92cc365777a61c0f,Mantis Set,21.7
+13,5729bd02cb59ed5a9b484e8c,Acid Shells,7.4
+14,5729bd0acb59ed5a9b484e8e,Nightwatch Napalm,13.9
+15,5783909ad9b6753790c89e82,Quasar Drill,5.8
+16,5783909ed9b6753790c89e83,Comet Blast,7.0
+17,578390a2d9b6753790c89e84,Nebula Bore,6.1
+18,5783bee2d9b6753790c89e87,Kaszas Blade,9.2
+19,5783bf0ad9b6753790c89e89,Velocitus Receiver,10.1
+20,5783bf15d9b6753790c89e8b,Fluctus Barrel,9.9
+21,5783bf1ad9b6753790c89e8c,Fluctus Limbs,9.6
+22,5783bf20d9b6753790c89e8d,Fluctus Stock,9.4
+23,5783bf27d9b6753790c89e8e,Decurion Barrel,10.1
+24,59a48b625cd9938cfede703c,Hydroid Prime Set,125.6
+25,595567c18e34b5ed3cb3d9bd,Cleanse Corrupted,12.0
+26,598b06b4ab6b61be6fec0fb4,Kappa Beacon,494.0
+27,59eba86952f90ed715e14158,Star Crimzian,1.5
+28,5a04750c6c4655012038ddcb,Virtuos Strike,3.3
+29,5a0ef3fb10bc40007cce1c89,Hunter Adrenaline,5.9
+30,5a5a121bdd7913052b3a0967,Viper Wraith,61.4
+31,5a9e8667b2b6a800db67f122,Orokin Derelict Plaza Scene,
+32,5a9e8669b2b6a800db67f123,Grineer Shipyards Manufactory Scene,
+33,5a9e8669b2b6a800db67f124,Infested Ship Bridge Scene,
+34,5a9e866bb2b6a800db67f125,Lua Nursery Scene,
+35,5a9e8670b2b6a800db67f126,Corpus Gas City Conduit Scene,
+36,5a9e8670b2b6a800db67f127,Grineer Settlement Reactor Scene,20.8
+37,5a9e8677b2b6a800db67f128,Corpus Ice Planet Wreckage Scene,
+38,5a9ed835b2b6a80133127c2c,Eidolon Madurai Lens,33.4
+39,5a9ed835b2b6a80133127c2e,Eidolon Vazarin Lens,28.6
+40,5a9ed835b2b6a80133127c2f,Eidolon Unairu Lens,30.9
+41,5ab1570db2b6a8044d5137c3,Zephyr Prime Chassis Blueprint,5.7
+42,5bd05ad03ffcc700eb7cfcfd,Mycona Colony Scene,
+43,5bf54b483ffcc7066e7eb856,Pax Soar,29.8
+44,5c196fad96037800ddadac14,Redeemer Prime Blade,6.5
+45,5c196fb096037800ddadac18,Akjagara Prime Receiver,11.3
+46,5c1e62d3817a0d0092fb1608,Kitgun Riven Mod (Veiled),1.3
+47,5c3892672cc6ce00f238139d,Spectrosiphon,13.2
+48,5c7849e22cc6ce090383e266,Wolf Sledge Head,1.4
+49,5c7849e22cc6ce090383e267,Wolf Sledge Set,57.3
+50,5c7849e32cc6ce090383e26d,Orb Vallis Scene,45.2
+51,5d21ce43f4604c012d1e0c0e,Zhuge Prime Grip,4.8
+52,54a74454e779892d5e515652,Freeze Force,17.8
+53,54a74454e779892d5e515656,Swirling Tiger,3.2
+54,54a74455e779892d5e51568d,Quick Thinking,5.1
+55,54ca431ce779891a1adb4901,Wyrm Prime Blueprint,9.5
+56,59f38f558c202c007335ba66,Spring-Loaded Blade,11.5
+57,59f38f568c202c007335ba67,Kinetic Diversion,7.6
+58,54a74454e779892d5e5155d4,Power Throw,1.4
+59,59f38f588c202c007335ba68,Fateful Truth,
+60,54a74454e779892d5e51558e,Malignant Force,5.7
+61,54a74454e779892d5e5155d8,Superior Defenses,4.4
+62,54a74454e779892d5e5155a3,Energy Inversion,4.5
+63,54a74454e779892d5e5155a6,Shattering Justice,11.6
+64,54a74454e779892d5e515665,Fast Hands,5.8
+65,54a74454e779892d5e515600,Polar Magazine,4.8
+66,54a74454e779892d5e515605,Rifle Amp,16.7
+67,54a74454e779892d5e515667,Spare Parts,2.5
+68,54a74454e779892d5e515608,No Return,18.4
+69,54a74454e779892d5e515668,Vaporize,6.6
+70,54a74454e779892d5e51560c,Vicious Spread,3.5
+71,54a74454e779892d5e515624,Enemy Sense,4.3
+72,54a74454e779892d5e5155cc,Blind Rage,14.1
+73,54a74454e779892d5e5155d1,Rifle Ammo Mutation,5.5
+74,5740c16d9d238d4a03d28515,Imperator Vandal Barrel,9.1
+75,54a73e65e779893a797fff50,Orthos Prime Blade,5.1
+76,54a73e65e779893a797fff74,Loki Prime Systems Blueprint,28.0
+77,5667576ddb7c7a568a8d45c2,Naramon Lens,3.9
+78,566759c8db7c7a568a8d45c5,Coaction Drift,8.0
+79,54a74454e779892d5e5155de,Shotgun Savvy,3.7
+80,54a74454e779892d5e5155e5,Volcanic Edge,4.1
+81,5527a279e77989205639861f,Odonata Prime Harness Blueprint,9.3
+82,567af35fcbfa8f05d076a520,Secondary Wind,
+83,5527a288e77989205f31e525,Odonata Prime Systems Blueprint,7.9
+84,54a74454e779892d5e5155f4,Point Strike,4.0
+85,567af35fcbfa8f05d076a521,Soaring Strike,
+86,554d3af4e77989420d3de2a2,Pummel,4.2
+87,5783bf10d9b6753790c89e8a,Velocitus Stock,9.1
+88,578d33bf34003bbbb9e20924,Rathbone Handle,9.3
+89,578d33bf34003bbbb9e20925,Rathbone Head,12.9
+90,57962daf19aaba0b00a9b1b0,Latron Wraith Barrel,19.6
+91,54a74455e779892d5e5156c7,Heated Charge,2.2
+92,54a74455e779892d5e5156cf,System Reroute,6.6
+93,591844575c170664fbd37eb5,Gorgon Wraith Receiver,4.6
+94,5615432bb66f8371035bfa23,Calculated Shot,
+95,54a74454e779892d5e5155f9,Vigor,6.3
+96,54a73e65e779893a797fff47,Hikou Prime Pouch,12.3
+97,54a73e65e779893a797fff59,Reaper Prime Blueprint,10.3
+98,54aaf153e779892a1bb42966,Arcane Thrak Helmet,83.8
+99,54c68686e7798913c1042b4b,Primed Point Blank,34.2
+100,56dac5945cc639de0a45c523,Power Of Three,10.6
+101,54a73e65e779893a797fff6f,Rhino Prime Neuroptics Blueprint,12.5
+102,5911f11d97a0add8e9d5da4c,Disarming Purity,9.4
+103,591844575c170664fbd37eb6,Gorgon Wraith Stock,4.9
+104,59a5cd4d5cd9938cfede7045,Ballistica Prime String,11.8
+105,54a74454e779892d5e515676,Crossing Snakes,3.5
+106,54a74454e779892d5e515678,Rejuvenation,15.6
+107,54a74455e779892d5e5156e3,Dig,4.4
+108,54a74454e779892d5e515679,Shredder,7.0
+109,54a74455e779892d5e5156f3,Continuous Misery,4.8
+110,56783f24cbfa8f0432dd89b0,Vasto Prime Set,39.3
+111,54aaf1d2e77989786a5f748b,Arcane Avalon Helmet,83.5
+112,54a74455e779892d5e5156f5,Thermite Rounds,10.7
+113,54aaf1dde779897eebeee19d,Arcane Flux Helmet,72.0
+114,54aae272e7798975bbba5f07,Telos Akbolto,31.7
+115,54aaf1eee779890a8654131d,Arcane Aura Helmet,214.8
+116,54aae2ace7798918750e63f2,Sancti Castanas,31.0
+117,5729bd11cb59ed5a9b484e90,Rift Strike,7.4
+118,5729bd15cb59ed5a9b484e91,Vulcan Blitz,6.7
+119,54aaf209e7798917c67289d4,Arcane Gambit Helmet,89.6
+120,54aaefd0e77989436b138405,Arcane Chlora Helmet,140.0
+121,54aaf231e77989307d9accb2,Arcane Esprit Helmet,89.3
+122,551085ece7798972cb579c3e,Arcane Trickery,1.9
+123,592dd262011e88f094afec7e,Oberon Prime Neuroptics Blueprint,23.7
+124,55158cd0e7798915e9d64c1e,Volt Prime Neuroptics Blueprint,39.4
+125,54aaf265e779895081b99385,Arcane Phoenix Helmet,121.4
+126,59a5cd4d5cd9938cfede7044,Ballistica Prime Lower Limb,8.5
+127,55158cd9e7798915ee6bd13f,Volt Prime Chassis Blueprint,15.8
+128,59eba86952f90ed715e14157,Marquise Veridos,1.0
+129,54aaf284e77989627dc20627,Arcane Reverb Helmet,136.0
+130,5526aec0e779896af9418258,Explosive Legerdemain,10.0
+131,595567c18e34b5ed3cb3d9bc,Smite Corrupted,9.6
+132,54aaf29ce7798971c40870b8,Arcane Hemlock Helmet,91.8
+133,5526aec0e779896af941825b,Vampire Leech,11.9
+134,5d21ce47f4604c012d1e0c15,Zhuge Prime Blueprint,5.0
+135,5d21ce48f4604c012d1e0c16,Ninkondi Prime Chain,4.5
+136,5d21ce48f4604c012d1e0c17,Zhuge Prime Receiver,9.9
+137,5d21ce49f4604c012d1e0c19,Zhuge Prime Set,57.5
+138,5d21ce4af4604c012d1e0c1a,Wukong Prime Neuroptics Blueprint,7.7
+139,54a74454e779892d5e5155a1,Ruinous Extension,18.7
+140,54a74454e779892d5e5155a2,Savagery,8.8
+141,54a74454e779892d5e5155ca,Pistol Gambit,2.8
+142,54a74454e779892d5e5155d5,Gleaming Blight,12.8
+143,54a73e65e779893a797fff6d,Ember Prime Neuroptics Blueprint,14.7
+144,54a74455e779892d5e5156ad,Lingering Torment,
+145,54a74454e779892d5e51558d,Hammer Shot,87.1
+146,5655c4b3b66f832e11abd3fb,Primed Shotgun Ammo Mutation,84.6
+147,566751d35dcbc186f0536bd6,Arcane Velocity,5.5
+148,54a73e65e779893a797fff72,Nyx Prime Blueprint,7.6
+149,56675653f9001cd2824a6827,Dera Vandal Stock,9.9
+150,5667568bf9001cd2824a6828,Karak Wraith Blueprint,9.4
+151,54a73e65e779893a797fff76,Nyx Prime Systems Blueprint,7.0
+152,54e644ffe779897594fa68d0,Swing Line,14.0
+153,56783f24cbfa8f0432dd8999,Dual Kamas Prime Set,125.7
+154,567af35fcbfa8f05d076a51d,Measured Burst,
+155,54a74455e779892d5e5156c3,Safeguard Switch,14.2
+156,585a93012c2ada004f1a297e,Prisma Shade,79.4
+157,5d322d1174bdad027da4d08e,Gas City Lobby Scene,
+158,54a74454e779892d5e5155d6,Overextended,14.1
+159,54a74454e779892d5e515641,Protect,7.2
+160,54e0c9eee7798903744178ac,Total Eclipse,11.4
+161,54aaf2ade779897b41e2872c,Arcane Pulse Helmet,117.0
+162,59dfeb63115f1d887cfd7abc,Vigilante Pursuit,6.8
+163,554d3f0ce779894445a848f5,Purging Slash,10.8
+164,54aaf2f8e779892b01b42391,Arcane Mag Gauss Helmet,141.0
+165,54aaf526e779896a8c2ecfd8,Ancient Fusion Core,250.0
+166,59e91860f25be4e10d36571f,Furax Wraith Right Gauntlet,6.7
+167,554d3f0ce779894445a848fe,Auger Strike,14.8
+168,54a73e65e779893a797fff71,Nyx Prime Neuroptics Blueprint,20.2
+169,54a73e65e779893a797fff77,Rhino Prime Blueprint,21.1
+170,54a74454e779892d5e515603,Steady Hands,2.5
+171,57bc9c84e506eb45ea251458,Tigris Prime Receiver,9.0
+172,56dac8cc5cc639de0a45c52c,Energy Conversion,54.0
+173,55a46c61e779890338bfadd8,Arcane Resistance,34.3
+174,54a74454e779892d5e51560d,Lethal Torrent,18.2
+175,56fdbd6c2e26966de716e433,War Blade,3.1
+176,554d3f0ce779894445a848f2,Detect Vulnerability,50.6
+177,57c73be094b4b0f159ab5e14,Elemental Sandstorm,14.4
+178,54a74454e779892d5e515612,Steel Fiber,4.2
+179,54a74454e779892d5e5155b9,Magazine Extension,
+180,55c15473e779895de4118590,Concealed Explosives,3.2
+181,54c685c4e77989137eb0f9be,Primed Ravage,46.9
+182,55c154a7e779895e0186c0a4,Depleted Reload,3.3
+183,58b57068eb26db5c31192116,Helios Prime Carapace,5.0
+184,54ca4337e779891a2e3fbc83,Wyrm Prime Systems,24.4
+185,56153692b66f836f7d649936,Trinity Prime Neuroptics Blueprint,12.5
+186,54e644ffe779897594fa68ce,Mind Freak,16.1
+187,54a73e65e779893a797fff42,Fang Prime Handle,3.6
+188,54a74454e779892d5e5155ff,Streamline,2.6
+189,54a74454e779892d5e515688,Insulation,
+190,56a7b2901133f656cb085d8f,Pressurized Magazine,4.5
+191,56dac5b05cc639de0a45c527,Ambush Optics,21.5
+192,54a73e65e779893a797fff73,Nyx Prime Chassis Blueprint,7.0
+193,5526aec0e779896af941825e,Capacitance,10.8
+194,54a74454e779892d5e5155fb,Shell Compression,4.6
+195,54a73e65e779893a797fff75,Loki Prime Chassis Blueprint,24.4
+196,554d3f0ce779894445a848f8,Bore,9.2
+197,554d3f0ce779894445a848f9,Signal Flare,
+198,55c153bfe779895d7c52cd96,Lightning Dash,4.1
+199,54a73e65e779893a797fff83,Mag Prime Chassis Blueprint,8.3
+200,5707cc07a820909ab922558e,Snipetron Vandal Set,38.6
+201,55c153d3e779895d8cb3df5f,Battering Maneuver,
+202,55c153e0e779895d97f9cca1,Piercing Step,
+203,54a74454e779892d5e515617,Fireball Frenzy,11.1
+204,54a74454e779892d5e5155b8,Lasting Purity,12.0
+205,54a74454e779892d5e515618,Energy Siphon,19.9
+206,54a74454e779892d5e51561a,Stalk,8.9
+207,54a74454e779892d5e51561d,Magazine Warp,8.0
+208,576459d33ae92d545fd1e7ba,Infiltrate,11.3
+209,54a74454e779892d5e515643,Coiling Viper,9.2
+210,5765ab4947837cf09eec1f02,Primed Pressure Point,37.3
+211,5783908cd9b6753790c89e7f,Cold Snap,3.6
+212,54a74454e779892d5e515644,Hell's Chamber,1.9
+213,5911f11d97a0add8e9d5da4f,Stockpiled Blight,7.5
+214,59a5cd4d5cd9938cfede7042,Nami Skyla Prime Handle,10.9
+215,54a74454e779892d5e51560b,Fracturing Wind,1.8
+216,5914639e6b46c14200a37888,Fulmination,36.0
+217,54a74454e779892d5e51562f,Ammo Drum,6.0
+218,588247dcefa102dc532bd503,Sovereign Outcast,8.5
+219,59dfeb5c115f1d887cfd7ab5,Gladiator Might,17.0
+220,54a74454e779892d5e515631,Heavy Impact,
+221,54a74454e779892d5e51563f,Thunderbolt,3.5
+222,54a74454e779892d5e51564c,Pool Of Life,15.0
+223,54a74455e779892d5e5156a3,Entropy Burst,11.4
+224,54a74455e779892d5e5156a4,Fatal Attraction,10.0
+225,54a74455e779892d5e5156a5,Seismic Palm,3.2
+226,54a74455e779892d5e5156a7,Pressure Point,7.1
+227,54a74455e779892d5e5156ab,Modified Munitions,5.1
+228,54a74455e779892d5e5156b0,Natural Talent,12.4
+229,54a74455e779892d5e5156b3,Flechette,
+230,54a74455e779892d5e5156b7,Shimmering Blight,3.7
+231,54a74455e779892d5e5156b9,Justice Blades,11.0
+232,54a74455e779892d5e5156c5,Buzz Kill,9.8
+233,5b2985e1eb069f04ea65b0ea,Pyrana Prime Blueprint,37.4
+234,5b2985e1eb069f04ea65b0ee,Pyrana Prime Receiver,7.9
+235,5b2985e1eb069f04ea65b0f3,Pyrana Prime Barrel,7.1
+236,5b2985e2eb069f04ea65b0f6,Destreza Prime Set,51.0
+237,5bb7658e92ea46005b6d386d,Primed Expel Grineer,64.5
+238,5bb7658f92ea46005b6d386e,Primed Expel Corpus,52.4
+239,5bb7658f92ea46005b6d386f,Primed Expel Infested,180.4
+240,5bbcec53f639cf007b7357cf,Primed Expel Corrupted,72.3
+241,5be5f5a13ffcc7038857f113,Quaking Hand,
+242,5be5f5a23ffcc7038857f119,Flame Gland,10.3
+243,5be5f5a23ffcc7038857f11c,Dividing Blades,
+244,5be5f5a43ffcc7038857f132,Smooth Phasmin,1.0
+245,56153e9bb66f837074af99c5,Arcane Pulse,23.3
+246,567af35fcbfa8f05d076a522,Sudden Justice,
+247,56a7b24c1133f656cb085d85,Blood Rush,11.2
+248,56a7b28a1133f656cb085d8e,Shrapnel Shot,7.2
+249,54a74455e779892d5e5156ca,Coolant Leak,6.1
+250,56dac5905cc639de0a45c522,Ward Recovery,
+251,54c686dce7798913e1a86565,Primed Heated Charge,48.0
+252,54a74454e779892d5e5155f3,Neutron Star,12.3
+253,56dac5a85cc639de0a45c525,Skull Shots,36.5
+254,54a73e65e779893a797fff70,Loki Prime Neuroptics Blueprint,21.3
+255,59dfeb63115f1d887cfd7ab9,Vigilante Fervor,7.1
+256,54a73e65e779893a797fff24,Ankyros Prime Blade,8.0
+257,54a73e65e779893a797fff26,Ankyros Prime Gauntlet,11.1
+258,54a73e65e779893a797fff27,Bo Prime Blueprint,10.6
+259,592dd262011e88f094afec88,Silva & Aegis Prime Guard,19.3
+260,54a74454e779892d5e5155ad,Vicious Frost,7.8
+261,54a74454e779892d5e5155af,Jagged Edge,3.6
+262,54a74454e779892d5e5155cf,Shield Disruption,20.0
+263,5a0475086c4655012038ddbf,Magus Vigor,16.6
+264,54a74455e779892d5e5156f1,Shotgun Barrage,3.5
+265,54aaf130e7798916d6f20025,Arcane Swindle Helmet,238.0
+266,59dfeb5c115f1d887cfd7ab8,Gladiator Vice,10.0
+267,54aaf2e9e779892185a51ef4,Arcane Meridian Helmet,141.6
+268,54aaf530e77989707ada3a7e,Legendary Fusion Core,129.1
+269,57bc9c84e506eb45ea251456,Tigris Prime Stock,5.9
+270,57c5948794b4b0f159ab5e0e,Spinning Needle,7.6
+271,5703ed1aa064f4ab755dc13a,Snipetron Vandal Stock,11.4
+272,54a74454e779892d5e515610,Wildfire,3.4
+273,54a74454e779892d5e51559f,Bane Of Grineer,4.3
+274,571955bf4445c3e28b80fc81,Scimitar Avionics Blueprint,8.1
+275,54a74454e779892d5e5155a5,Reflex Guard,2.7
+276,5754a30de701ef5844257da8,Everlasting Ward,12.2
+277,559daab7e779897b3d86cb8f,Ash Prime Neuroptics Blueprint,10.8
+278,54a74454e779892d5e5155a8,Jolt,48.9
+279,559daaf7e779897b5f3f5480,Vectis Prime Stock,14.0
+280,54a74454e779892d5e51561b,Stunning Speed,2.6
+281,54c6855ee779891362942572,Primed Continuity,49.1
+282,54a73e65e779893a797fff28,Bo Prime Handle,10.4
+283,554d3c0ce7798942793d7e89,Crash Course,4.3
+284,567af35fcbfa8f05d076a525,Vital Systems Bypass,
+285,554d3f0ce779894445a848f3,Singularity,15.0
+286,568c17a0c221c673bc088846,Armored Acrobatics,
+287,554d3f0ce779894445a84900,Lethal Momentum,4.8
+288,56900be253c8e91351672724,Primed Bane Of Infested,52.5
+289,56900c0053c8e91351672725,Primed Bane Of Corpus,35.6
+290,559daac1e779897b4253a85e,Carrier Prime Blueprint,9.6
+291,5696e4e06629907e30c394f8,Vulpine Mask,9.0
+292,56a3ae00a4cc3c6028b342b1,Primed Bane Of Grineer,62.3
+293,559daae0e779897b5273b716,Vectis Prime Barrel,14.6
+294,54a74454e779892d5e51568c,Tactical Pump,13.8
+295,54aaf170e779893cfbd8ec50,Arcane Menticide Helmet,143.0
+296,54aaf182e77989468dbe1add,Arcane Aurora Helmet,105.8
+297,54a73e65e779893a797fff62,Soma Prime Blueprint,7.6
+298,54a74454e779892d5e5155ed,Unleashed,6.8
+299,54a73e65e779893a797fff65,Vasto Prime Barrel,10.0
+300,54aaf18be779894c7c9308d3,Arcane Chorus Helmet,186.0
+301,54a73e65e779893a797fff66,Vasto Prime Blueprint,7.2
+302,54a74454e779892d5e5155ee,Entropy Flight,8.0
+303,56c3bbea5d2f0202da32e93f,Saryn Prime Set,119.5
+304,5c1bda1b14a8e4006b1dad91,Poppin' Vert,11.8
+305,5c1bda1b14a8e4006b1dad92,Magus Repair,8.3
+306,5c1bda1e14a8e4006b1dad95,Magus Glitch,142.0
+307,5c1bda2014a8e4006b1dad99,Perfect Balance,
+308,5c1bda2214a8e4006b1dada0,Strain Consume,8.5
+309,5c1e62d3817a0d0092fb1609,Zaw Riven Mod (Veiled),2.9
+310,5c7849e22cc6ce090383e262,Wolf Sledge Blueprint,24.8
+311,5c1bda0814a8e4006b1dad63,Magus Overload,144.3
+312,5c3892672cc6ce00f238139f,Molecular Fission,11.6
+313,5c7849e22cc6ce090383e26a,Wolf Sledge Motor,26.0
+314,5c79229f2cc6ce0985fd3bb7,Wild Frenzy,49.7
+315,5c93e3b8fc2db20121591320,Napalm Grenades,115.2
+316,5ca2866ffc2db2035eae059a,Tipedo Prime Handle,25.9
+317,5ca2866ffc2db2035eae059c,Stradavar Prime Set,39.2
+318,5ca28670fc2db2035eae05a6,Equinox Prime Blueprint,12.6
+319,54a73e65e779893a797fff36,Bronco Prime Barrel,4.0
+320,56fdbd5d2e26966de716e432,War Hilt,1.7
+321,54a73e65e779893a797fff6a,Nova Prime Systems Blueprint,8.8
+322,54a73e65e779893a797fff80,Frost Prime Blueprint,25.0
+323,54a73e65e779893a797fff37,Bronco Prime Blueprint,3.3
+324,54c688a2e77989145e6d0aa0,Astral Twilight,8.3
+325,567af35fcbfa8f05d076a4f5,Snap Shot,
+326,54a73e65e779893a797fff3b,Burston Prime Receiver,2.9
+327,54a73e65e779893a797fff40,Fang Prime Blade,3.8
+328,573b7fc80ec44a47787a690f,Vauban Prime Neuroptics Blueprint,38.7
+329,54a73e65e779893a797fff48,Hikou Prime Stars,8.5
+330,54a74454e779892d5e515649,Intruder,2.8
+331,59b2a2468d62f4b743a21f31,Prisma Angstrum,65.2
+332,5783bf3cd9b6753790c89e92,Phaedra Stock,13.1
+333,54a74454e779892d5e515663,Scorch,12.3
+334,54a74454e779892d5e5155be,Entropy Spike,9.9
+335,54a74454e779892d5e5155ef,Eleventh Storm,3.2
+336,54a73e65e779893a797fff68,Nova Prime Neuroptics Blueprint,10.8
+337,56dac57b5cc639de0a45c51e,Antimatter Mine,
+338,54a73e65e779893a797fff69,Nova Prime Chassis Blueprint,49.3
+339,56dac5805cc639de0a45c51f,Prism Guard,23.5
+340,54a74454e779892d5e5155f0,Trick Mag,8.0
+341,54a73e65e779893a797fff6b,Nova Prime Blueprint,9.7
+342,56dac5855cc639de0a45c520,Deceptive Bond,17.6
+343,54a73e65e779893a797fff6c,Frost Prime Neuroptics Blueprint,8.8
+344,54aaf196e77989526dcfba2d,Arcane Squall Helmet,260.3
+345,5758af4842ba8659dde2f572,Calculated Redirection,36.4
+346,54a74454e779892d5e51561e,Charged Shell,4.0
+347,54a74454e779892d5e515620,Cleanse Corpus,4.0
+348,54a74454e779892d5e5155ba,Searing Steel,34.3
+349,5758af5142ba8659dde2f573,Accelerated Deflection,7.6
+350,54a74454e779892d5e515622,Clashing Forest,3.3
+351,576459af3ae92d545fd1e7b7,Primal Rage,11.7
+352,576459b43ae92d545fd1e7b8,Celestial Stomp,11.5
+353,55e797e7e779892497cdf785,Secura Penta,31.5
+354,54a74454e779892d5e515640,Razor Shot,3.9
+355,576459bc3ae92d545fd1e7b9,Creeping Terrify,13.2
+356,56153689b66f836f7a3c0baf,Trinity Prime Blueprint,15.3
+357,54a74454e779892d5e51564a,Grim Fury,3.7
+358,57e91e65c76eb74c087f492f,Ayatan Orta Sculpture,5.7
+359,54a74454e779892d5e51564b,Energy Channel,2.0
+360,5615432cb66f8371035bfa34,Hallowed Reckoning,14.7
+361,54a74454e779892d5e51564d,Convulsion,2.4
+362,56463c24b66f8358acce4451,Arcane Fury,18.5
+363,54a74454e779892d5e51564f,Rapid Resilience,2.9
+364,54a74454e779892d5e515650,Pistol Pestilence,5.2
+365,5655c4e5b66f832e25b8ce7b,Primed Morphic Transformer,47.5
+366,54a74454e779892d5e515651,Frail Momentum,2.6
+367,54a74454e779892d5e515653,Pathogen Rounds,3.9
+368,566750375dcbc186f0536bce,Arcane Aegis,11.8
+369,54a74454e779892d5e515655,Sudden Impact,4.0
+370,5667510e5dcbc186f0536bd0,Arcane Consequence,10.5
+371,54a74454e779892d5e515659,Tempered Blade,4.4
+372,54a74454e779892d5e51565a,Smite Corpus,19.4
+373,566751295dcbc186f0536bd1,Arcane Energize,112.5
+374,54a74454e779892d5e51565b,Fanged Fusillade,8.6
+375,59dfeb5c115f1d887cfd7ab6,Gladiator Resolve,6.9
+376,54a74454e779892d5e515660,Ghost,
+377,54a74454e779892d5e515661,Rime Rounds,30.6
+378,58d8f22a11efe42a5e5231ff,Vulkar Wraith,59.1
+379,57e91e65c76eb74c087f4930,Ayatan Piv Sculpture,4.5
+380,58f0ee99aa4b70452a173071,Negation Swarm,14.6
+381,54a74454e779892d5e515686,Blunderbuss,4.4
+382,592dd262011e88f094afec85,Sybaris Prime Barrel,21.1
+383,5783bf45d9b6753790c89e94,Centaur Aegis,9.9
+384,5800c6c9c021d9dc0a9f8915,Cephalon Suda Augment Mod,11.2
+385,58b57068eb26db5c3119210c,Banshee Prime Chassis Blueprint,23.4
+386,54a74454e779892d5e5155bf,Chilling Grasp,2.6
+387,5d21ce45f4604c012d1e0c0f,Wukong Prime Chassis Blueprint,8.7
+388,54a74455e779892d5e515692,Blazing Steel,16.4
+389,54a74455e779892d5e51569b,Fired Up,8.4
+390,54a74455e779892d5e5156ac,Shattering Storm,7.5
+391,57b4e5486f6b2fda8ea6caa4,Sense Danger,
+392,57b86950315399578ef1a6bd,Bullet Dance,34.8
+393,57bc948ae506eb45ea25144c,Twin Vipers Wraith Blueprint,10.0
+394,54a74455e779892d5e5156be,Split Chamber,3.5
+395,54a74455e779892d5e5156d1,North Wind,4.2
+396,54a74455e779892d5e5156d3,Shotgun Scavenger,11.7
+397,54aae283e779897f276a5768,Synoid Gammacor,26.6
+398,58b57068eb26db5c31192114,Helios Prime Set,56.8
+399,54aae2a0e7798911533cb007,Rakta Ballistica,26.5
+400,59a48b625cd9938cfede7039,Hydroid Prime Neuroptics Blueprint,15.4
+401,54a74454e779892d5e5155c5,Greedy Pull,11.6
+402,592dd262011e88f094afec8b,Silva & Aegis Prime Set,45.5
+403,54a74454e779892d5e5155d7,Sanctuary,3.0
+404,5870156c937cde2c9d378ac1,Tether Grenades,2.4
+405,54a74454e779892d5e5155fa,Aviator,4.2
+406,59eb9b0952f90ed715e14144,Swooping Falcon,8.8
+407,54a74455e779892d5e5156a8,Constitution,14.7
+408,54a74455e779892d5e5156aa,Smite Infusion,14.1
+409,56783f24cbfa8f0432dd89a0,Kavasa Prime Kubrow Collar Set,27.9
+410,56783f24cbfa8f0432dd89a1,Latron Prime Set,77.5
+411,56783f24cbfa8f0432dd89a2,Lex Prime Set,9.2
+412,56783f24cbfa8f0432dd89a7,Odonata Prime Set,39.5
+413,567af35fcbfa8f05d076a4d8,Gun Glide,
+414,567af35fcbfa8f05d076a4ed,Rime Vault,
+415,567af35fcbfa8f05d076a501,Vanquished Prey,
+416,567af35fcbfa8f05d076a503,Voltaic Lance,
+417,567af35fcbfa8f05d076a506,Deft Tempo,
+418,567af35fcbfa8f05d076a508,Double Tap,23.3
+419,567af35fcbfa8f05d076a50a,Final Act,
+420,567af35fcbfa8f05d076a50b,Final Tap,
+421,567af35fcbfa8f05d076a514,Hydraulic Chamber,
+422,567af35fcbfa8f05d076a515,Hydraulic Gauge,
+423,567af35fcbfa8f05d076a519,Loose Hatch,
+424,56a7b2ae1133f656cb085d95,Narrow Barrel,4.1
+425,56aba2f38d6d183da42403bf,Strun Wraith Barrel,13.3
+426,5a9ed835b2b6a80133127c2d,Eidolon Zenurik Lens,35.1
+427,5b2985e3eb069f04ea65b0fd,Destreza Prime Handle,8.1
+428,54a74455e779892d5e5156c4,Enhanced Durability,4.4
+429,54a74455e779892d5e5156d4,Holster Amp,21.2
+430,551085e4e7798972c7353fb0,Arcane Strike,4.0
+431,55a46912e77989020f0a68d9,Sinister Reach,2.8
+432,56783f24cbfa8f0432dd89b1,Vectis Prime Set,88.4
+433,59e3afcd115f1d887cfd7ac8,Carving Mantis,4.5
+434,5cdedd22fc2db20e0d0c5543,Primed Pack Leader,50.8
+435,56153e78b66f83706f01716f,Arcane Nullifier,5.3
+436,56783f24cbfa8f0432dd89ab,Rhino Prime Set,70.7
+437,56783f24cbfa8f0432dd89ad,Sicarus Prime Set,47.4
+438,567af35fcbfa8f05d076a50f,Grinloked,
+439,55a46ad5e77989029d9706ee,Arcane Victory,21.5
+440,567af35fcbfa8f05d076a510,Hastened Steps,15.2
+441,567af35fcbfa8f05d076a4dc,Lie In Wait,
+442,54a73e65e779893a797fff30,Boltor Prime Receiver,7.0
+443,54a73e65e779893a797fff31,Boltor Prime Stock,7.5
+444,567af35fcbfa8f05d076a4e2,Night Stalker,
+445,57dbdc525e334907aa8edb57,Synoid Heliocor,30.0
+446,57dbdc745e334907aa8edb5f,Elytron Systems Blueprint,
+447,5800c6c9c021d9dc0a9f8914,Steel Meridian Augment Mod,9.9
+448,5800c901c021d9dc0a9f891a,Shadow Harvest,
+449,5800c901c021d9dc0a9f891c,Argent Scourge,
+450,57bc9c84e506eb45ea251457,Tigris Prime Barrel,6.4
+451,567af35fcbfa8f05d076a4d3,Eject Magazine,4.1
+452,567af35fcbfa8f05d076a51f,Plan B,
+453,54a74455e779892d5e5156ee,Burning Wasp,3.6
+454,56a7b2801133f656cb085d8c,Sharpened Bullets,7.8
+455,567af35fcbfa8f05d076a4ee,Ripper Rounds,
+456,54a73e65e779893a797fff63,Soma Prime Receiver,21.0
+457,54a74455e779892d5e5156f0,Reaping Spiral,2.5
+458,54a73e65e779893a797fff64,Soma Prime Stock,28.5
+459,567af35fcbfa8f05d076a4f3,Sharpened Blade,
+460,567af35fcbfa8f05d076a4fa,Strafing Slide,
+461,57222f1092cc365777a61c0d,Scimitar Set,29.6
+462,567af35fcbfa8f05d076a4fb,Surplus Diverters,
+463,5615432cb66f8371035bfa33,Cataclysmic Continuum,9.0
+464,56783f24cbfa8f0432dd8993,Braton Prime Set,9.6
+465,567af35fcbfa8f05d076a4ec,Relentless Assault,
+466,592dd262011e88f094afec89,Silva & Aegis Prime Hilt,5.7
+467,567af35fcbfa8f05d076a4cd,Calculated Spring,
+468,567af35fcbfa8f05d076a4cf,Comet Rounds,
+469,59a48b625cd9938cfede703a,Hydroid Prime Chassis Blueprint,8.2
+470,588bc3bcc353473a172364f2,Aklex Prime Blueprint,9.9
+471,588c7a51c353473a172364f4,Aklex Prime Set,59.2
+472,59a5c2565cd9938cfede703d,Ballistica Prime Blueprint,18.2
+473,54a74454e779892d5e5155c4,Tranquil Cleave,4.7
+474,54a74454e779892d5e515601,Link Health,9.0
+475,54a74454e779892d5e515602,Pack Leader,3.2
+476,54a74454e779892d5e515604,Soul Survivor,10.5
+477,54a74454e779892d5e515607,Thumper,20.8
+478,54a74455e779892d5e5156a6,Rush,3.0
+479,54a74455e779892d5e5156a9,Infected Clip,8.8
+480,54a74455e779892d5e5156af,Cleanse Infested,3.6
+481,54a74455e779892d5e5156b1,Blaze,88.7
+482,54a74455e779892d5e5156c8,Vacuum,3.3
+483,5bc24accb919f2010f7d579b,Energy Generator,47.0
+484,5be5f5a03ffcc7038857f108,Scarlet Hurricane,
+485,5be5f5a13ffcc7038857f110,Vicious Approach,
+486,5be5f5a23ffcc7038857f117,Frost Jaw,6.4
+487,5be5f5a23ffcc7038857f11d,Shock Collar,20.6
+488,5be701133ffcc703e462c706,Thrash Landing,15.2
+489,5ce7fd88d23a3b00908c4213,Motus Impact,4.8
+490,5ce7fd88d23a3b00908c4214,Aero Vantage,3.7
+491,5ce7fd88d23a3b00908c4215,Motus Setup,4.5
+492,5ce7fd88d23a3b00908c4216,Gale Kick,14.9
+493,5ce7fd89d23a3b00908c4217,Motus Signal,2.5
+494,5cf6390ff77f1401f37b3514,Deck 12 Scene,3.6
+495,5d21ce42f4604c012d1e0c0c,Ninkondi Prime Blueprint,4.8
+496,5d21ce43f4604c012d1e0c0d,Zhuge Prime Barrel,18.6
+497,5d21ce45f4604c012d1e0c10,Ninkondi Prime Handle,19.4
+498,5d21ce45f4604c012d1e0c11,Ninkondi Prime Set,60.2
+499,5d21ce48f4604c012d1e0c18,Wukong Prime Set,76.0
+500,54a73e65e779893a797fff5d,Scindo Prime Handle,6.4
+501,54a74454e779892d5e5155f6,Vile Precision,2.2
+502,54a74454e779892d5e5155f8,Parallax Scope,3.6
+503,54a74454e779892d5e5155fe,Vitality,7.4
+504,54a74454e779892d5e515609,Sniper Scavenger,15.8
+505,5ba9f2044567de01415f638d,Sunika Kubrow Imprint,14.2
+506,5ba9f2054567de01415f6391,Adarza Kavat Imprint,10.0
+507,5baa8bbf4567de01ac283493,Rubico Prime Barrel,9.2
+508,54a74455e779892d5e5156e2,Stormbringer,12.8
+509,551085b5e7798972a3b857aa,Arcane Eruption,3.1
+510,54aaf28ee7798969777a27a9,Arcane Vespa Helmet,109.0
+511,5526aec0e779896af941825a,Escape Velocity,12.0
+512,54a74454e779892d5e5155a4,Expel Infested,3.4
+513,5d322d0f74bdad027da4d06f,Gas City Cloud Vista Scene,
+514,54a74454e779892d5e5155c7,Combustion Rounds,6.7
+515,54a74454e779892d5e5155c9,Sniper Ammo Mutation,4.1
+516,54a73e65e779893a797fff7c,Loki Prime Blueprint,8.9
+517,54a74454e779892d5e51558f,Seeking Force,18.4
+518,54a74454e779892d5e515595,Target Cracker,12.9
+519,54a74454e779892d5e515598,Fleeting Expertise,12.1
+520,54a74454e779892d5e51559e,Critical Delay,15.0
+521,54a74455e779892d5e5156b4,Provoked,5.2
+522,54a74455e779892d5e5156b6,Spoiled Strike,6.1
+523,54a74455e779892d5e5156bc,Incendiary Coat,3.8
+524,54aaf2dfe779891cc44486b8,Arcane Coil Helmet,239.8
+525,59dfeb6c115f1d887cfd7abf,Augur Accord,4.1
+526,554d3f0ce779894445a848f6,Breach Loader,6.8
+527,561536d5b66f836f889b79bb,Dual Kamas Prime Blueprint,7.4
+528,561537e3b66f836f9fb6b4e8,Gaia's Tragedy,2.4
+529,54a73e65e779893a797fff49,Latron Prime Barrel,10.3
+530,5667568bf9001cd2824a6829,Karak Wraith Barrel,10.4
+531,5667576ddb7c7a568a8d45c1,Zenurik Lens,6.3
+532,566759c8db7c7a568a8d45c4,Agility Drift,3.7
+533,54a74454e779892d5e5155dd,Bite,19.2
+534,5526aec1e779896af9418262,Afterburn,10.4
+535,5526aec1e779896af9418264,Rising Storm,11.6
+536,56783f24cbfa8f0432dd899a,Ember Prime Set,88.5
+537,54a74454e779892d5e5155e0,Redirection,8.4
+538,56783f24cbfa8f0432dd899b,Fang Prime Set,12.0
+539,5526aec1e779896af9418265,Chilling Globe,12.8
+540,56783f24cbfa8f0432dd89a4,Mag Prime Set,80.5
+541,5526aec1e779896af9418266,Exothermic,11.7
+542,57bc9a40e506eb45ea251453,Nekros Prime Neuroptics Blueprint,24.6
+543,54a74455e779892d5e5156cc,Eagle Eye,4.8
+544,554d3c0ce7798942793d7e8a,Shield Overload,
+545,5615432bb66f8371035bfa25,Arc Coil,
+546,5615432bb66f8371035bfa26,Chaos Sphere,22.8
+547,5615432bb66f8371035bfa27,Hysterical Fixation,
+548,5615432bb66f8371035bfa2b,Defiled Reckoning,
+549,567af35fcbfa8f05d076a4d1,Crash Shot,
+550,59e203ce115f1d887cfd7ac6,Ammo Case,1.4
+551,58b57068eb26db5c31192113,Euphona Prime Set,39.0
+552,54a74454e779892d5e515645,Blade Of Truth,12.7
+553,54a74454e779892d5e515654,Focus Energy,7.4
+554,54a74454e779892d5e51565c,Hawk Eye,
+555,567af35fcbfa8f05d076a4de,No Current Leap,
+556,54a73e65e779893a797fff2b,Boar Prime Blueprint,6.4
+557,592dd262011e88f094afec81,Oberon Prime Set,74.1
+558,5783bf41d9b6753790c89e93,Centaur Blade,10.8
+559,54a74454e779892d5e51567d,Sweeping Serration,6.5
+560,5783bf59d9b6753790c89e98,Agkuza Blade,10.1
+561,54a74454e779892d5e51565f,Link Shields,6.3
+562,5ab167b7b2b6a80475780fab,Tiberon Prime Blueprint,3.8
+563,55a469a4e7798902410538b1,Prisma Dual Cleavers,55.3
+564,567af35fcbfa8f05d076a507,Directed Convergence,8.2
+565,56c3bbd55d2f0202da32e93b,Saryn Prime Blueprint,35.2
+566,54c686c9e7798913d9e63fff,Primed Heavy Trauma,115.2
+567,551085a6e77989729ab10a35,Arcane Awakening,9.0
+568,598b06b4ab6b61be6fec0fb3,Gamma Beacon,27.0
+569,566751b75dcbc186f0536bd5,Arcane Ultimatum,46.7
+570,56675641f9001cd2824a6824,Dera Vandal Blueprint,6.3
+571,590e255197a0add8e9d5da4b,Prisma Obex,77.3
+572,56783f24cbfa8f0432dd8990,Bo Prime Set,66.7
+573,56783f24cbfa8f0432dd8991,Boar Prime Set,79.6
+574,59a5cd4d5cd9938cfede7046,Ballistica Prime Receiver,7.2
+575,56783f24cbfa8f0432dd8992,Boltor Prime Set,47.3
+576,56aba30b8d6d183da42403c1,Strun Wraith Stock,11.8
+577,56aba3108d6d183da42403c2,Strun Wraith Set,63.5
+578,5a311f84c2c9e90dfff475f0,Kogake Prime Set,75.0
+579,5a311f85c2c9e90dfff475f6,Kogake Prime Gauntlet,20.4
+580,5ab1570db2b6a8044d5137c2,Zephyr Prime Blueprint,10.8
+581,5adf8729931bcf00574adc0f,Lato Vandal Set,270.6
+582,5adf8729931bcf00574adc11,Lato Vandal Blueprint,55.3
+583,5adf872a931bcf00574adc13,Lato Vandal Barrel,182.4
+584,5adf872a931bcf00574adc15,Braton Vandal Set,301.5
+585,5afdd5bc1a862a05ad817cf0,Grineer Settlement Artillery Scene,21.4
+586,5afdd5bc1a862a05ad817cf1,Kuva Fortress Crevice Scene,4.6
+587,5afdd5bc1a862a05ad817cf2,Grineer Sealab Centrifuge Scene,4.8
+588,5afdd5bc1a862a05ad817cf3,Artillery Battery Scene,
+589,5afdd5bd1a862a05ad817cf4,Lua Balcony Scene,
+590,5b00231bac0f7e006fd6f7b3,Reawaken,49.5
+591,58358a062c2ada0047b386f7,Valkyr Prime Neuroptics Blueprint,7.1
+592,5783bf4ad9b6753790c89e95,Centaur Handle,10.7
+593,59dfeb6c115f1d887cfd7ac0,Augur Message,5.2
+594,54a74455e779892d5e51568f,True Punishment,10.7
+595,5911f11d97a0add8e9d5da50,Entropy Detonation,9.6
+596,54a74454e779892d5e5155c0,Rending Crane,6.9
+597,567af35fcbfa8f05d076a4c8,Air Recon,5.0
+598,58358e192c2ada00655a4ef4,Venka Prime Blueprint,5.8
+599,58b57068eb26db5c31192112,Euphona Prime Blueprint,4.3
+600,5783bf4ed9b6753790c89e96,Onorix Handle,9.9
+601,54a74454e779892d5e5155c1,Point Blank,2.2
+602,54a74455e779892d5e5156c1,Reflection,
+603,59e23a55115f1d887cfd7ac7,Stinging Thorn,14.8
+604,57c05949d0d9ef638234e4ac,Shotgun Amp,6.6
+605,5c1bda1314a8e4006b1dad81,Magus Anomaly,8.8
+606,561536e4b66f836f8e15eb18,Dual Kamas Prime Handle,8.5
+607,5c1bda1414a8e4006b1dad83,Virtuos Surge,43.5
+608,5c1bda1414a8e4006b1dad84,Marked Target,11.3
+609,57c05949d0d9ef638234e4ad,Empowered Blades,32.1
+610,56153730b66f836f9488bcce,Kavasa Prime Buckle,18.2
+611,5c1bda1514a8e4006b1dad86,Strain Eruption,13.1
+612,57c05949d0d9ef638234e4ae,Stand United,6.0
+613,56153734b66f836f976f5501,Kavasa Prime Band,7.5
+614,5bd05ace3ffcc700eb7cfcfa,Kuva Throne Scene,80.8
+615,5bd05ad03ffcc700eb7cfcfe,Sanctuary Conduit Scene,
+616,5be5f5a03ffcc7038857f105,Venom Teeth,13.9
+617,5be5f5a13ffcc7038857f10e,Rising Steel,
+618,5be5f5a23ffcc7038857f122,Piercing Fury,
+619,5be5f5a43ffcc7038857f12b,Star Amarast,1.2
+620,5be7010f3ffcc703e462c6ff,Venerdo Hoverdrive,24.0
+621,5be701103ffcc703e462c700,Trail Blazer,
+622,5be701103ffcc703e462c701,Scan Matter,
+623,5be701103ffcc703e462c702,Kinetic Friction,
+624,5be701113ffcc703e462c703,Scan Aquatic Lifeforms,
+625,5be701133ffcc703e462c707,Air Time,21.5
+626,5be701153ffcc703e462c70a,Rail Guards,29.2
+627,5be701153ffcc703e462c70b,Assault Mode,3.3
+628,5be701153ffcc703e462c70c,Mag Locks,24.2
+629,5be701153ffcc703e462c70d,Inertia Dampeners,19.3
+630,5bebf1713ffcc704caf38cf4,Akvasto Prime Set,96.4
+631,554d3af4e77989420d3de2a4,Perpetual Agony,4.8
+632,55a4692be77989021897043b,Armored Agility,3.3
+633,56a7b2531133f656cb085d86,Body Count,12.5
+634,55a46c43e77989032fa38f11,Arcane Deflection,1.5
+635,56a7b2581133f656cb085d87,Weeping Wounds,25.6
+636,54a73e65e779893a797fff23,Akbronco Prime Link,3.7
+637,55c15393e779895d5e78e215,Vermillion Storm,26.1
+638,56a7b25f1133f656cb085d88,Maiming Strike,4.3
+639,54a74455e779892d5e515691,Investigator,9.8
+640,55c153b7e779895d77556bb1,Firewalker,2.4
+641,56a7b2661133f656cb085d89,Hydraulic Crosshairs,23.6
+642,55c153cce779895d862007bf,Toxic Flight,5.0
+643,56a7b27a1133f656cb085d8b,Laser Sight,7.2
+644,54a74455e779892d5e515693,Smite Infested,7.0
+645,54a74454e779892d5e5155eb,Venom Dose,12.1
+646,55c153dae779895d91dff3bb,Rending Turn,5.4
+647,55c15430e779895dc0c17945,Seismic Wave,7.3
+648,54a73e65e779893a797fff3f,Dakra Prime Handle,8.0
+649,54a74455e779892d5e515696,Expel Grineer,3.8
+650,54a73e65e779893a797fff61,Soma Prime Barrel,13.2
+651,54a73e65e779893a797fff6e,Mag Prime Neuroptics Blueprint,12.7
+652,54c6869ae7798913ca68c3dd,Primed Fast Hands,51.0
+653,59e91860f25be4e10d365720,Furax Wraith Set,13.9
+654,54a74454e779892d5e5155b2,Dead Eye,20.9
+655,595567c18e34b5ed3cb3d9b9,Melee Riven Mod (Veiled),24.3
+656,54a74454e779892d5e5155d0,Corrosive Projection,14.1
+657,58701655937cde2c9d378ac3,Pistol Riven Mod (Veiled),5.9
+658,54a74454e779892d5e5155d2,Heavy Trauma,8.2
+659,5a0475086c4655012038ddc0,Exodia Valor,
+660,54a74455e779892d5e5156f2,Charged Chamber,3.3
+661,54e0c9eee7798903744178ad,Tidal Impunity,14.6
+662,5526aec0e779896af941825c,Piercing Caliber,35.8
+663,54aaf312e779893b99bd67bd,Arcane Backdraft Helmet,88.8
+664,55c15448e779895dccdabe9c,Adhesive Blast,3.0
+665,554d3f0ce779894445a848fa,Kinetic Collision,
+666,56dac5b85cc639de0a45c529,Thundermiter,
+667,54a74454e779892d5e515606,Finishing Touch,3.6
+668,56dac5bc5cc639de0a45c52a,Static Alacrity,
+669,559daaa7e779897b35d626c6,Ash Prime Chassis Blueprint,14.3
+670,57bc9c84e506eb45ea251459,Tigris Prime Blueprint,18.5
+671,56dac5c05cc639de0a45c52b,Emergent Aftermath,
+672,54a74454e779892d5e51560a,Fortitude,3.8
+673,559daaafe779897b399db0fd,Ash Prime Systems Blueprint,29.5
+674,54a73e65e779893a797fff7b,Mag Prime Systems Blueprint,15.3
+675,55a46992e77989023be347fe,Prisma Grakata,82.0
+676,55c153afe779895d6f802d7a,Mobilize,4.0
+677,559daaefe779897b5a2d3551,Vectis Prime Receiver,38.3
+678,54a74454e779892d5e5155aa,Automatic Trigger,6.0
+679,5754a31be701ef5844257dab,Armored Recovery,
+680,57dbdc525e334907aa8edb55,Vaykor Sydon,29.4
+681,54a74454e779892d5e5155b1,Slip Magazine,
+682,54a74454e779892d5e515613,Homing Fang,4.2
+683,55a46a58e77989027c23b89c,Arcane Grace,23.0
+684,54a74454e779892d5e515614,Maul,5.6
+685,5758ae0842ba8659dde2f571,Enhanced Vitality,38.3
+686,54a73e65e779893a797fff29,Bo Prime Ornament,22.6
+687,56675652f9001cd2824a6826,Dera Vandal Receiver,10.6
+688,56783f24cbfa8f0432dd898e,Ankyros Prime Set,55.8
+689,54a74454e779892d5e5155db,Vile Acceleration,8.0
+690,54a74454e779892d5e51560e,Barrel Diffusion,4.5
+691,54a74454e779892d5e51563a,Whirlwind,4.5
+692,54a74454e779892d5e51563b,Antitoxin,6.4
+693,54a74454e779892d5e51563c,Disruptor,
+694,54a74454e779892d5e51563d,Heavy Caliber,8.4
+695,54a74454e779892d5e51563e,Piercing Hit,3.8
+696,54a74454e779892d5e515642,Continuity,5.2
+697,54a74454e779892d5e51564e,Tainted Clip,1.6
+698,54a74454e779892d5e515658,Shock Trooper,10.9
+699,54a74455e779892d5e51568e,Flow,2.2
+700,54a74455e779892d5e515698,Critical Deceleration,8.4
+701,54ca4330e779891a286a5428,Wyrm Prime Carapace,14.4
+702,54e0c9eee7798903744178ae,Healing Flame,11.2
+703,56153836b66f836fa7d42c8c,Atlantis Vulcan,4.2
+704,56153f21b66f83707a67c0b4,Prisma Tetra,62.4
+705,5615432bb66f8371035bfa2a,Sonic Fracture,13.8
+706,56783f24cbfa8f0432dd89a9,Paris Prime Set,11.3
+707,56783f24cbfa8f0432dd89af,Trinity Prime Set,69.6
+708,59dfeb63115f1d887cfd7aba,Vigilante Armaments,6.0
+709,592dd262011e88f094afec82,Sybaris Prime Blueprint,4.7
+710,58f0ee99aa4b70452a173072,Beguiling Lantern,11.1
+711,59a5c2565cd9938cfede703e,Ballistica Prime Set,74.9
+712,5a04750a6c4655012038ddc6,Virtuos Fury,15.2
+713,5a04750a6c4655012038ddc7,Virtuos Null,11.4
+714,5a04750b6c4655012038ddc8,Virtuos Tempo,6.2
+715,5a04750b6c4655012038ddc9,Exodia Force,9.1
+716,5a04750e6c4655012038ddd0,Virtuos Ghost,24.0
+717,59385f6716efa3a742b15f60,Chromatic Blade,10.5
+718,595567c18e34b5ed3cb3d9bb,Expel Corrupted,11.0
+719,59dfeb5c115f1d887cfd7ab3,Gladiator Aegis,4.0
+720,5911f11d97a0add8e9d5da4d,Neutralizing Justice,12.5
+721,5be5f5a23ffcc7038857f123,Radiant Zodian,2.1
+722,5be5f5a43ffcc7038857f12f,Biting Piranha,
+723,5d21ce46f4604c012d1e0c12,Wukong Prime Blueprint,36.9
+724,5d21ce46f4604c012d1e0c13,Wukong Prime Systems Blueprint,11.7
+725,5d21ce47f4604c012d1e0c14,Zhuge Prime String,7.9
+726,54a74454e779892d5e515664,Gilded Truth,10.3
+727,54a74454e779892d5e51566b,Link Armor,8.7
+728,54a74455e779892d5e5156d6,Sure Footed,11.0
+729,54a74454e779892d5e51566c,Bleeding Willow,4.0
+730,54a74454e779892d5e51566d,Undying Will,2.6
+731,54a74455e779892d5e5156dd,Iron Phoenix,8.4
+732,54a74454e779892d5e51566e,Pointed Wind,7.3
+733,54a74455e779892d5e5156de,Stabilizer,3.8
+734,54a74454e779892d5e51566f,Rifle Scavenger,14.4
+735,54a74455e779892d5e5156df,Quickening,15.3
+736,54a74454e779892d5e515670,Rubedo-Lined Barrel,3.6
+737,54a74455e779892d5e5156e0,Sundering Strike,2.3
+738,5b00231bac0f7e006fd6f7b4,Negate,46.4
+739,5b00231cac0f7e006fd6f7b5,Peculiar Growth,39.0
+740,5b2985e0eb069f04ea65b0d8,Destreza Prime Blade,30.6
+741,5be4b0a53ffcc703294e76b3,Mecha Empowered,6.5
+742,5be4b0a53ffcc703294e76b7,Mecha Pulse,4.6
+743,5be5f59e3ffcc7038857f0f9,Mafic Rain,
+744,5be5f59f3ffcc7038857f0fe,Crashing Timber,
+745,5be5f5a03ffcc7038857f106,Tainted Hydra,
+746,5be5f5a13ffcc7038857f10b,Lashing Coil,
+747,54a74454e779892d5e51561f,Regen,3.0
+748,588c7923c353473a172364f3,Aklex Prime Link,47.4
+749,54a74454e779892d5e515625,Speed Trigger,16.8
+750,59dfeb6c115f1d887cfd7ac3,Augur Secrets,18.5
+751,58e6407ada6e257f670cf06c,Cressa's Garrison Scene,26.0
+752,58e6407ada6e257f670cf06a,Arbiter's Tribunal Scene,41.0
+753,59ecb664195d2301ee11c929,Grineer Forest Industry Scene,11.4
+754,58b57068eb26db5c3119210d,Banshee Prime Systems Blueprint,18.5
+755,54a74454e779892d5e515636,Arrow Mutation,3.5
+756,59a48b625cd9938cfede7038,Hydroid Prime Blueprint,11.8
+757,5754a300e701ef5844257da6,Hastened Deflection,7.3
+758,5c4050e32cc6ce023b79c0f1,Infectious Injection,14.2
+759,5c8694862cc6ce0bbc095d9d,Wise Razor,13.9
+760,5ca28670fc2db2035eae05a0,Equinox Prime Systems Blueprint,26.6
+761,5cc4816afc2db2099c1804cd,Archgun Riven Mod (Veiled),19.2
+762,54a73e65e779893a797fff55,Paris Prime Blueprint,2.5
+763,5754a307e701ef5844257da7,Resonating Quake,11.8
+764,54a74454e779892d5e515675,Flailing Branch,3.9
+765,54a74454e779892d5e5155ac,Frostbite,16.2
+766,5d322d1174bdad027da4d096,Gas City Central Drop Scene,4.8
+767,5d6ea67e7ea27b05d929cc04,Lua Unairu Lens,29.0
+768,5d8765dd7ea27b08950c13b6,Shepherd,5.4
+769,5bebf1713ffcc704caf38cf5,Orokin Tower Extraction Scene,
+770,5c1bda1814a8e4006b1dad8a,Deadly Efficiency,8.6
+771,5c1bda1914a8e4006b1dad8c,Virtuos Forge,73.6
+772,5bebf1713ffcc704caf38cf6,Akvasto Prime Blueprint,59.3
+773,5bebf1713ffcc704caf38cf7,Akvasto Prime Link,23.7
+774,5c1bda1914a8e4006b1dad8d,Contamination Casing,9.9
+775,5bebf1713ffcc704caf38cf8,Onkko's Command Post Scene,35.2
+776,5870156c937cde2c9d378ac0,Flux Overdrive,2.4
+777,5783bf54d9b6753790c89e97,Onorix Blade,10.4
+778,58358e1d2c2ada00655a4ef7,Venka Prime Set,104.7
+779,54a74455e779892d5e5156c2,Suppress,2.8
+780,54a74454e779892d5e5155cd,Target Fixation,14.6
+781,54a74454e779892d5e5155ce,Maglev,3.8
+782,54a74454e779892d5e5155df,Cleanse Grineer,16.1
+783,567af35fcbfa8f05d076a512,Heightened Reflexes,
+784,54a74454e779892d5e5155e2,Hunt,4.4
+785,54a73e65e779893a797fff51,Orthos Prime Blueprint,4.0
+786,54a74454e779892d5e5155e4,Hall Of Malevolence,10.7
+787,54a74454e779892d5e5155e6,Smite Grineer,
+788,54a74454e779892d5e5155e7,Firestorm,5.6
+789,54a74454e779892d5e5155e8,Bane Of Corpus,3.0
+790,54a74454e779892d5e5155e9,Berserker Fury,7.1
+791,54a74455e779892d5e5156d7,Curative Undertow,16.1
+792,567af35fcbfa8f05d076a51a,Loose Magazine,
+793,54a74455e779892d5e5156d8,Life Strike,3.3
+794,54a74454e779892d5e5155ea,Handspring,4.4
+795,54a73e65e779893a797fff53,Paris Prime Grip,3.8
+796,567af35fcbfa8f05d076a51b,Lucky Shot,
+797,54a74455e779892d5e5156db,Electrified Barrel,10.6
+798,567af35fcbfa8f05d076a51c,Maximum Capacity,
+799,584470092c2ada00787e0888,Savior Decoy,15.4
+800,54a74455e779892d5e5156dc,Stalking Fan,9.0
+801,5992f2fa6a92654847b8df2a,Primed Bane Of Corrupted,70.1
+802,54a74455e779892d5e5156e4,Warm Coat,922.8
+803,54a74455e779892d5e5156e5,Tainted Mag,2.7
+804,567af35fcbfa8f05d076a523,Tactical Retreat,
+805,54a74454e779892d5e51568a,Bright Purity,23.5
+806,54a74455e779892d5e51569d,Frigid Blast,12.6
+807,56dac5b45cc639de0a45c528,Shrapnel Rounds,11.5
+808,54a74454e779892d5e515593,Bleeding Edge,4.2
+809,5bf54b483ffcc7066e7eb855,Pax Seeker,30.9
+810,5c182b739603780081b09a55,Mesa Prime Blueprint,5.9
+811,5ca28670fc2db2035eae05a5,Equinox Prime Neuroptics Blueprint,6.7
+812,5c196fae96037800ddadac16,Redeemer Prime Blueprint,5.0
+813,5c1bda0d14a8e4006b1dad6e,Virtuos Spike,
+814,5ca28670fc2db2035eae059f,Tipedo Prime Blueprint,5.3
+815,567af35fcbfa8f05d076a4f1,Serrated Edges,
+816,54a74454e779892d5e515591,Flame Repellent,
+817,570e384396c62ba9d1795d21,Quanta Vandal,57.8
+818,54c6860ce7798913933a7a43,Mara Detron,52.6
+819,54a74454e779892d5e515597,Shock Absorbers,3.0
+820,54a73e65e779893a797fff38,Bronco Prime Receiver,3.8
+821,54d4c752e77989282cc8b0a0,Mutalist Alad V Nav Coordinate,8.1
+822,54a73e65e779893a797fff3a,Burston Prime Blueprint,4.6
+823,567af35fcbfa8f05d076a4f6,Soft Hands,4.2
+824,567af35fcbfa8f05d076a4f7,Spring-Loaded Broadhead,17.8
+825,54e0c9eee7798903744178ab,Rift Torrent,15.3
+826,54a73e65e779893a797fff3c,Burston Prime Stock,1.8
+827,567af35fcbfa8f05d076a4fc,Sword Alone,
+828,567af35fcbfa8f05d076a4fd,Tactical Reload,5.0
+829,54a73e65e779893a797fff46,Hikou Prime Blueprint,5.2
+830,567af35fcbfa8f05d076a4fe,Tear Gas,
+831,554d3f0ce779894445a848fc,Primed Slip Magazine,45.4
+832,554d3f0ce779894445a848fd,Shelter,4.7
+833,54a74455e779892d5e5156e1,Gemini Cross,2.4
+834,54a74454e779892d5e515671,Rupture,
+835,54aaefabe779892ce54c8980,Arcane Vanguard Helmet,423.8
+836,5729bd18cb59ed5a9b484e92,Fomorian Accelerant,7.2
+837,54c68672e7798913ba044082,Primed Flow,34.9
+838,5740c1679d238d4a03d28514,Imperator Vandal Blueprint,8.0
+839,54dd276ee7798934e7afad13,Primed Pistol Ammo Mutation,49.0
+840,54aaefc3e779893b1ffe451d,Arcane Pendragon Helmet,269.0
+841,54dd278ae7798934ecce4f0a,Prisma Veritux,83.6
+842,54e0c9eee7798903744178a9,Resonance,16.4
+843,54e0c9eee7798903744178af,Ballistic Bullseye,10.9
+844,55244820e779890907ef6805,Volt Prime Blueprint,24.4
+845,58f0ee99aa4b70452a173073,Piercing Navigator,12.5
+846,5d322d0f74bdad027da4d06e,Gas City Alad's Laboratory Scene,
+847,54a74454e779892d5e5155d3,Magnum Force,4.0
+848,54a74455e779892d5e51569f,Expel Corpus,4.0
+849,54a73e65e779893a797fff7e,Ember Prime Chassis Blueprint,21.2
+850,5667519a5dcbc186f0536bd4,Arcane Tempo,1.9
+851,5667576ddb7c7a568a8d45bf,Madurai Lens,4.6
+852,5667576ddb7c7a568a8d45c3,Unairu Lens,3.0
+853,566759c8db7c7a568a8d45c6,Cunning Drift,8.5
+854,566759c8db7c7a568a8d45c7,Endurance Drift,3.5
+855,54e644ffe779897594fa68d2,Abating Link,14.8
+856,566759c8db7c7a568a8d45c8,Power Drift,7.2
+857,566759c8db7c7a568a8d45c9,Speed Drift,18.2
+858,54e64500e779897594fa68d4,Hallowed Eruption,11.5
+859,566759c8db7c7a568a8d45ca,Stealth Drift,2.6
+860,54a73e65e779893a797fff78,Rhino Prime Chassis Blueprint,10.2
+861,54a74454e779892d5e5155d9,Cutting Edge,82.0
+862,54e64500e779897594fa68d5,Iron Shrapnel,12.1
+863,56783f24cbfa8f0432dd898d,Akbronco Prime Set,9.6
+864,54a74454e779892d5e5155da,Contagious Spread,5.0
+865,55108594e77989728d5100c6,Arcane Agility,14.2
+866,5526aec1e779896af941825f,Piercing Roar,12.6
+867,56783f24cbfa8f0432dd8996,Carrier Prime Set,80.3
+868,5526aec1e779896af9418260,Hushed Invisibility,11.8
+869,56783f24cbfa8f0432dd8997,Dakra Prime Set,37.2
+870,5526aec1e779896af9418261,Pilfering Swarm,10.5
+871,54a74454e779892d5e5155dc,Diamond Skin,4.0
+872,56783f24cbfa8f0432dd8998,Dera Vandal Set,38.2
+873,54a74454e779892d5e5155e3,Toxic Sequence,16.0
+874,57962daf19aaba0b00a9b1b1,Latron Wraith Blueprint,15.8
+875,57962daf19aaba0b00a9b1b2,Latron Wraith Receiver,16.2
+876,57962daf19aaba0b00a9b1b3,Latron Wraith Stock,26.7
+877,57962daf19aaba0b00a9b1b4,Latron Wraith Set,87.3
+878,57b4e5486f6b2fda8ea6caa0,Territorial Aggression,5.4
+879,57b4e5486f6b2fda8ea6caa1,Swipe,4.8
+880,57b4e5486f6b2fda8ea6caa2,Pounce,4.0
+881,57b4e5486f6b2fda8ea6caa3,Sharpened Claws,2.6
+882,57bc948ae506eb45ea25144e,Twin Vipers Wraith Link,12.1
+883,57bc948ae506eb45ea25144f,Twin Vipers Wraith Receivers,13.0
+884,57bc94bae506eb45ea251450,Twin Vipers Wraith Set,50.7
+885,54a74455e779892d5e5156c6,Enemy Radar,18.4
+886,57bc9a40e506eb45ea251452,Nekros Prime Chassis Blueprint,9.5
+887,5d8765de7ea27b08950c13b8,Arcane Bodyguard,3.4
+888,5d8765de7ea27b08950c13bf,Arcane Primary Charger,53.6
+889,5d8765de7ea27b08950c13c0,Swift Momentum,8.1
+890,5d8765de7ea27b08950c13c1,Combat Discipline,6.3
+891,5d8765de7ea27b08950c13c4,Arcane Blade Charger,4.7
+892,5d8765df7ea27b08950c13c8,Melee Guidance,7.9
+893,5d9385b17ea27b0a28fd75b8,Atlas Prime Chassis Blueprint,5.8
+894,5d93ca107ea27b0a87566f5f,Dethcube Prime Carapace,4.7
+895,5d93ca107ea27b0a87566f62,Dethcube Prime Cerebrum,17.0
+896,5d93ca117ea27b0a87566f65,Tekko Prime Gauntlet,6.6
+897,5d93ca117ea27b0a87566f6a,Dethcube Prime Blueprint,12.5
+898,5d93ca117ea27b0a87566f6b,Dethcube Prime Set,48.0
+899,54a74455e779892d5e515695,Glacial Edge,5.4
+900,54a74455e779892d5e5156ae,Organ Shatter,11.6
+901,5b2987abeb069f0536234279,Limbo Prime Systems Blueprint,4.7
+902,5dbe9b077ea27b0ffe3ca268,Runtime,9.2
+903,5dbe9b137ea27b0ffe3ca286,Hit And Run,3.2
+904,5df8b0ab1456970087cd9b01,Ivara Prime Neuroptics Blueprint,5.7
+905,5df8b0ab1456970087cd9b02,Ivara Prime Chassis Blueprint,32.9
+906,5df8b0ac1456970087cd9b03,Ivara Prime Systems Blueprint,8.0
+907,5df955121456970150510f21,Baza Prime Blueprint,9.8
+908,5df955121456970150510f22,Baza Prime Set,63.9
+909,5df955131456970150510f23,Aksomati Prime Set,74.8
+910,5df955131456970150510f24,Aksomati Prime Link,23.6
+911,5df955131456970150510f25,Baza Prime Stock,25.6
+912,5df955131456970150510f26,Aksomati Prime Receiver,7.1
+913,5baa8bbf4567de01ac283492,Gram Prime Handle,14.1
+914,54dd265ce7798934d026f6fc,Primed Reach,38.7
+915,5b50a3ad3a84fd02a782324c,Warding Thurible,18.0
+916,58b57068eb26db5c31192118,Helios Prime Blueprint,5.8
+917,54a74455e779892d5e5156e6,Terminal Velocity,4.0
+918,54a74455e779892d5e5156e7,Ice Storm,2.5
+919,592c30c5011e88f094afec7c,Cyclone Kraken,20.2
+920,5667568bf9001cd2824a682a,Karak Wraith Receiver,13.8
+921,58f0efdfaa4b70452a173076,Orvius Disc,1.0
+922,5667576ddb7c7a568a8d45c0,Vazarin Lens,3.5
+923,54a74455e779892d5e5156ed,Sinking Talon,3.9
+924,56dac8d25cc639de0a45c52d,Health Conversion,52.5
+925,54a74455e779892d5e5156f4,Reflex Coil,3.3
+926,54a73e65e779893a797fff67,Vasto Prime Receiver,9.1
+927,567af35fcbfa8f05d076a4f0,Searing Leap,
+928,54a74454e779892d5e5155f7,Loot Detector,22.2
+929,54e644ffe779897594fa68cc,Repelling Bastille,11.9
+930,54a74454e779892d5e515590,Hollowed Bullets,11.5
+931,571955b94445c3e28b80fc80,Scimitar Engines Blueprint,10.0
+932,54a74454e779892d5e515615,Ironclad Charge,12.7
+933,58e6407ada6e257f670cf071,Veil's Binding Scene,26.6
+934,5c1bda2014a8e4006b1dad98,Magus Drive,170.3
+935,5c1bd9fd14a8e4006b1dad50,Quick Reload,8.3
+936,5c1bda0714a8e4006b1dad61,Strain Fever,12.9
+937,5c1bda0a14a8e4006b1dad67,Archgun Ace,12.7
+938,5c1bda0c14a8e4006b1dad6a,Mad Stack,22.0
+939,5cb04869fc2db2068006980f,Teeming Virulence,12.7
+940,5c1e62d3817a0d0092fb160a,Fortuna Scene,84.6
+941,5ca28670fc2db2035eae059d,Tipedo Prime Ornament,13.5
+942,5ca28670fc2db2035eae05a3,Stradavar Prime Receiver,6.0
+943,5703ed10a064f4ab755dc139,Snipetron Vandal Barrel,14.0
+944,54aaf259e7798948f1b718c7,Arcane Scorpion Helmet,63.6
+945,54ca4329e779891a21d036bd,Wyrm Prime Cerebrum,13.3
+946,567af35fcbfa8f05d076a4f8,Spry Sights,5.6
+947,54a74454e779892d5e515619,Targeting Receptor,
+948,58d8f22a11efe42a5e5231fe,Ayatan Valana Sculpture,3.7
+949,54a74454e779892d5e5155c2,Bane Of Infested,3.1
+950,54a74454e779892d5e5155c3,Shocking Touch,4.5
+951,5783bf69d9b6753790c89e9b,Cyngas Barrel,9.8
+952,54a74454e779892d5e5155c8,Sprint Boost,22.6
+953,5783bf71d9b6753790c89e9d,Cyngas Stock,12.3
+954,54a74455e779892d5e5156cb,Furious Javelin,11.9
+955,54a73e65e779893a797fff4e,Lex Prime Blueprint,3.2
+956,585a925a2c2ada004285df01,Draining Gloom,
+957,5d322d0f74bdad027da4d07a,Gas City Elemental Refinement Scene,8.8
+958,54a74455e779892d5e5156c9,Hellfire,3.5
+959,585a93312c2ada00552edf0f,Precision Munition,
+960,54a74455e779892d5e5156cd,Argon Plating,
+961,56463b04b66f83585da94c6a,Corpus Void Key,1198.0
+962,56783f24cbfa8f0432dd899e,Hikou Prime Set,58.0
+963,54a74454e779892d5e5155fc,Seeker,3.7
+964,54a74455e779892d5e515694,Molten Impact,11.4
+965,54a73e65e779893a797fff52,Orthos Prime Handle,2.8
+966,54a73e65e779893a797fff58,Reaper Prime Blade,8.1
+967,54a74455e779892d5e5156a0,Rending Strike,2.3
+968,54a74455e779892d5e5156ba,Ammo Stock,5.7
+969,54a74455e779892d5e5156bb,Self Destruct,3.6
+970,56a7b2941133f656cb085d90,Spring-Loaded Chamber,7.4
+971,54a74455e779892d5e5156bd,Accelerated Blast,2.9
+972,54a73e65e779893a797fff5c,Scindo Prime Blueprint,5.4
+973,54a74455e779892d5e5156d0,Tainted Shell,2.6
+974,54a74455e779892d5e5156d2,Stinging Truth,12.0
+975,56a7b2991133f656cb085d91,Repeater Clip,9.0
+976,54a74455e779892d5e5156d5,Killing Blow,3.3
+977,56a7b29e1133f656cb085d92,Embedded Catalyzer,4.5
+978,54a74454e779892d5e5155ec,Magma Chamber,10.2
+979,54a74454e779892d5e5155f1,Rebound,4.2
+980,56dac58b5cc639de0a45c521,Discharge Strike,
+981,54aaf21ee7798925c9182cee,Arcane Storm Helmet,273.8
+982,54a74454e779892d5e5155f2,Reach,3.2
+983,56dac5985cc639de0a45c524,Anti-Flak Plating,
+984,59eba86952f90ed715e14155,Tear Azurite,1.1
+985,58701655937cde2c9d378ac2,Shotgun Riven Mod (Veiled),11.4
+986,5a0475076c4655012038ddbe,Magus Cadence,48.4
+987,5a0475086c4655012038ddc1,Exodia Brave,53.3
+988,5a0475096c4655012038ddc2,Exodia Hunt,42.3
+989,5a0475096c4655012038ddc3,Exodia Triumph,47.1
+990,5a0475096c4655012038ddc4,Magus Nourish,29.5
+991,5a04750a6c4655012038ddc5,Virtuos Shadow,16.0
+992,54a73e65e779893a797fff7a,Ember Prime Systems Blueprint,10.7
+993,54a73e65e779893a797fff7d,Frost Prime Chassis Blueprint,14.4
+994,54a73e65e779893a797fff7f,Rhino Prime Systems Blueprint,8.4
+995,54a73e65e779893a797fff81,Ember Prime Blueprint,24.6
+996,54a74454e779892d5e5155a0,Eroding Blight,10.2
+997,54a74454e779892d5e515666,Deadly Sequence,13.0
+998,54a74454e779892d5e515669,Fever Strike,3.0
+999,54a74454e779892d5e51566a,Sawtooth Clip,
+1000,54aaf140e779891f6ee18f9c,Arcane Essence Helmet,129.9
+1001,54aaf1a2e77989598d22c782,Arcane Locust Helmet,104.0
+1002,5526aec0e779896af941825d,Tempo Royale,9.6
+1003,59eba86952f90ed715e14159,Radian Sentirum,1.8
+1004,54c686fee7798913eda0615b,Prisma Gorgon,88.9
+1005,56dac5ac5cc639de0a45c526,Brain Storm,11.8
+1006,54ca4260e7798919a4e9b429,High Noon,9.1
+1007,54a74454e779892d5e5155f5,Scattered Justice,9.0
+1008,54a74454e779892d5e5155fd,Brutal Tide,3.9
+1009,554d3f0ce779894445a848fb,Funnel Clouds,12.7
+1010,559daa9fe779897b3263c2c7,Ash Prime Blueprint,16.9
+1011,5783bf2dd9b6753790c89e8f,Decurion Receiver,9.6
+1012,54a74454e779892d5e5155bb,Toxic Blight,9.3
+1013,56153727b66f836f91a8e849,Kavasa Prime Kubrow Collar Blueprint,6.0
+1014,57e91e5cc76eb74c087f492c,Ayatan Cyan Star,1.2
+1015,54a74454e779892d5e5155bc,Fatal Acceleration,2.9
+1016,5783bf32d9b6753790c89e90,Phaedra Barrel,10.2
+1017,54a74454e779892d5e515646,Thief's Wit,12.0
+1018,59e91860f25be4e10d36571e,Furax Wraith Left Gauntlet,6.1
+1019,54a74454e779892d5e5155bd,Melee Prowess,2.2
+1020,57e91e5cc76eb74c087f492d,Ayatan Amber Star,1.8
+1021,54a74454e779892d5e515662,Prolonged Paralysis,17.6
+1022,584160cd43e4267b5b699191,Rifle Riven Mod (Veiled),28.1
+1023,567af35fcbfa8f05d076a4d6,Flak Shot,
+1024,567af35fcbfa8f05d076a4d7,Follow Through,
+1025,54a74454e779892d5e5155cb,Quickdraw,
+1026,58446fac2c2ada005650f88f,Guardian Derision,3.5
+1027,58446fc72c2ada0064aca003,Icy Avalanche,14.0
+1028,598b06b4ab6b61be6fec0fb6,Vay Hek Frequency Triangulator,
+1029,5ce7fd85d23a3b00908c4206,Whiplash Mine,
+1030,5ce7fd86d23a3b00908c4207,Odomedic,13.8
+1031,5ce7fd86d23a3b00908c4209,Proton Jet,4.4
+1032,5ce7fd86d23a3b00908c420a,Security Override,
+1033,5ce7fd87d23a3b00908c420e,Rift Haven,11.9
+1034,56153f3bb66f83707da7eef9,Machete Wraith,49.3
+1035,57c20990022d3f62c0d81aa8,Safeguard,11.8
+1036,56153f4cb66f837080b7120d,Prova Vandal,64.7
+1037,57c20990022d3f62c0d81aa9,Path Of Statues,14.4
+1038,5615432bb66f8371035bfa22,Contagion Cloud,10.2
+1039,56783f24cbfa8f0432dd89aa,Reaper Prime Set,43.3
+1040,57c73be094b4b0f159ab5e15,Immolated Radiance,12.0
+1041,573b7fbd0ec44a47787a690d,Vauban Prime Blueprint,20.5
+1042,559daad1e779897b4be73862,Carrier Prime Carapace,10.1
+1043,567af35fcbfa8f05d076a50d,Full Capacity,
+1044,59385f6716efa3a742b15f5f,Magnetized Discharge,14.9
+1045,54a73e65e779893a797fff25,Ankyros Prime Blueprint,6.4
+1046,5953f8e78e34b5ed3cb3d9b8,Inaros Tomb Scene,
+1047,54a73e65e779893a797fff2a,Boar Prime Barrel,8.3
+1048,592dd262011e88f094afec7f,Oberon Prime Chassis Blueprint,8.8
+1049,567af35fcbfa8f05d076a4dd,Lock And Load,4.3
+1050,58e6407ada6e257f670cf06e,Lunaro Arena Scene,
+1051,592dd262011e88f094afec8a,Silva & Aegis Prime Blade,6.7
+1052,551085bce7798972a9b2fc6e,Arcane Guardian,9.5
+1053,54a73e65e779893a797fff2f,Boltor Prime Blueprint,13.6
+1054,5615432bb66f8371035bfa2c,Fast Deflection,4.2
+1055,592dd262011e88f094afec86,Sybaris Prime Set,53.1
+1056,592dd262011e88f094afec80,Oberon Prime Systems Blueprint,12.3
+1057,5df955141456970150510f29,Baza Prime Receiver,5.2
+1058,5dfea13a1456970294aff353,Primed Smite Infested,35.3
+1059,5dfea13d1456970294aff363,Shedu Barrel,14.3
+1060,5dfea1421456970294aff37f,Shedu Receiver,15.4
+1061,5dfea1431456970294aff388,Primed Smite Corpus,43.5
+1062,5dfea1441456970294aff38c,Sentient Fountain Scene,
+1063,5dfea1481456970294aff3a3,Shedu Set,67.4
+1064,5dfea1491456970294aff3a5,Shedu Chassis,14.8
+1065,5dff6e1014569703166749e6,Void Cloak,4.2
+1066,5dff6e1014569703166749f8,Squad Renew,8.8
+1067,5dff6e1014569703166749fd,Section Density,3.0
+1068,5dff6e101456970316674a01,Flow Burn,4.2
+1069,54e0c9eee7798903744178a8,Surging Dash,12.2
+1070,5b91784d0566c80216658ce8,Conductor,11.6
+1071,5b91784d0566c80216658cea,Accumulating Whipclaw,10.1
+1072,5be5f5a03ffcc7038857f109,Heart Noctrul,1.2
+1073,55397302e77989047f88411c,Photon Repeater,16.9
+1074,5c196faf96037800ddadac17,Redeemer Prime Set,63.0
+1075,5c1bda0514a8e4006b1dad5f,Hypothermic Shell,9.2
+1076,5dff6e111456970316674a0c,Warhead,4.4
+1077,5e02154d14569703bf43e54a,Battle Stations,9.7
+1078,5e02154e14569703bf43e54d,Phoenix Blaze,71.4
+1079,5e02154e14569703bf43e54e,Countermeasures,4.4
+1080,5e4145907b0275011bc5b7cd,Blood Forge,11.0
+1081,5e4145907b0275011bc5b7ce,Balefire Surge,11.0
+1082,5e4145907b0275011bc5b7cf,Sentient Basin Scene,
+1083,5e4145907b0275011bc5b7d0,Sentient Balcony Scene,
+1084,5e4145917b0275011bc5b7d1,Endless Lullaby,18.9
+1085,5c1bda1114a8e4006b1dad78,Magus Accelerant,153.8
+1086,57bc9c99e506eb45ea25145d,Galatine Prime Blueprint,37.6
+1087,5e7caa01267539063de48c3f,Aerial Ace,15.2
+1088,5e7caa02267539063de48c40,Energizing Shot,96.0
+1089,5e7caa02267539063de48c41,Anchored Glide,12.1
+1090,54a74455e779892d5e5156da,Venomous Clip,5.8
+1091,56675652f9001cd2824a6825,Dera Vandal Barrel,11.2
+1092,567af35fcbfa8f05d076a4d0,Counterweight,
+1093,5ce7fd85d23a3b00908c4205,Anti-Grav Grenade,
+1094,57c05949d0d9ef638234e4af,Brief Respite,13.0
+1095,56783f24cbfa8f0432dd89a8,Orthos Prime Set,13.9
+1096,57c73be094b4b0f159ab5e13,Hysterical Assault,16.0
+1097,567af35fcbfa8f05d076a4c6,Adept Surge,
+1098,567af35fcbfa8f05d076a50e,Gorgon Frenzy,
+1099,56783f24cbfa8f0432dd89b2,Volt Prime Set,100.3
+1100,59eba86952f90ed715e14156,Esher Devar,1.0
+1101,58b57068eb26db5c3119210b,Banshee Prime Neuroptics Blueprint,3.8
+1102,5615432bb66f8371035bfa2d,Electro Pulse,
+1103,5615432bb66f8371035bfa2e,Neutralize,6.6
+1104,5615432bb66f8371035bfa32,Retrieve,
+1105,5740c1769d238d4a03d28516,Imperator Vandal Receiver,13.4
+1106,57dbdc525e334907aa8edb58,Secura Lecta,31.7
+1107,57dbdc685e334907aa8edb5b,Amesha Systems Blueprint,
+1108,57dbdc685e334907aa8edb5c,Amesha Wings Blueprint,
+1109,57dbdc685e334907aa8edb5d,Amesha Harness Blueprint,
+1110,57dbdc685e334907aa8edb5e,Amesha Set,42.0
+1111,57dbdc745e334907aa8edb61,Elytron Harness Blueprint,
+1112,57dbdc745e334907aa8edb62,Elytron Set,43.0
+1113,57dbdc825e334907aa8edb63,Itzal Systems Blueprint,
+1114,57dbdc825e334907aa8edb64,Itzal Wings Blueprint,
+1115,57dbdc825e334907aa8edb65,Itzal Harness Blueprint,
+1116,57dbdc825e334907aa8edb66,Itzal Set,30.4
+1117,57e91e65c76eb74c087f4932,Ayatan Vaya Sculpture,7.6
+1118,5800c6c9c021d9dc0a9f8916,The Perrin Sequence Augment Mod,12.0
+1119,5800c6c9c021d9dc0a9f8918,New Loka Augment Mod,10.0
+1120,5800c6c9c021d9dc0a9f8919,Arbiters of Hexis Augment Mod,9.8
+1121,5788fad04fff472f131a135f,Charm,2.6
+1122,5788fad84fff472f131a1361,Cat's Eye,3.1
+1123,580e38faca550948410af0a6,Medi-Pet Kit,2.9
+1124,54a73e65e779893a797fff5a,Reaper Prime Handle,10.1
+1125,54a73e65e779893a797fff5e,Sicarus Prime Barrel,12.0
+1126,54a73e65e779893a797fff32,Braton Prime Barrel,4.3
+1127,5615432bb66f8371035bfa30,Purifying Flames,10.5
+1128,567af35fcbfa8f05d076a4e3,Overcharged,
+1129,57dbdc745e334907aa8edb60,Elytron Wings Blueprint,
+1130,5788fad54fff472f131a1360,Mischief,2.8
+1131,57bc9c84e506eb45ea251455,Tigris Prime Set,44.3
+1132,580e38faca550948410af0a7,Shield Charger,1.8
+1133,57dbdc525e334907aa8edb59,Rakta Dark Dagger,28.8
+1134,580e392dca550948410af0aa,Static Discharge,5.4
+1135,580e392dca550948410af0ab,Pain Threshold,1.9
+1136,54a73e65e779893a797fff56,Paris Prime String,3.2
+1137,567af35fcbfa8f05d076a4d2,Double-Barrel Drift,4.4
+1138,591844575c170664fbd37eb3,Gorgon Wraith Blueprint,4.2
+1139,56a7b2741133f656cb085d8a,Argon Scope,4.3
+1140,567af35fcbfa8f05d076a4d5,Explosive Demise,
+1141,54a73e65e779893a797fff60,Sicarus Prime Receiver,21.9
+1142,571955a04445c3e28b80fc7d,Mantis Engines Blueprint,6.2
+1143,54a74454e779892d5e51559c,Sure Shot,14.6
+1144,54a73e65e779893a797fff43,Glaive Prime Blade,50.1
+1145,554d3d13e77989430b114cb2,Sapping Reach,
+1146,56783f24cbfa8f0432dd899f,Karak Wraith Set,63.2
+1147,573b802f0ec44a47787a6914,Fragor Prime Set,44.3
+1148,54a74454e779892d5e515626,Crimson Dervish,8.5
+1149,573b80450ec44a47787a6915,Akstiletto Prime Blueprint,16.3
+1150,573b804a0ec44a47787a6916,Akstiletto Prime Barrel,17.2
+1151,54a74454e779892d5e515627,Deep Freeze,3.9
+1152,573b804f0ec44a47787a6917,Akstiletto Prime Receiver,23.9
+1153,54a74454e779892d5e515628,Physique,6.3
+1154,5a311f83c2c9e90dfff475d4,Akbolto Prime Receiver,19.8
+1155,54a73e65e779893a797fff57,Paris Prime Upper Limb,2.3
+1156,5a311f83c2c9e90dfff475d5,Akbolto Prime Blueprint,4.2
+1157,592dd262011e88f094afec87,Silva & Aegis Prime Blueprint,8.6
+1158,54a73e65e779893a797fff5b,Scindo Prime Blade,13.0
+1159,58b57068eb26db5c3119210f,Euphona Prime Barrel,6.0
+1160,54a73e65e779893a797fff82,Mag Prime Blueprint,20.0
+1161,59e91860f25be4e10d36571d,Furax Wraith Blueprint,4.9
+1162,54a73e65e779893a797fff79,Frost Prime Systems Blueprint,8.9
+1163,55c153c5e779895d82cf1c4f,Ice Spring,4.4
+1164,5754a316e701ef5844257daa,Shattering Impact,3.5
+1165,54a74454e779892d5e515611,Morphic Transformer,5.2
+1166,58b57068eb26db5c31192115,Helios Prime Cerebrum,26.9
+1167,54a73e65e779893a797fff54,Paris Prime Lower Limb,3.4
+1168,567af35fcbfa8f05d076a524,Triple Tap,10.8
+1169,54a74454e779892d5e51567a,Malicious Raptor,11.5
+1170,554d3d13e77989430b114cb1,Shield Of Shadows,12.5
+1171,54a74454e779892d5e51567b,Hollow Point,3.5
+1172,554d3f0ce779894445a848f1,Enduring Strike,7.6
+1173,54a74455e779892d5e515699,Sequence Burn,13.6
+1174,571955784445c3e28b80fc79,Xiphos Fuselage Blueprint,64.0
+1175,5719559c4445c3e28b80fc7c,Mantis Fuselage Blueprint,12.3
+1176,56a7b2851133f656cb085d8d,Bladed Rounds,21.4
+1177,54a74454e779892d5e515594,Shred,5.8
+1178,571955a64445c3e28b80fc7e,Mantis Avionics Blueprint,4.6
+1179,54a74454e779892d5e515596,Serration,2.8
+1180,551085c3e7798972ae2819db,Arcane Healing,1.7
+1181,571955b44445c3e28b80fc7f,Scimitar Fuselage Blueprint,7.3
+1182,54a74454e779892d5e515599,Quick Return,4.2
+1183,54a74454e779892d5e51559b,Lightning Rod,
+1184,551085f4e7798972d0eaf1ad,Arcane Warmth,1.0
+1185,54a74454e779892d5e51560f,Steel Charge,19.9
+1186,54a74454e779892d5e51559d,Rage,8.6
+1187,554d3f0ce779894445a848f7,Lasting Sting,3.4
+1188,57dbdc525e334907aa8edb5a,Sancti Magistar,31.9
+1189,5758ad3042ba8659dde2f56f,EMP Aura,16.4
+1190,54a74454e779892d5e5155b4,Pacifying Bolts,17.0
+1191,5758adff42ba8659dde2f570,Metal Fiber,41.8
+1192,54a74454e779892d5e5155b6,Energy Amplifier,12.9
+1193,5c3892672cc6ce00f238139e,Venari Bodyguard,13.5
+1194,5c1bd9fd14a8e4006b1dad51,Virtuos Trojan,85.8
+1195,5cb04868fc2db2068006980c,Blinding Reave,10.7
+1196,5cb04868fc2db2068006980d,Dread Ward,10.4
+1197,5c8693d22cc6ce0bbc095d9c,Prisma Grinlok,77.4
+1198,5ca28670fc2db2035eae05a1,Equinox Prime Chassis Blueprint,4.3
+1199,5ca28670fc2db2035eae05a7,Stradavar Prime Blueprint,13.1
+1200,54aae25de7798968b372a4e1,Vaykor Marelok,28.3
+1201,567af35fcbfa8f05d076a4f2,Serrated Rounds,
+1202,5719557e4445c3e28b80fc7a,Xiphos Engines Blueprint,25.5
+1203,5e839494267539077b0dd6b8,Titania Prime Neuroptics Blueprint,4.8
+1204,5e839494267539077b0dd6ba,Pangolin Prime Blade,7.2
+1205,5e839495267539077b0dd6c9,Pangolin Prime Set,29.3
+1206,5e839495267539077b0dd6cc,Titania Prime Blueprint,7.8
+1207,5e839495267539077b0dd6ce,Revo Reducer,3.2
+1208,5e839495267539077b0dd6d1,Sentient Scalpel,2.9
+1209,5e839496267539077b0dd6d3,Titania Prime Set,69.3
+1210,5ea087d1c160d001303f9ed7,Tribunal,11.8
+1211,5ea087d1c160d001303f9ed8,Catapult,10.0
+1212,5ea087d2c160d001303f9ed9,Blazing Pillage,13.0
+1213,5ea087d3c160d001303f9eda,Spellbound Harvest,11.8
+1214,5eadc6bc04d55c027d23a6dd,Cruising Speed,72.5
+1215,5eadc6bf04d55c027d23a6de,Artillery Cheap Shot,13.2
+1216,5eadc6bf04d55c027d23a6df,Turret Velocity,57.2
+1217,5eadc6c004d55c027d23a6e0,Ordnance Cheap Shot,11.3
+1218,5eadc6c604d55c027d23a6e2,Ballista Measure,63.5
+1219,5eadc6c604d55c027d23a6e3,Quicklock,4.2
+1220,5eb5e49904d55c04e80d6a7f,Ordnance Velocity,48.6
+1221,5eb5e49a04d55c04e80d6a80,Primed Cleanse Grineer,64.8
+1222,5eb5e49b04d55c04e80d6a81,Primed Cleanse Infested,52.4
+1223,5eb5e49c04d55c04e80d6a82,Primed Cleanse Corpus,53.6
+1224,5eb5e49d04d55c04e80d6a83,Primed Cleanse Corrupted,45.1
+1225,5ecd08d704d55c0806f85348,Abundant Mutation,12.9
+1226,5ecd08d704d55c0806f8534a,Dizzying Rounds,153.8
+1227,5ecd08d804d55c0806f8534c,Revealing Spores,10.9
+1228,5ecd08d804d55c0806f8534f,Enraged,14.1
+1229,5ecd08d804d55c0806f85350,Rubble Heap,19.4
+1230,5ecd08d804d55c0806f85351,Precision Strike,47.0
+1231,5ecd08d904d55c0806f85354,Deadly Maneuvers,47.8
+1232,58b57068eb26db5c3119210a,Banshee Prime Blueprint,5.3
+1233,5814b1f2ca550948410af0ae,Chilling Reload,3.6
+1234,5814b1f2ca550948410af0ac,Streamlined Form,3.8
+1235,5814b1f2ca550948410af0ad,Drifting Contact,3.1
+1236,58358a092c2ada0047b386f8,Valkyr Prime Chassis Blueprint,40.9
+1237,581d0c4ed5f9e290fa2e959f,Primed Cryo Rounds,55.6
+1238,582b0f870af25410b099f7fc,Centaur Set,50.5
+1239,582b0f880af25410b099f7fd,Onorix Set,33.8
+1240,582b0f890af25410b099f7fe,Agkuza Set,50.8
+1241,58446fb92c2ada005dc7d047,Healing Return,5.3
+1242,582b0f890af25410b099f7ff,Corvas Set,33.4
+1243,58446fd52c2ada006a40630c,Reinforcing Stomp,11.7
+1244,582b0f8a0af25410b099f800,Rathbone Set,25.6
+1245,58446ffa2c2ada0071154b52,Relentless Combination,4.3
+1246,583580d52c2ada003badef85,Cernos Prime Blueprint,5.2
+1247,583580e12c2ada003badef86,Cernos Prime Lower Limb,23.6
+1248,583580f42c2ada003badef87,Cernos Prime Upper Limb,7.1
+1249,583580fb2c2ada003badef88,Cernos Prime Grip,8.2
+1250,58446f192c2ada003b4d4ffc,Condition Overload,8.9
+1251,58446f502c2ada0042b6fc3d,Corroding Barrage,14.0
+1252,58446f672c2ada00485f0fce,Dispatch Overdrive,
+1253,58446f9e2c2ada004feb21c4,Enduring Affliction,4.8
+1254,54a74454e779892d5e51561c,Pistol Scavenger,13.6
+1255,56783f24cbfa8f0432dd89b3,Wyrm Prime Set,66.1
+1256,567872299906166591f69a9b,Naramon Transmute Core,
+1257,5678722e9906166591f69a9c,Vazarin Transmute Core,
+1258,567872749906166591f69a9d,Vengeful Revenant,3.8
+1259,588a789c3cf52c408a2f88dc,Astral Autopsy,47.5
+1260,58e6407ada6e257f670cf06d,Ergo's Boardroom Scene,
+1261,567af35fcbfa8f05d076a4c7,Agile Aim,3.3
+1262,567af35fcbfa8f05d076a4c9,Anticipation,
+1263,59ecb5d7195d2301e654749c,Plains Of Eidolon Scene,103.0
+1264,567af35fcbfa8f05d076a4f4,Shred Shot,
+1265,54a73e65e779893a797fff39,Burston Prime Barrel,3.7
+1266,54e0c9eee7798903744178a6,Ice Wave Impedance,13.6
+1267,55158ce0e7798915f4c95b78,Volt Prime Systems Blueprint,13.2
+1268,54a73e65e779893a797fff3d,Dakra Prime Blade,10.5
+1269,54a73e65e779893a797fff45,Glaive Prime Disc,39.2
+1270,57e91e65c76eb74c087f492e,Ayatan Ayr Sculpture,5.3
+1271,54a74454e779892d5e515677,Stretch,2.9
+1272,5783bf5ed9b6753790c89e99,Agkuza Guard,9.4
+1273,54a74454e779892d5e5155c6,Intensify,3.0
+1274,567af35fcbfa8f05d076a511,Heavy Warhead,
+1275,5667568ff9001cd2824a682b,Karak Wraith Stock,15.8
+1276,567872239906166591f69a9a,Madurai Transmute Core,6.6
+1277,54a74455e779892d5e5156e8,Toxic Barrage,4.0
+1278,567af35fcbfa8f05d076a4ca,Apex Predator,
+1279,54a74455e779892d5e5156e9,Shotgun Ammo Mutation,3.4
+1280,567af35fcbfa8f05d076a4ce,Calculated Victory,
+1281,54a74455e779892d5e5156ea,Hyperion Thrusters,9.1
+1282,54a74455e779892d5e5156eb,Infested Impedance,8.6
+1283,59a48b625cd9938cfede703b,Hydroid Prime Systems Blueprint,65.2
+1284,5ca7ae31fc2db20506557090,Primed Animal Instinct,51.1
+1285,5cb04868fc2db2068006980e,Pilfering Strangledome,9.2
+1286,5ce7fd85d23a3b00908c4204,Proton Pulse,
+1287,5d322d1174bdad027da4d08d,Gas City Lifts Scene,
+1288,5d4c4fcc74bdad0694ecca6c,Dog Days Scene,91.9
+1289,5ce7fd88d23a3b00908c4211,Shockwave Actuators,
+1290,57c20990022d3f62c0d81aa7,Assimilate,14.0
+1291,56783f24cbfa8f0432dd899d,Glaive Prime Set,361.7
+1292,56783f24cbfa8f0432dd89ac,Scindo Prime Set,27.5
+1293,57dbdc525e334907aa8edb56,Telos Boltace,30.2
+1294,54a73e65e779893a797fff4b,Latron Prime Receiver,15.6
+1295,54a73e65e779893a797fff4c,Latron Prime Stock,11.4
+1296,54a73e65e779893a797fff4d,Lex Prime Barrel,2.1
+1297,59ecb5ea195d2301e654749d,Grineer Forest Factory Scene,15.0
+1298,59eba86952f90ed715e1415a,Heart Nyth,2.0
+1299,567af35fcbfa8f05d076a4db,Impenetrable Offense,
+1300,58e6407ada6e257f670cf06f,Suda's Datascape Scene,
+1301,592dd262011e88f094afec84,Sybaris Prime Receiver,8.5
+1302,5615432bb66f8371035bfa2f,Staggering Shield,13.3
+1303,573b805f0ec44a47787a6919,Akstiletto Prime Set,137.4
+1304,5ee76f4b04d55c0a81972432,Stropha Set,23.5
+1305,5ee76f4b04d55c0a81972433,Velox Set,7.6
+1306,5ee76f4b04d55c0a81972434,Stahlta Barrel,1.7
+1307,5ee76f4b04d55c0a81972435,Stahlta Set,11.9
+1308,5ee76f4c04d55c0a81972436,Velox Receiver,3.9
+1309,5ee76f4c04d55c0a81972437,Stropha Blade,6.0
+1310,5ee76f4c04d55c0a81972438,Stahlta Receiver,5.3
+1311,5ee76f4c04d55c0a81972439,Stropha Receiver,7.4
+1312,5ee76f4c04d55c0a8197243a,Stropha Stock,2.7
+1313,5ee76f4c04d55c0a8197243b,Stropha Barrel,6.2
+1314,5ee76f4d04d55c0a8197243c,Stahlta Stock,4.2
+1315,5ee76f4d04d55c0a8197243d,Velox Barrel,4.5
+1316,5ee7de8a04d55c0b1052e4bb,Corpus Ship Hangar Scene,
+1317,5ee7de8b04d55c0b1052e4ca,Corpus Ship Bridge Scene,
+1318,5ee7de8c04d55c0b1052e4cd,Corpus Ship Orbital Cannon Scene,6.2
+1319,5ef0a62004d55c0c40f06525,Glaxion Vandal,90.3
+1320,5ef0a62004d55c0c40f06526,Primed Rubedo-Lined Barrel,53.3
+1321,5f0deab69f527b024d48f055,Inaros Prime Set,44.8
+1322,5f0deab69f527b024d48f056,Inaros Prime Chassis Blueprint,4.7
+1323,5f0deab69f527b024d48f057,Inaros Prime Neuroptics Blueprint,22.6
+1324,5f0deab79f527b024d48f058,Inaros Prime Blueprint,5.8
+1325,5f0deab79f527b024d48f059,Inaros Prime Systems Blueprint,6.3
+1326,5f0e0fdc9f527b0285718f17,Panthera Prime Stock,5.4
+1327,5f0e0fdc9f527b0285718f18,Karyst Prime Handle,3.7
+1328,5f0e0fdc9f527b0285718f19,Karyst Prime Set,24.3
+1329,5f0e0fdc9f527b0285718f1a,Panthera Prime Set,40.8
+1330,5f0e0fdd9f527b0285718f1b,Panthera Prime Barrel,13.6
+1331,5f0e0fdd9f527b0285718f1c,Panthera Prime Receiver,12.9
+1332,5f0e0fdd9f527b0285718f1d,Panthera Prime Blueprint,3.8
+1333,5f0e0fde9f527b0285718f1e,Karyst Prime Blueprint,4.9
+1334,5f0e0fde9f527b0285718f1f,Karyst Prime Blade,13.8
+1335,59dfeb63115f1d887cfd7abd,Vigilante Supplies,14.6
+1336,54a74455e779892d5e5156ef,Crushing Ruin,10.3
+1337,54a73e65e779893a797fff35,Braton Prime Stock,2.5
+1338,54a73e65e779893a797fff3e,Dakra Prime Blueprint,6.5
+1339,54a74454e779892d5e51559a,Narrow Minded,11.7
+1340,571955834445c3e28b80fc7b,Xiphos Avionics Blueprint,22.8
+1341,567af35fcbfa8f05d076a4f9,Stand Ground,
+1342,54a73e65e779893a797fff44,Glaive Prime Blueprint,189.9
+1343,563893fcb66f83093e823472,Primed Target Cracker,56.8
+1344,567af35fcbfa8f05d076a4eb,Reflex Draw,3.8
+1345,573b80590ec44a47787a6918,Akstiletto Prime Link,9.5
+1346,595567c18e34b5ed3cb3d9ba,Bane Of Corrupted,23.1
+1347,595be9628e34b5ed3cb3d9d0,Hunhow's Datascape Scene,
+1348,54a74454e779892d5e515629,Maim,7.2
+1349,592dd262011e88f094afec7d,Oberon Prime Blueprint,9.1
+1350,5740c1879d238d4a03d28518,Looter,47.8
+1351,54a74454e779892d5e51562c,Pistol Ammo Mutation,4.3
+1352,54a74454e779892d5e51562d,Poisonous Sting,4.4
+1353,595be1218e34b5ed3cb3d9bf,Harrow's Temple Scene,18.5
+1354,58e6407ada6e257f670cf069,Amaryn's Retreat Scene,
+1355,58e6407ada6e257f670cf06b,Color Key Scene,58.0
+1356,582b0f870af25410b099f7fb,Phaedra Set,46.8
+1357,583580fd2c2ada003badef89,Cernos Prime String,7.9
+1358,583580ff2c2ada003badef8a,Cernos Prime Set,64.3
+1359,583589fd2c2ada0047b386f6,Valkyr Prime Blueprint,4.6
+1360,58358a0e2c2ada0047b386fa,Valkyr Prime Set,71.1
+1361,58358e1c2c2ada00655a4ef6,Venka Prime Blades,9.0
+1362,567af35fcbfa8f05d076a4cb,Bounty Hunter,
+1363,59f38f558c202c007335ba65,Target Acquired,3.0
+1364,567af35fcbfa8f05d076a4d9,Heartseeker,
+1365,54a74455e779892d5e5156b8,Loyal Companion,5.1
+1366,567af35fcbfa8f05d076a4df,Martial Fury,
+1367,54a74455e779892d5e5156c0,Decisive Judgement,5.9
+1368,59eb9b0952f90ed715e14143,Twirling Spire,7.6
+1369,54a74454e779892d5e5155ae,Auxiliary Power,5.5
+1370,59e4532740c3ee1a65541c45,Eidolon Lens Blueprint,9.1
+1371,54a74454e779892d5e51567c,Gleaming Talon,12.3
+1372,54a74454e779892d5e5155b0,Scavenge,5.6
+1373,54a74454e779892d5e5155b3,Gunslinger,3.5
+1374,54a74454e779892d5e5155b5,Sundering Weave,2.6
+1375,567af35fcbfa8f05d076a4da,Impaler Munitions,
+1376,5754a312e701ef5844257da9,Phoenix Renewal,9.9
+1377,54a74454e779892d5e515638,Shell Shock,45.8
+1378,5a6b495c7f2bca025fde2b58,Larva Burst,13.8
+1379,54a74454e779892d5e51567e,Cleaving Whirlwind,3.6
+1380,54a74454e779892d5e51567f,Crowd Dispersion,10.0
+1381,5783bf6dd9b6753790c89e9c,Cyngas Receiver,10.1
+1382,5527a26de77989205156b2b7,Odonata Prime Blueprint,7.6
+1383,54a74454e779892d5e515680,Blind Justice,3.3
+1384,554d3f0ce779894445a848f0,Full Contact,4.3
+1385,5729bd06cb59ed5a9b484e8d,Medi-Ray,10.9
+1386,5729bd0dcb59ed5a9b484e8f,Electromagnetic Shielding,6.4
+1387,5740c17f9d238d4a03d28517,Imperator Vandal Set,41.0
+1388,5783908fd9b6753790c89e80,Afterburner,3.4
+1389,559dacd3e779897ba8819965,Primed Pistol Gambit,42.0
+1390,55e797c8e779892474566543,Vaykor Hek,25.7
+1391,567af35fcbfa8f05d076a513,Hydraulic Barrel,
+1392,56c3bbdb5d2f0202da32e93c,Saryn Prime Neuroptics Blueprint,16.2
+1393,59a5cd4d5cd9938cfede7041,Nami Skyla Prime Blade,39.6
+1394,5ab167b7b2b6a80475780fb5,Kronen Prime Handle,11.9
+1395,59dfeb5c115f1d887cfd7ab4,Gladiator Finesse,6.7
+1396,59dfeb6c115f1d887cfd7ac2,Augur Reach,17.8
+1397,54a74454e779892d5e515682,Sacrifice,82.5
+1398,5a0ef3fc10bc40007cce1c8c,Hunter Track,6.7
+1399,5a0ef3fc10bc40007cce1c8d,Hunter Command,4.5
+1400,54a73e65e779893a797fff2c,Boar Prime Receiver,11.9
+1401,598b06b4ab6b61be6fec0fb5,Omega Beacon,21.0
+1402,54e644ffe779897594fa68cb,Regenerative Molt,10.6
+1403,54a73e65e779893a797fff2d,Boar Prime Stock,25.7
+1404,591844575c170664fbd37eb4,Gorgon Wraith Barrel,4.2
+1405,5a311f84c2c9e90dfff475e4,Kogake Prime Boot,5.6
+1406,5a311f84c2c9e90dfff475f1,Akbolto Prime Set,81.1
+1407,5a311f84c2c9e90dfff475f3,Akbolto Prime Link,5.2
+1408,5a311f85c2c9e90dfff475f7,Akbolto Prime Barrel,7.8
+1409,5adf872b931bcf00574adc17,Braton Vandal Blueprint,138.3
+1410,5b2987abeb069f0536234278,Limbo Prime Set,96.7
+1411,5b50a3b23a84fd02a7823252,Partitioned Mallet,9.6
+1412,5f498a1e9426ed00443bd08f,Trapezium Xenorhast,2.8
+1413,5f498a1e9426ed00443bd090,Juice,20.0
+1414,5f498a1e9426ed00443bd092,Saxum Thorax,5.5
+1415,5f498a1e9426ed00443bd096,Necramech Pressure Point,12.6
+1416,5f498a1f9426ed00443bd097,Necramech Vitality,9.4
+1417,5f498a1f9426ed00443bd098,Draining Bite,
+1418,5f498a1f9426ed00443bd099,Necramech Slipstream,7.5
+1419,5f498a1f9426ed00443bd09c,Acidic Spittle,
+1420,5f498a1f9426ed00443bd09d,Endoparasitic Vector,
+1421,5f498a1f9426ed00443bd09e,Necramech Thrusters,15.6
+1422,5f498a1f9426ed00443bd0a0,Damaged Necramech Weapon Pod,1.3
+1423,5f498a209426ed00443bd0a3,Faceted Tiametrite,1.0
+1424,5f498a209426ed00443bd0a4,Damaged Necramech Engine,8.1
+1425,5f498a209426ed00443bd0a5,Bomb The Landin',14.0
+1426,57e91e65c76eb74c087f4931,Ayatan Sah Sculpture,3.3
+1427,5800c6c9c021d9dc0a9f8917,Red Veil Augment Mod,8.6
+1428,5800c901c021d9dc0a9f891b,Cunning Aspect,
+1429,5788fadc4fff472f131a1362,Reflect,3.2
+1430,5800c901c021d9dc0a9f891d,Rending Wind,
+1431,578d33bf34003bbbb9e20922,Corvas Receiver,9.6
+1432,5800c901c021d9dc0a9f891e,Noble Cadence,
+1433,580e38faca550948410af0a4,Thermagnetic Shells,3.4
+1434,578d33bf34003bbbb9e20923,Corvas Stock,9.8
+1435,580e38faca550948410af0a5,Kinetic Ricochet,1.9
+1436,567af35fcbfa8f05d076a51e,Mortal Conduct,
+1437,54a74455e779892d5e5156ec,Parry,
+1438,54a73e65e779893a797fff5f,Sicarus Prime Blueprint,6.9
+1439,591844575c170664fbd37eb2,Gorgon Wraith Set,12.6
+1440,567af35fcbfa8f05d076a4ef,Rising Skill,
+1441,5526aec0e779896af9418259,Fracturing Crush,17.4
+1442,54a73e65e779893a797fff41,Fang Prime Blueprint,1.7
+1443,554d3af4e77989420d3de2a6,Radiant Finish,14.3
+1444,54a74454e779892d5e5155a9,Ferocity,5.6
+1445,57222f1692cc365777a61c0e,Xiphos Set,58229.8
+1446,54a74454e779892d5e515616,High Voltage,46.7
+1447,573b7fc20ec44a47787a690e,Vauban Prime Chassis Blueprint,23.8
+1448,554d3f0ce779894445a848f4,Recharge Barrier,30.0
+1449,567af35fcbfa8f05d076a4ff,Tempered Bound,
+1450,567af35fcbfa8f05d076a50c,Focused Acceleration,12.4
+1451,554d3f0ce779894445a848ff,Collision Force,3.8
+1452,54a73e65e779893a797fff4a,Latron Prime Blueprint,18.3
+1453,54a73e65e779893a797fff33,Braton Prime Blueprint,2.1
+1454,5655c48eb66f832e0427152e,Defiled Snapdragon,3.7
+1455,56c3bbf85d2f0202da32e942,Nikana Prime Hilt,63.3
+1456,567af35fcbfa8f05d076a4ea,Recuperate,
+1457,56c3bbfc5d2f0202da32e943,Nikana Prime Set,103.2
+1458,54a74454e779892d5e515674,Vital Sense,4.8
+1459,58358a0c2c2ada0047b386f9,Valkyr Prime Systems Blueprint,11.5
+1460,58284d9f0af2540aa8de3495,Cyngas Set,54.0
+1461,582b0eb80af25410a4931616,Broken War Set,9.1
+1462,58358e1b2c2ada00655a4ef5,Venka Prime Gauntlet,37.5
+1463,582b0f630af25410b099f7f7,Kaszas Set,23.0
+1464,582b0f850af25410b099f7f8,Velocitus Set,44.2
+1465,582b0f850af25410b099f7f9,Fluctus Set,42.4
+1466,582b0f860af25410b099f7fa,Dual Decurion Set,45.5
+1467,567af35fcbfa8f05d076a4cc,Broad Eye,8.6
+1468,5911f11d97a0add8e9d5da4e,Voltage Sequence,13.8
+1469,54a73e65e779893a797fff22,Akbronco Prime Blueprint,2.1
+1470,54a74454e779892d5e5155ab,Cryo Rounds,2.1
+1471,577010aec79e68a7a8038fba,Silent Battery,4.3
+1472,5783bf37d9b6753790c89e91,Phaedra Receiver,9.6
+1473,58b57068eb26db5c31192111,Euphona Prime Receiver,25.7
+1474,54a74454e779892d5e5155b7,Transient Fortitude,14.2
+1475,54a74454e779892d5e51565d,Concussion Rounds,2.5
+1476,54a74454e779892d5e51565e,Howl,16.9
+1477,5783bf62d9b6753790c89e9a,Agkuza Handle,9.5
+1478,559daad8e779897b4f59525f,Carrier Prime Systems,8.7
+1479,55c15459e779895dd6f10f59,Covert Lethality,5.5
+1480,567af35fcbfa8f05d076a509,Feathered Arrows,
+1481,567af35fcbfa8f05d076a517,Loaded Capacity,
+1482,567af35fcbfa8f05d076a518,Loose Chamber,
+1483,568c177fc221c673bc088845,Armored Evade,
+1484,56a7b2a91133f656cb085d94,Nano-Applicator,
+1485,56a7b2b21133f656cb085d96,Focused Defense,5.6
+1486,56a7b2b71133f656cb085d97,Guided Ordnance,6.9
+1487,56aba2e88d6d183da42403be,Strun Wraith Blueprint,11.2
+1488,56b656d9ef0390c7e4006382,Titanic Rumbler,12.8
+1489,56c3bc025d2f0202da32e944,Spira Prime Blueprint,5.2
+1490,56c3bc1c5d2f0202da32e947,Spira Prime Set,131.9
+1491,56dac54b5cc639de0a45c516,Sheev Blade,18.5
+1492,56dac55b5cc639de0a45c518,Sheev Heatsink,10.7
+1493,56dac5645cc639de0a45c51a,Sheev Set,38.9
+1494,56dac5705cc639de0a45c51c,Rumbled,15.9
+1495,5707cc0da820909ab922558f,Snipetron Vandal Blueprint,4.8
+1496,5729bcfecb59ed5a9b484e8b,Hunter's Bonesaw,4.8
+1497,5783beebd9b6753790c89e88,Velocitus Barrel,10.0
+1498,595567c18e34b5ed3cb3d9be,Toxin Resistance,5.4
+1499,59a5c2565cd9938cfede7040,Nami Skyla Prime Set,144.7
+1500,5ab167b7b2b6a80475780fb3,Kronen Prime Set,97.7
+1501,58b57068eb26db5c31192117,Helios Prime Systems,8.4
+1502,54a74454e779892d5e515683,Extend,6.0
+1503,5a0ef77010bc4000b8a7c12a,Primed Fever Strike,45.5
+1504,5a26c31dc2c9e903a8381330,Exodia Contagion,12.6
+1505,5ab167b8b2b6a80475780fc0,Tiberon Prime Set,44.6
+1506,5a26c320c2c9e903a8381331,Exodia Epidemic,7.9
+1507,5a2feeb1c2c9e90cbdaa23d2,Mirage Prime Systems Blueprint,11.5
+1508,5a2feeb2c2c9e90cbdaa23d4,Mirage Prime Blueprint,37.0
+1509,5b6b4850b6de79023813f39e,Primed Quickdraw,32.7
+1510,5be4b0a53ffcc703294e76b2,Mecha Recharge,6.1
+1511,5be4b0a53ffcc703294e76b6,Synth Fiber,14.5
+1512,54a74454e779892d5e515621,Hush,3.4
+1513,573b80280ec44a47787a6913,Fragor Prime Head,8.6
+1514,58dbcc9e70b42255d6321e8f,Trample,
+1515,54a74454e779892d5e515632,Metal Auger,9.8
+1516,54a74454e779892d5e515634,Master Thief,3.2
+1517,5c4050e32cc6ce023b79c0f2,Cryo Coating,13.9
+1518,5c93e3b9fc2db20121591321,Bursting Mass,26.5
+1519,5ca28670fc2db2035eae05a2,Tipedo Prime Set,78.5
+1520,54a74454e779892d5e515673,True Steel,4.4
+1521,554d3af4e77989420d3de2a3,Four Riders,12.7
+1522,559daae8e779897b56bee133,Vectis Prime Blueprint,8.6
+1523,559dacd3e779897ba8819969,Animal Instinct,4.9
+1524,55c1548fe779895df57fd05d,Combustion Beam,1.9
+1525,5729bcf9cb59ed5a9b484e8a,Harkonar Scope,7.1
+1526,5d322d1274bdad027da4d09e,Gas City Walkway Scene,
+1527,5d322d1274bdad027da4d0a2,Gas City Dead Exit Scene,9.0
+1528,5d8765de7ea27b08950c13c5,Aerodynamic,15.3
+1529,5d9385b17ea27b0a28fd75b9,Atlas Prime Set,57.0
+1530,5d93ca117ea27b0a87566f79,Tekko Prime Blade,26.3
+1531,5d93ca127ea27b0a87566f7b,Tekko Prime Set,80.2
+1532,5d93ca127ea27b0a87566f7c,Tekko Prime Blueprint,4.0
+1533,5f498a209426ed00443bd0a6,Necramech Redirection,43.4
+1534,5f498a219426ed00443bd0a7,Damaged Necramech Weapon Barrel,26.8
+1535,5f498a219426ed00443bd0a8,Damaged Necramech Weapon Set,118.5
+1536,5f498a219426ed00443bd0a9,Damaged Necramech Weapon Receiver,29.8
+1537,5f498a219426ed00443bd0aa,Infectious Bite,
+1538,5f498a229426ed00443bd0ac,Paralytic Spores,
+1539,5f498a229426ed00443bd0ae,Crescent Devolution,
+1540,5f498a229426ed00443bd0af,Panzer Devolution,15.8
+1541,5f498a229426ed00443bd0b0,Anabolic Pollination,
+1542,5f498a229426ed00443bd0b2,Primo Flair,18.8
+1543,5f498a239426ed00443bd0b6,Jugulus Barbs,7.3
+1544,5f498a239426ed00443bd0b9,Saxum Carapace,17.7
+1545,5f498a239426ed00443bd0ba,Hard Engage,
+1546,5f498a239426ed00443bd0bc,Vapor Trail,18.8
+1547,5f498a239426ed00443bd0bd,Saxum Spittle,44.5
+1548,5f498a249426ed00443bd0be,Damaged Necramech Weapon Stock,27.9
+1549,5f498a249426ed00443bd0bf,Necramech Reach,7.7
+1550,5f498a249426ed00443bd0c0,Necramech Continuity,24.4
+1551,5f498a249426ed00443bd0c1,Cabochon Embolos,2.6
+1552,5f498a249426ed00443bd0c2,Necramech Steel Fiber,22.9
+1553,5f498a249426ed00443bd0c5,Jugulus Spines,52.0
+1554,5f498a259426ed00443bd0c6,Damaged Necramech Set,15.9
+1555,5f498a259426ed00443bd0c8,Purified Heciphron,2.0
+1556,5f498a259426ed00443bd0c9,Viral Quills,17.5
+1557,5f498a259426ed00443bd0ca,Carnis Mandible,2.1
+1558,5f498a259426ed00443bd0cd,Damaged Necramech Pod,7.9
+1559,5f498a269426ed00443bd0cf,Necramech Refuel,12.7
+1560,5f498a269426ed00443bd0d1,Carnis Stinger,13.3
+1561,5f498a269426ed00443bd0d9,Crescent Charge,
+1562,5f498a279426ed00443bd0e0,Survival Instinct,
+1563,5f4ed3ecd5c36d0086f55af5,Deimos Underground Scene,
+1564,5f4ed3f2d5c36d0086f55aff,Deimos Cambion Drift Scene,
+1565,5f4ed3fad5c36d0086f55b0c,Hydroid's Relay Scene,54.0
+1566,5f986cf99dbdce024971b0b7,Nezha Prime Blueprint,4.6
+1567,5f986cf99dbdce024971b0bb,Guandao Prime Blueprint,4.7
+1568,5fa5698e9dbdce0625d562a8,Combo Killer,55.0
+1569,5fb84767c34da3004797d539,Thrall Pact,12.1
+1570,5fb84767c34da3004797d53a,Critical Surge,11.1
+1571,5fb84767c34da3004797d53b,Theorem Demulcent,109.0
+1572,5fb84767c34da3004797d53c,Sporothrix Blueprint,3.6
+1573,5fb84767c34da3004797d53f,Necramech Efficiency,9.3
+1574,5fb84767c34da3004797d540,Theorem Infection,7.8
+1575,5fb84767c34da3004797d541,Arum Spinosa Blueprint,5.9
+1576,5fb84767c34da3004797d542,Volatile Quick Return,5.0
+1577,5fb84767c34da3004797d543,Blending Talons,11.8
+1578,5fb84767c34da3004797d544,Arum Spinosa Guard,28.4
+1579,5fb84768c34da3004797d545,Arum Spinosa Set,154.9
+1580,5fb84768c34da3004797d546,Sporothrix Set,139.4
+1581,5fb84768c34da3004797d54b,Residual Shock,36.5
+1582,5fca4b457bfda40043597ee8,Primed Firestorm,56.1
+1583,5fca4b457bfda40043597ee9,Primed Fulmination,58.0
+1584,5fde10c16db57b0185b3906e,Bonewidow Set,82.5
+1585,5fde10c26db57b0185b3906f,Bonewidow Weapon Pod,19.8
+1586,5fde10c26db57b0185b39070,Bonewidow Casing,18.3
+1587,5fde10c26db57b0185b39071,Morgha Stock,52.0
+1588,5fde10c26db57b0185b39073,Cortege Barrel,52.4
+1589,5fde10c36db57b0185b39076,Necramech Enemy Sense,6.4
+1590,5fde10c56db57b0185b3907e,Cortege Stock,48.0
+1591,5fde10c56db57b0185b39081,Necramech Rebuke,14.4
+1592,5fde10c66db57b0185b39084,Cortege Set,188.4
+1593,5fde10c66db57b0185b39085,Bonewidow Capsule,21.0
+1594,5fde10c66db57b0185b39086,Voidrig Set,71.1
+1595,5fde10c66db57b0185b39087,Necramech Aviator,7.0
+1596,5fe0ea826db57b0225115012,Ayatan Hemakara Sculpture,36.8
+1597,5fe0ea836db57b0225115013,Prisma Dual Decurions,78.4
+1598,5fe0ea836db57b0225115016,Cedo Barrel,6.0
+1599,5fe0ea836db57b0225115017,Cedo Receiver,8.2
+1600,5fe0ea836db57b0225115018,Cedo Set,18.2
+1601,5a2feeb2c2c9e90cbdaa23d5,Mirage Prime Chassis Blueprint,8.1
+1602,5a311f84c2c9e90dfff475e5,Kogake Prime Blueprint,5.5
+1603,54a74455e779892d5e5156d9,Hornet Strike,3.5
+1604,592dd262011e88f094afec83,Sybaris Prime Stock,8.5
+1605,56b656cbef0390c7e4006380,Ore Gaze,10.9
+1606,59dfeb63115f1d887cfd7abb,Vigilante Offense,7.2
+1607,5a04750d6c4655012038ddcc,Magus Replenish,32.7
+1608,5a0ef3fb10bc40007cce1c8a,Hunter Synergy,4.4
+1609,5a3e4a52c2c9e91beabdae8f,Slicing Feathers,4.6
+1610,5adf8729931bcf00574adc10,Braton Vandal Receiver,8.9
+1611,5adf872a931bcf00574adc12,Braton Vandal Stock,87.6
+1612,5adf872a931bcf00574adc14,Peculiar Bloom,26.7
+1613,5ba9f2034567de01415f638b,Chroma Prime Set,59.7
+1614,5ba9f2044567de01415f638f,Raksa Kubrow Imprint,14.9
+1615,5baa8bbe4567de01ac283491,Rubico Prime Set,73.7
+1616,5baa8bbf4567de01ac283495,Gram Prime Blueprint,7.5
+1617,5bc24accb919f2010f7d579a,Ambush,51.3
+1618,5bd05acf3ffcc700eb7cfcfc,Hunhow's Chamber Scene,30.5
+1619,5bd05ad03ffcc700eb7cfcff,Lua Containment Scene,
+1620,5bd05ad13ffcc700eb7cfd00,Silver Grove Shrine Scene,
+1621,5be4b0a43ffcc703294e76ae,Synth Reflex,3.4
+1622,5be4b0a43ffcc703294e76af,Synth Deconstruct,13.5
+1623,5be4b0a53ffcc703294e76b0,Fetch,3.2
+1624,5be4b0a53ffcc703294e76b4,Tek Enhance,14.1
+1625,5be5f5a33ffcc7038857f124,Crashing Havoc,
+1626,56c3bc115d2f0202da32e946,Spira Prime Pouch,34.0
+1627,59385f6716efa3a742b15f62,Transistor Shield,11.0
+1628,56d6b7f483240e1f3aab2907,Shell Rush,9.5
+1629,56dac5565cc639de0a45c517,Sheev Blueprint,15.1
+1630,56dac55f5cc639de0a45c519,Sheev Hilt,11.8
+1631,58b57068eb26db5c3119210e,Banshee Prime Set,63.2
+1632,573b7fcc0ec44a47787a6910,Vauban Prime Set,165.3
+1633,56dac56a5cc639de0a45c51b,Mesa's Waltz,9.1
+1634,573b801c0ec44a47787a6911,Fragor Prime Blueprint,10.9
+1635,57222fbf92cc365777a61c10,Sands Of Inaros,20.9
+1636,573b80230ec44a47787a6912,Fragor Prime Handle,13.4
+1637,573d0efa336297b2dfca2909,Vauban Prime Systems Blueprint,54.3
+1638,54a74454e779892d5e515623,Scattering Inferno,12.3
+1639,5783bea1d9b6753790c89e86,Kaszas Handle,9.2
+1640,54a74454e779892d5e51562b,Tesla Bank,18.0
+1641,59385f6716efa3a742b15f61,Guided Effigy,17.4
+1642,5a6b495b7f2bca025fde2b57,Lasting Covenant,10.3
+1643,5a6b495c7f2bca025fde2b59,Razorwing Blitz,10.2
+1644,5a04750e6c4655012038ddcf,Magus Cloud,2.8
+1645,54a74454e779892d5e515637,Revenge,2.2
+1646,54a74454e779892d5e515657,Corrupt Charge,8.8
+1647,54a74455e779892d5e5156a2,Equilibrium,8.9
+1648,559daacae779897b47b74c13,Carrier Prime Cerebrum,36.5
+1649,55c15374e779895d4f633bca,Final Harbinger,9.6
+1650,56783f24cbfa8f0432dd8995,Burston Prime Set,13.1
+1651,56783f24cbfa8f0432dd89a3,Loki Prime Set,93.6
+1652,56783f24cbfa8f0432dd89a5,Nova Prime Set,93.8
+1653,56783f24cbfa8f0432dd89a6,Nyx Prime Set,53.6
+1654,56783f24cbfa8f0432dd89ae,Soma Prime Set,90.3
+1655,567af35fcbfa8f05d076a500,Twitch,4.7
+1656,567af35fcbfa8f05d076a502,Venomous Rise,
+1657,567af35fcbfa8f05d076a504,Adrenaline Boost,12.6
+1658,567af35fcbfa8f05d076a505,Blind Shot,
+1659,567af35fcbfa8f05d076a516,Kill Switch,
+1660,56c3bbe45d2f0202da32e93e,Saryn Prime Chassis Blueprint,54.5
+1661,5a0ef3fc10bc40007cce1c8e,Hunter Munitions,15.9
+1662,5ab167b8b2b6a80475780fc6,Tiberon Prime Receiver,7.4
+1663,567af35fcbfa8f05d076a4e0,Meteor Munitions,
+1664,5510858ae779897288827a4b,Arcane Acceleration,5.9
+1665,59dfeb6c115f1d887cfd7ac4,Augur Seeker,8.5
+1666,567af35fcbfa8f05d076a4e1,Momentary Pause,
+1667,5526aec1e779896af9418263,Eternal War,13.5
+1668,54a73e65e779893a797fff2e,Boltor Prime Barrel,9.5
+1669,59dfeb5c115f1d887cfd7ab7,Gladiator Rush,3.7
+1670,59dfeb63115f1d887cfd7abe,Vigilante Vigor,3.3
+1671,54a73e65e779893a797fff34,Braton Prime Receiver,3.7
+1672,567af35fcbfa8f05d076a4e4,Overcharge Detectors,
+1673,567af35fcbfa8f05d076a4e5,Overview,7.8
+1674,567af35fcbfa8f05d076a4e6,Prize Kill,
+1675,567af35fcbfa8f05d076a4e7,Quick Charge,
+1676,5655c4c7b66f832e1ad87d50,Primed Rifle Ammo Mutation,73.3
+1677,567af35fcbfa8f05d076a4e8,Razor Munitions,
+1678,566750e45dcbc186f0536bcf,Arcane Arachne,2.2
+1679,5667516b5dcbc186f0536bd2,Arcane Momentum,1.4
+1680,566751815dcbc186f0536bd3,Arcane Precision,8.0
+1681,56b656e5ef0390c7e4006384,Calm & Frenzy,13.4
+1682,56b656edef0390c7e4006385,Peaceful Provocation,13.4
+1683,56c3bbe05d2f0202da32e93d,Saryn Prime Systems Blueprint,7.8
+1684,598b06b4ab6b61be6fec0fb2,Delta Beacon,21.5
+1685,56c3bbee5d2f0202da32e940,Nikana Prime Blueprint,8.3
+1686,567af35fcbfa8f05d076a4e9,Recover,
+1687,56c3bbf45d2f0202da32e941,Nikana Prime Blade,23.7
+1688,58f0ee99aa4b70452a173070,Pyroclastic Flow,12.2
+1689,54a74454e779892d5e515689,Conductive Blade,17.6
+1690,5ab1570db2b6a8044d5137c1,Zephyr Prime Neuroptics Blueprint,5.5
+1691,5ab1570db2b6a8044d5137c5,Zephyr Prime Set,76.0
+1692,54a74454e779892d5e51568b,Gnashing Payara,3.0
+1693,5ab167b7b2b6a80475780fad,Kronen Prime Blueprint,5.2
+1694,5ab167b7b2b6a80475780fb1,Tiberon Prime Barrel,9.3
+1695,5ab167b9b2b6a80475780fd1,Kronen Prime Blade,27.6
+1696,54a74455e779892d5e51569a,Winds Of Purity,12.7
+1697,54a74455e779892d5e51569e,Retribution,4.4
+1698,5dbe9b157ea27b0ffe3ca289,Live Wire,4.4
+1699,5df8b0ab1456970087cd9b00,Ivara Prime Set,59.4
+1700,54d4c7eae779892855c69de9,Proof Fragment,40001.8
+1701,5b50a3aa3a84fd02a7823246,Empowered Quiver,11.0
+1702,5b50a3ac3a84fd02a782324b,Insatiable,13.5
+1703,5bc1ab92b919f200c18c10ed,Vigorous Swap,20.8
+1704,54dd27f0e7798934fcf60799,Anemic Agility,5.8
+1705,5bc1ab92b919f200c18c10ee,Rolling Guard,16.1
+1706,54e0c9eee7798903744178a5,Muzzle Flash,11.9
+1707,59ecb5d2195d2301e654749b,Grineer Forest Water Pump Scene,14.1
+1708,5a04750d6c4655012038ddcd,Exodia Might,51.0
+1709,5911f11d97a0add8e9d5da51,Avenging Truth,10.4
+1710,5a2feeb2c2c9e90cbdaa23d6,Mirage Prime Neuroptics Blueprint,4.8
+1711,58e6407ada6e257f670cf070,Teshin's Refuge Scene,
+1712,59a5cd4d5cd9938cfede7043,Ballistica Prime Upper Limb,8.7
+1713,54a74454e779892d5e51562e,Dual Rounds,42.8
+1714,58f0efdfaa4b70452a173075,Orvius Blade,3.8
+1715,54a74454e779892d5e515630,Burdened Magazine,2.3
+1716,59a5c2565cd9938cfede703f,Nami Skyla Prime Blueprint,9.1
+1717,5be701133ffcc703e462c705,Sonic Boost,18.2
+1718,5bf54b483ffcc7066e7eb854,Pax Bolt,30.3
+1719,5c196fae96037800ddadac15,Akjagara Prime Set,92.4
+1720,5c196fb496037800ddadac1a,Akjagara Prime Link,5.4
+1721,5c1bd9f814a8e4006b1dad48,Magus Melt,8.0
+1722,5c1bd9f914a8e4006b1dad49,Resolute Focus,6.3
+1723,5c1bda1014a8e4006b1dad75,Magus Firewall,173.0
+1724,5c1bda2414a8e4006b1dada6,Magus Destruct,151.0
+1725,5c3892672cc6ce00f238139c,Desiccation's Curse,11.4
+1726,5ca2866ffc2db2035eae059b,Stradavar Prime Barrel,4.4
+1727,5ca28670fc2db2035eae05a4,Stradavar Prime Stock,8.4
+1728,5ce7fd84d23a3b00908c4203,Repair Kit,
+1729,5ce7fd86d23a3b00908c4208,Aero Periphery,2.6
+1730,5ce7fd86d23a3b00908c420b,Anti-Grav Array,19.4
+1731,5ce7fd87d23a3b00908c420c,Aero Agility,26.0
+1732,5ce7fd87d23a3b00908c420d,Kavat's Grace,32.4
+1733,5ce7fd87d23a3b00908c420f,Stasis Field,
+1734,5ce7fd87d23a3b00908c4210,Tractor Beam,
+1735,5ce7fd88d23a3b00908c4212,Proton Snap,4.6
+1736,5d322d1074bdad027da4d080,Ventkids Clubhouse Scene,
+1737,5d322d1074bdad027da4d082,Gas City Lower Foyer Scene,7.4
+1738,5d322d1074bdad027da4d085,Gas City Corridors Scene,
+1739,5d322d1074bdad027da4d08a,Gas City Regulators Scene,
+1740,54a74454e779892d5e515648,Primed Chamber,329.5
+1741,5527a280e779892059574ca9,Odonata Prime Wings Blueprint,19.3
+1742,55a4693be779890222824cef,Seeking Fury,3.7
+1743,5a9ed835b2b6a80133127c30,Eidolon Naramon Lens,26.6
+1744,578390a9d9b6753790c89e85,Meteor Crash,6.8
+1745,5ab167b8b2b6a80475780fb8,Tiberon Prime Stock,18.0
+1746,5a04750c6c4655012038ddca,Magus Husk,33.2
+1747,5a04750e6c4655012038ddce,Magus Elevate,2.4
+1748,5a0ef3fb10bc40007cce1c8b,Hunter Recovery,5.7
+1749,54a74454e779892d5e515684,Guardian,
+1750,5a2feeb2c2c9e90cbdaa23d3,Mirage Prime Set,71.1
+1751,54a74454e779892d5e515685,Smoke Shadow,11.1
+1752,5dfea1421456970294aff380,Spectra Vandal Handle,15.4
+1753,5dfea1421456970294aff381,Spectra Vandal Blueprint,9.2
+1754,5dff6e1014569703166749dd,Shatter Burst,3.9
+1755,5dff6e1014569703166749e3,Breach Quanta,4.1
+1756,5dff6e1014569703166749f6,Tether,8.1
+1757,5b802081b6de7905dcd87475,Prisma Twin Gremlins,72.4
+1758,5be5f5a03ffcc7038857f102,Celestial Nightfall,
+1759,5ba4fde94567de006211ae6d,Primed Charged Shell,50.4
+1760,5c196fac96037800ddadac12,Akjagara Prime Barrel,23.7
+1761,5c1bda0114a8e4006b1dad56,Charged Bullets,11.4
+1762,5dff6e111456970316674a08,Particle Ram,5.3
+1763,5e02154e14569703bf43e54c,Blackout Pulse,5.2
+1764,5c1bda1214a8e4006b1dad79,Sabot Rounds,55.3
+1765,5baa8bbf4567de01ac283494,Rubico Prime Receiver,7.2
+1766,57bc9c99e506eb45ea25145c,Galatine Prime Blade,6.1
+1767,5baa8bbf4567de01ac283497,Gram Prime Set,30.1
+1768,55e797fde7798924a5a5650a,Sancti Tigris,31.6
+1769,5baa8bbf4567de01ac283498,Rubico Prime Stock,11.7
+1770,57bcb14ce506eb45ea25145e,Nekros Prime Blueprint,27.5
+1771,561536a1b66f836f854b966a,Trinity Prime Systems Blueprint,13.2
+1772,57c05949d0d9ef638234e4aa,Pistol Amp,5.8
+1773,5e7caa01267539063de48c3e,Preparation,21.2
+1774,5e839493267539077b0dd698,Titania Prime Chassis Blueprint,8.0
+1775,5e839493267539077b0dd69a,Corinth Prime Stock,11.3
+1776,5e839493267539077b0dd69e,Corinth Prime Blueprint,4.1
+1777,5e839494267539077b0dd6b0,Titania Prime Systems Blueprint,39.2
+1778,5f498a269426ed00443bd0d8,Necramech Intensify,13.6
+1779,54a74454e779892d5e515687,Fury,3.2
+1780,5d6ea67f7ea27b05d929cc05,Citrine Antitoxin,
+1781,5d8f65b37ea27b0968b6e57a,Pathocyst Subcortex,4.7
+1782,5d9385b17ea27b0a28fd75ba,Atlas Prime Systems Blueprint,4.6
+1783,5d9385b27ea27b0a28fd75bb,Atlas Prime Neuroptics Blueprint,48.3
+1784,5d9385b27ea27b0a28fd75bc,Atlas Prime Blueprint,3.9
+1785,5d93ca117ea27b0a87566f6e,Dethcube Prime Systems,5.4
+1786,5b2985e3eb069f04ea65b0fa,Pyrana Prime Set,66.5
+1787,54a74455e779892d5e515690,Savage Silence,12.9
+1788,5ada1ab2b2b6a80bb33793f3,Reaping Chakram,13.8
+1789,5ada1ab3b2b6a80bb33793f4,Supra Vandal,68.8
+1790,5b2987aaeb069f0536234276,Limbo Prime Blueprint,5.9
+1791,5adf8729931bcf00574adc0e,Braton Vandal Barrel,8.5
+1792,54a74455e779892d5e5156a1,Ravage,3.4
+1793,5b2985e3eb069f04ea65b0fb,Destreza Prime Blueprint,5.1
+1794,5dbe9b067ea27b0ffe3ca267,Master Key,4.8
+1795,5dbe9b087ea27b0ffe3ca26a,Out Of Sight,7.7
+1796,5dbe9b097ea27b0ffe3ca26c,Khra,12.5
+1797,5dbe9b0b7ea27b0ffe3ca26e,Lohk,12.4
+1798,5dbe9b0b7ea27b0ffe3ca26f,Blood For Ammo,2.6
+1799,5dbe9b0b7ea27b0ffe3ca270,Failsafe,4.0
+1800,5dbe9b0c7ea27b0ffe3ca271,Blood For Energy,13.5
+1801,5dbe9b127ea27b0ffe3ca285,Xata,10.9
+1802,5dbe9b157ea27b0ffe3ca28a,Split Flights,43.8
+1803,5baa8bbf4567de01ac283496,Gram Prime Blade,4.3
+1804,54a74455e779892d5e5156b5,Voltaic Strike,50.8
+1805,5b2987abeb069f053623427a,Limbo Prime Chassis Blueprint,60.0
+1806,588a789c3cf52c408a2f88dd,Ayatan Anasa Sculpture,8.8
+1807,5adf872a931bcf00574adc16,Lato Vandal Receiver,3.3
+1808,5be4b0a53ffcc703294e76b1,Tek Assault,22.9
+1809,5be4b0a53ffcc703294e76b5,Tek Gravity,4.0
+1810,5be4b0a53ffcc703294e76b8,Tek Collateral,3.6
+1811,5be4b0a53ffcc703294e76b9,Synth Charge,8.2
+1812,5be4b0a53ffcc703294e76ba,Mecha Overdrive,9.8
+1813,5be5f59d3ffcc7038857f0f3,Star Divide,
+1814,56c3bc0c5d2f0202da32e945,Spira Prime Blade,19.6
+1815,5703ed25a064f4ab755dc13b,Snipetron Vandal Receiver,9.1
+1816,57839086d9b6753790c89e7e,Energy Field,4.0
+1817,57839095d9b6753790c89e81,Zodiac Shred,5.3
+1818,5740c1909d238d4a03d28519,Air Thrusters,
+1819,587a15c8c13d58ede882322b,Primed Regen,46.0
+1820,54a74454e779892d5e51562a,Rifle Aptitude,3.4
+1821,59dfeb6c115f1d887cfd7ac1,Augur Pact,3.8
+1822,5740c1999d238d4a03d2851a,Fatal Teleport,11.7
+1823,58dbcc9e70b42255d6321e8e,Proboscis,10.2
+1824,54a74454e779892d5e515639,Furor,
+1825,54a74454e779892d5e515672,Virulent Scourge,3.8
+1826,54a73e65e779893a797fff4f,Lex Prime Receiver,6.7
+1827,5be701133ffcc703e462c709,Slay Board,
+1828,5c182b739603780081b09a54,Mesa Prime Neuroptics Blueprint,36.0
+1829,5c196fb096037800ddadac19,Redeemer Prime Handle,45.8
+1830,5c1bd9f814a8e4006b1dad47,Critical Focus,18.5
+1831,5c1bda2414a8e4006b1dada4,Ammo Chain,4.2
+1832,5c1e62d3817a0d0092fb1607,Cetus Scene,
+1833,5c4050e22cc6ce023b79c0f0,Ion Infusion,10.4
+1834,5c7849e22cc6ce090383e25d,Wolf Sledge Handle,1.6
+1835,5ca28670fc2db2035eae059e,Equinox Prime Set,62.8
+1836,5f498a279426ed00443bd0e2,Necramech Seismic Wave,7.6
+1837,5f4ed3f2d5c36d0086f55afe,Necramech Stretch,6.0
+1838,5f4ed3fad5c36d0086f55b0b,Granum Void Scene,5.8
+1839,5f4ed3fbd5c36d0086f55b0e,Bhisaj-Bal,25.4
+1840,5f52c692d5c36d0123a824a2,Necramech Deflection,8.1
+1841,5f533a19d5c36d0157f4b9ff,Botanist,46.5
+1842,5f808268824fa302f3685c1f,Combo Fury,29.0
+1843,5f986cf89dbdce024971b0b6,Guandao Prime Set,50.1
+1844,5f986cf99dbdce024971b0ba,Zakti Prime Set,28.0
+1845,5fb84767c34da3004797d53e,Residual Boils,20.5
+1846,5fb84768c34da3004797d548,Sporothrix Receiver,30.2
+1847,5fb84768c34da3004797d54c,Necramech Flow,11.2
+1848,5fb84768c34da3004797d54d,Volatile Parasite,12.1
+1849,5fb84768c34da3004797d54e,Residual Viremia,33.4
+1850,5fb84768c34da3004797d54f,Residual Malodor,2.4
+1851,5fb84768c34da3004797d550,Mach Crash,13.3
+1852,5fb84768c34da3004797d551,Volatile Rebound,10.0
+1853,5fb84768c34da3004797d552,Sporothrix Barrel,29.8
+1854,5fb84769c34da3004797d553,Ayatan Kitha Sculpture,21.2
+1855,5fb84769c34da3004797d554,Theorem Contagion,4.4
+1856,5fde10c26db57b0185b39072,Morgha Receiver,
+1857,5fde10c36db57b0185b39075,Cortege Receiver,53.6
+1858,5fde10c46db57b0185b3907d,Voidrig Engine,26.9
+1859,5fde10c56db57b0185b39080,Necramech Augur,15.3
+1860,5fde10c66db57b0185b39083,Bonewidow Engine,27.0
+1861,5fe0ea836db57b0225115015,Cedo Stock,7.2
+1862,5bc1ab93b919f200c18c10ef,Adaptation,14.2
+1863,5bc1ab93b919f200c18c10f0,Sharpshooter,10.4
+1864,5bc1ab93b919f200c18c10f1,Power Donation,17.3
+1865,5bc1ab94b919f200c18c10f2,Cautious Shot,17.8
+1866,54e0c9eee7798903744178a7,Counter Pulse,15.4
+1867,5df955131456970150510f27,Baza Prime Barrel,4.9
+1868,5df955141456970150510f2a,Aksomati Prime Barrel,9.2
+1869,5dfea13b1456970294aff358,Grendel Systems Locator,23.5
+1870,5dfea13b1456970294aff35a,Spectra Vandal Chassis,16.4
+1871,5dfea13c1456970294aff35d,Spectra Vandal Set,77.5
+1872,5dfea13f1456970294aff370,Primed Smite Grineer,49.3
+1873,5dfea1411456970294aff377,Sentient Concourse Scene,
+1874,5dfea1491456970294aff3a6,Grendel Chassis Locator,23.5
+1875,5dff6e1014569703166749d9,Fire Suppression,4.2
+1876,5dff6e1014569703166749ee,Ion Burn,2.7
+1877,5dff6e1014569703166749f9,Battle Forge,6.0
+1878,5b91784d0566c80216658ce7,Mending Splinters,14.0
+1879,54e644ffe779897594fa68cd,Despoil,9.1
+1880,5b91784d0566c80216658ce9,Enveloping Cloud,13.9
+1881,54e644ffe779897594fa68d1,Jet Stream,15.0
+1882,578d33bf34003bbbb9e20921,Corvas Barrel,12.6
+1883,5be5f59f3ffcc7038857f100,No Current Leap,
+1884,55c153e7e779895d9dec229d,Patagium,3.3
+1885,55e76cf1e779890d4a67ee18,Prisma Skana,73.2
+1886,56783f24cbfa8f0432dd8994,Bronco Prime Set,12.4
+1887,57889e1f4fff472f131a12ea,Astral Slash,5.6
+1888,5ab1570db2b6a8044d5137c4,Zephyr Prime Systems Blueprint,39.4
+1889,56b656e0ef0390c7e4006383,Duality,11.0
+1890,56dac5765cc639de0a45c51d,Push & Pull,
+1891,54a74454e779892d5e515681,Efficient Transferral,5.9
+1892,5d322d1274bdad027da4d0a3,Gas City Upper Logistics Scene,
+1893,5d6ea6737ea27b05d929cbf7,Lua Zenurik Lens,42.2
+1894,5d6ea6757ea27b05d929cbf8,Lapis Antitoxin,
+1895,5d6ea6757ea27b05d929cbf9,Vermillion Antitoxin,
+1896,5d6ea6767ea27b05d929cbfa,Exposing Harpoon,12.3
+1897,5d6ea6777ea27b05d929cbfb,Efficient Beams,125.0
+1898,5d6ea6777ea27b05d929cbfc,Companion Weapon Riven Mod (Veiled),17.4
+1899,5d6ea67a7ea27b05d929cbfd,Beryl Antitoxin,
+1900,5d6ea67b7ea27b05d929cbfe,Meticulous Aim,16.5
+1901,5d6ea67d7ea27b05d929cbff,Lua Lens Blueprint,7.3
+1902,5d6ea67d7ea27b05d929cc00,Lua Madurai Lens,41.6
+1903,5d6ea67d7ea27b05d929cc01,Topaz Antitoxin,
+1904,5d6ea67d7ea27b05d929cc02,Amethyst Antitoxin,
+1905,5d6ea67e7ea27b05d929cc03,Lua Vazarin Lens,26.5
+1906,5d6ea6817ea27b05d929cc06,Lua Naramon Lens,27.8
+1907,5d8765df7ea27b08950c13ca,Arcane Tanker,6.3
+1908,5d8765df7ea27b08950c13cc,Arcane Pistoleer,8.5
+1909,5d8f65b17ea27b0968b6e577,Pathocyst Blueprint,4.1
+1910,5d8f65b17ea27b0968b6e578,Pathocyst Blade,12.0
+1911,5d8f65b27ea27b0968b6e579,Pathocyst Set,45.1
+1912,5ada1ab4b2b6a80bb33793f5,Concentrated Arrow,14.0
+1913,56783f24cbfa8f0432dd898f,Ash Prime Set,87.1
+1914,5b2987abeb069f0536234277,Limbo Prime Neuroptics Blueprint,19.3
+1915,5ada1ab4b2b6a80bb33793f6,Energy Transfer,17.0
+1916,5ba9f2034567de01415f638c,Smeeta Kavat Imprint,26.2
+1917,5ba9f2054567de01415f6390,Chroma Prime Blueprint,6.1
+1918,5dbe9b087ea27b0ffe3ca269,Ayatan Zambuka Sculpture,13.5
+1919,5dbe9b0d7ea27b0ffe3ca275,Auto Breach,9.3
+1920,5dbe9b0e7ea27b0ffe3ca276,Untraceable,11.4
+1921,5dbe9b0e7ea27b0ffe3ca277,Vome,12.1
+1922,5dbe9b0e7ea27b0ffe3ca278,Fass,10.9
+1923,57bc948ae506eb45ea25144d,Twin Vipers Wraith Barrels,10.6
+1924,5be5f5a13ffcc7038857f10d,Marquise Thyst,2.8
+1925,5ba9f2034567de01415f638a,Sahasa Kubrow Imprint,14.7
+1926,5ba9f2044567de01415f638e,Huras Kubrow Imprint,15.5
+1927,5be5f5a43ffcc7038857f12d,Goblite Tears,1.0
+1928,5be701113ffcc703e462c704,Nitro Boost,24.0
+1929,5be701133ffcc703e462c708,Extreme Velocity,24.0
+1930,5bf54b473ffcc7066e7eb853,Pax Charge,5.7
+1931,5c182b739603780081b09a53,Mesa Prime Set,94.2
+1932,5c182b749603780081b09a56,Mesa Prime Systems Blueprint,38.6
+1933,5c182b749603780081b09a57,Mesa Prime Chassis Blueprint,6.3
+1934,5c1bd9fe14a8e4006b1dad53,Magus Revert,135.8
+1935,5dff6e111456970316674a0d,Intruder Stasis,8.3
+1936,5dff6e111456970316674a12,Hyperstrike,2.7
+1937,5dff6e111456970316674a15,Predator,3.4
+1938,5dff6e111456970316674a16,Conic Nozzle,3.5
+1939,5dff6e111456970316674a1b,Ripload,4.6
+1940,5dff6e111456970316674a1c,Pennant Blueprint,20.1
+1941,5dff6e111456970316674a1d,Form Up,8.8
+1942,5dff6e111456970316674a20,Quellor Blueprint,18.4
+1943,5dff7487145697033dc61a04,Seeker Volley,3.7
+1944,5e4145917b0275011bc5b7d2,Reactive Storm,12.1
+1945,55e797dde77989248e0e6d54,Synoid Simulor,28.3
+1946,5baa8bbf4567de01ac283499,Rubico Prime Blueprint,34.6
+1947,5615369ab66f836f805c5a8b,Trinity Prime Chassis Blueprint,9.1
+1948,57c05949d0d9ef638234e4ab,Growing Power,29.7
+1949,5dbe9b107ea27b0ffe3ca27b,Blood For Life,5.3
+1950,5dbe9b107ea27b0ffe3ca27c,Jahu,12.4
+1951,5dbe9b127ea27b0ffe3ca282,Ris,10.8
+1952,5dbe9b127ea27b0ffe3ca283,Netra,12.7
+1953,5df8b0aa1456970087cd9aff,Ivara Prime Blueprint,6.2
+1954,5df955141456970150510f28,Aksomati Prime Blueprint,4.0
+1955,5dfea030145697027e409302,Shedu Handle,15.7
+1956,5dfea13f1456970294aff371,Spectra Vandal Barrel,15.0
+1957,5dfea1441456970294aff38b,Vasca Kavat Imprint,16.7
+1958,5dfea1441456970294aff38f,Primed Smite Corrupted,47.9
+1959,5dfea1461456970294aff396,Grendel Neuroptics Locator,22.5
+1960,5dff6e0f14569703166749cc,Forward Artillery,96.6
+1961,5dff6e1014569703166749ef,Munitions Vortex,4.6
+1962,5bd05acf3ffcc700eb7cfcfb,Chamber Of The Lotus Scene,59.6
+1963,54e0c9eee7798903744178aa,Seeking Shuriken,10.6
+1964,54e644ffe779897594fa68d3,Shocking Speed,12.2
+1965,5510859ce779897292ba1efc,Arcane Avenger,13.3
+1966,57bc9a40e506eb45ea251451,Nekros Prime Set,99.7
+1967,551085d6e7798972bcb28132,Arcane Phantasm,11.4
+1968,57bc9a40e506eb45ea251454,Nekros Prime Systems Blueprint,33.5
+1969,5ba9f2014567de01415f6387,Chroma Prime Systems Blueprint,13.1
+1970,5be5f5a23ffcc7038857f121,Last Herald,
+1971,551085dde7798972c228aed9,Arcane Rage,3.7
+1972,5ba9f2024567de01415f6388,Chroma Prime Chassis Blueprint,7.7
+1973,57bc9c99e506eb45ea25145a,Galatine Prime Set,58.2
+1974,5ba9f2024567de01415f6389,Chroma Prime Neuroptics Blueprint,22.1
+1975,5c196fad96037800ddadac13,Akjagara Prime Blueprint,4.1
+1976,5c1bda0114a8e4006b1dad58,Strain Infection,13.2
+1977,5c1bda0314a8e4006b1dad5d,Quick Escape,
+1978,5dff6e111456970316674a0e,Void Hole,2.8
+1979,5e02154d14569703bf43e54b,Death Blossom,10.0
+1980,5e4145927b0275011bc5b7d3,Sentient Altar Scene,
+1981,5e4e4a3526753901984c2f24,Zylok,52.4
+1982,57bc9c99e506eb45ea25145b,Galatine Prime Handle,5.8
+1983,5c1bda0d14a8e4006b1dad6c,Cold Arrival,
+1984,554d3b75e77989423ccdf0da,Vexing Retaliation,21.0
+1985,5c1bda0f14a8e4006b1dad72,Magus Lockdown,6.9
+1986,5ba9f2054567de01415f6392,Chesa Kubrow Imprint,13.7
+1987,55e797f3e77989249d164946,Rakta Cernos,26.5
+1988,5c1bda1214a8e4006b1dad7b,Pop Top,24.0
+1989,561536deb66f836f8bbaca47,Dual Kamas Prime Blade,43.3
+1990,5e7caa01267539063de48c3b,Controlled Slide,13.0
+1991,5e7caa01267539063de48c3c,Mending Shot,27.1
+1992,5e7caa01267539063de48c3d,Ironclad Flight,11.8
+1993,5e839493267539077b0dd6a4,Pangolin Prime Handle,6.4
+1994,5e839493267539077b0dd6a5,Corinth Prime Set,70.8
+1995,5e839494267539077b0dd6a9,Pangolin Prime Blueprint,12.0
+1996,5e839494267539077b0dd6b1,Overloader,13.0
+1997,5e839494267539077b0dd6b4,Corinth Prime Barrel,43.3
+1998,5e839494267539077b0dd6b5,Corinth Prime Receiver,5.5
+1999,5f498a269426ed00443bd0d3,Damaged Necramech Casing,1.5
+2000,5f498a269426ed00443bd0d5,Stellated Necrathene,2.3
+2001,5f498a269426ed00443bd0d7,Purged Dagonic,1.0
+2002,5f498a279426ed00443bd0da,Transfusion,15.0
+2003,5f498a279426ed00443bd0db,Carnis Carapace,3.2
+2004,5f498a279426ed00443bd0dc,Jugulus Carapace,30.6
+2005,5f498a279426ed00443bd0dd,Sly Devolution,
+2006,5f498a279426ed00443bd0de,Blast Shield,
+2007,5f498a279426ed00443bd0e1,Iatric Mycelium,
+2008,5f4ed3ecd5c36d0086f55af6,Deimos Vault Scene,
+2009,5f4ed3eed5c36d0086f55af7,Deimos Chamber Scene,
+2010,5f4ed3efd5c36d0086f55af8,Deimos Breakthrough Scene,
+2011,5f4ed3f0d5c36d0086f55af9,Necramech Streamline,12.4
+2012,5f4ed3f0d5c36d0086f55afa,Grineer Galleon Cargo Scene,
+2013,5f4ed3f1d5c36d0086f55afb,Orbiter Scene,97.9
+2014,5f4ed3f2d5c36d0086f55afd,Artillery Battery Scene,
+2015,5f4ed3f3d5c36d0086f55b00,Deimos Catacombs Scene,56.0
+2016,5f4ed3f3d5c36d0086f55b01,Deimos Tunnels Scene,
+2017,5f4ed3f5d5c36d0086f55b02,Damzav-Vati,37.1
+2018,5f4ed3f5d5c36d0086f55b03,Hata-Satya,19.8
+2019,5f4ed3f6d5c36d0086f55b05,Zazvat-Kar,
+2020,5f4ed3f7d5c36d0086f55b06,Corpus Depository Scene,7.4
+2021,5f4ed3f7d5c36d0086f55b07,Necramech Hydraulics,9.1
+2022,5f4ed3f8d5c36d0086f55b08,Necramech Blitz,
+2023,5f4ed3f8d5c36d0086f55b09,Gas City Element Distribution Scene,12.0
+2024,5f4ed3f9d5c36d0086f55b0a,Necramech Fury,2.9
+2025,5f4ed3fad5c36d0086f55b0d,Deimos Downfall Scene,
+2026,5f986cf99dbdce024971b0b8,Guandao Prime Blade,9.3
+2027,5f986cf99dbdce024971b0b9,Zakti Prime Blueprint,12.7
+2028,5f986cf99dbdce024971b0bc,Guandao Prime Handle,17.4
+2029,5f986cf99dbdce024971b0bd,Zakti Prime Barrel,4.1
+2030,5f986cfa9dbdce024971b0be,Nezha Prime Systems Blueprint,3.6
+2031,5f986cfa9dbdce024971b0bf,Nezha Prime Chassis Blueprint,20.7
+2032,5f986cfb9dbdce024971b0c0,Zakti Prime Receiver,5.4
+2033,5f986cfb9dbdce024971b0c1,Nezha Prime Neuroptics Blueprint,23.8
+2034,5f986cfc9dbdce024971b0c2,Nezha Prime Set,63.7
+2035,5fb84767c34da3004797d53d,Necramech Drift,7.4
+2036,5fb84768c34da3004797d547,Sporothrix Stock,34.5
+2037,5fb84768c34da3004797d549,Arum Spinosa Rivet,50.7
+2038,5fb84768c34da3004797d54a,Martyr Symbiosis,15.3
+2039,5fb84769c34da3004797d555,Necramech Friction,4.4
+2040,5fde10c36db57b0185b39074,Necramech Repair,54.6
+2041,5fde10c36db57b0185b39077,Voidrig Casing,19.4
+2042,5fde10c36db57b0185b39078,Morgha Set,190.5
+2043,5fde10c36db57b0185b39079,Ceti Lacera Blueprint,20.4
+2044,5fde10c46db57b0185b3907a,Necramech Rage,34.0
+2045,5fde10c46db57b0185b3907b,Morgha Barrel,58.8
+2046,5fde10c46db57b0185b3907c,Voidrig Capsule,24.9
+2047,5fde10c56db57b0185b3907f,Basmu Blueprint,28.9
+2048,5fde10c56db57b0185b39082,Voidrig Weapon Pod,20.9
+2049,5fe0ea836db57b0225115014,Cedo Blueprint,8.4
+2050,6036214f0a372600fd5614cf,Octavia Prime Blueprint,45.3
+2051,6036214f0a372600fd5614d0,Tenora Prime Blueprint,3.5
+2052,6036214f0a372600fd5614d1,Tenora Prime Receiver,20.9
+2053,6036214f0a372600fd5614d2,Pandero Prime Set,26.5
+2054,6036214f0a372600fd5614d3,Tenora Prime Stock,6.7
+2055,6036214f0a372600fd5614d4,Tenora Prime Set,48.8
+2056,6036214f0a372600fd5614d5,Pandero Prime Barrel,4.2
+2057,603621500a372600fd5614d6,Tenora Prime Barrel,10.5
+2058,603621500a372600fd5614d7,Octavia Prime Chassis Blueprint,11.2
+2059,603621500a372600fd5614d8,Octavia Prime Neuroptics Blueprint,3.7
+2060,603621500a372600fd5614d9,Pandero Prime Receiver,16.7
+2061,603621500a372600fd5614da,Octavia Prime Systems Blueprint,6.3
+2062,603621500a372600fd5614db,Pandero Prime Blueprint,3.8
+2063,603621500a372600fd5614dc,Octavia Prime Set,75.1
+2064,604b78670a372603583c1643,Primed Chilling Grasp,57.3
+2065,60537c312201ea0053ec2e57,Equilibrium (Steam Pinnacle Pack),1830.2
+2066,60537c312201ea0053ec2e58,Mark Of The Beast,58.5
+2067,60537c312201ea0053ec2e59,Nihil's Oubliette (Key),41.7
+2068,60537c322201ea0053ec2e5a,Baro Void-Signal (Key),29.0
+2069,6054dd075221e30057500f15,Requiem IV Relic,3.3
+2070,6054dd095221e30057500f16,Requiem III Relic,3.2
+2071,6054dd0b5221e30057500f17,Requiem II Relic,3.0
+2072,6054dd0c5221e30057500f18,Requiem I Relic,2.8
+2073,6054dd0e5221e30057500f19,Axi H3 Relic,13.6
+2074,6054dd0f5221e30057500f1a,Axi O2 Relic,
+2075,6054dd115221e30057500f1b,Axi K2 Relic,
+2076,6054dd125221e30057500f1c,Axi R1 Relic,11.4
+2077,6054dd145221e30057500f1d,Axi B2 Relic,9.2
+2078,6054dd155221e30057500f1e,Axi L5 Relic,23.4
+2079,6054dd165221e30057500f1f,Axi P1 Relic,
+2080,6054dd185221e30057500f20,Axi M1 Relic,13.0
+2081,6054dd195221e30057500f21,Axi D1 Relic,11.2
+2082,6054dd1a5221e30057500f22,Axi G2 Relic,
+2083,6054dd1b5221e30057500f23,Axi O1 Relic,
+2084,6054dd1c5221e30057500f24,Axi V8 Relic,17.0
+2085,6054dd1d5221e30057500f25,Axi H2 Relic,
+2086,6054dd1e5221e30057500f26,Axi C2 Relic,13.6
+2087,6054dd1f5221e30057500f27,Axi A10 Relic,10.0
+2088,6054dd205221e30057500f28,Axi T5 Relic,
+2089,6054dd225221e30057500f29,Axi T4 Relic,
+2090,6054dd225221e30057500f2a,Axi G4 Relic,
+2091,6054dd235221e30057500f2b,Axi H1 Relic,17.0
+2092,6054dd245221e30057500f2c,Axi S5 Relic,15.6
+2093,6054dd255221e30057500f2d,Axi V9 Relic,12.0
+2094,6054dd265221e30057500f2e,Axi E2 Relic,10.3
+2095,6054dd285221e30057500f2f,Axi S3 Relic,3.7
+2096,6054dd2b5221e30057500f30,Axi B1 Relic,
+2097,6054dd2c5221e30057500f31,Axi E1 Relic,21.5
+2098,6054dd2e5221e30057500f32,Axi A2 Relic,9.2
+2099,6054dd315221e30057500f33,Axi T6 Relic,
+2100,6054dd315221e30057500f34,Axi C6 Relic,8.5
+2101,6054dd325221e30057500f35,Axi W2 Relic,8.0
+2102,6054dd325221e30057500f36,Axi A13 Relic,4.2
+2103,6054dd335221e30057500f37,Axi O5 Relic,7.0
+2104,6054dd345221e30057500f38,Axi S6 Relic,7.0
+2105,6054dd355221e30057500f39,Axi C1 Relic,14.2
+2106,6054dd365221e30057500f3a,Axi S8 Relic,
+2107,6054dd375221e30057500f3b,Axi V10 Relic,7.6
+2108,6054dd375221e30057500f3c,Axi S7 Relic,9.1
+2109,6054dd385221e30057500f3d,Axi Z1 Relic,7.8
+2110,6054dd395221e30057500f3e,Axi V5 Relic,11.8
+2111,6054dd3a5221e30057500f3f,Axi A3 Relic,14.2
+2112,6054dd3b5221e30057500f40,Axi V7 Relic,8.8
+2113,6054dd3c5221e30057500f41,Axi C4 Relic,
+2114,6054dd3d5221e30057500f42,Axi L3 Relic,13.8
+2115,6054dd3e5221e30057500f43,Axi H4 Relic,12.2
+2116,6054dd405221e30057500f44,Axi R2 Relic,10.5
+2117,6054dd425221e30057500f45,Axi A5 Relic,9.6
+2118,6054dd445221e30057500f46,Axi S4 Relic,11.0
+2119,6054dd465221e30057500f47,Axi V4 Relic,20.8
+2120,6054dd475221e30057500f48,Axi L4 Relic,15.9
+2121,6054dd4a5221e30057500f49,Axi A4 Relic,
+2122,6054dd4b5221e30057500f4a,Axi L2 Relic,8.8
+2123,6054dd4d5221e30057500f4b,Axi O3 Relic,
+2124,6054dd4e5221e30057500f4c,Axi K3 Relic,11.2
+2125,6054dd4f5221e30057500f4d,Axi G1 Relic,21.6
+2126,6054dd505221e30057500f4e,Axi T1 Relic,
+2127,6054dd515221e30057500f4f,Axi A9 Relic,
+2128,6054dd535221e30057500f50,Axi P3 Relic,
+2129,6054dd545221e30057500f51,Axi D2 Relic,
+2130,6054dd545221e30057500f52,Axi B3 Relic,10.8
+2131,6054dd565221e30057500f53,Axi A8 Relic,
+2132,6054dd565221e30057500f54,Axi W1 Relic,14.4
+2133,6054dd575221e30057500f55,Axi B4 Relic,
+2134,6054dd585221e30057500f56,Axi C5 Relic,8.6
+2135,6054dd595221e30057500f57,Axi A11 Relic,13.0
+2136,6054dd595221e30057500f58,Axi N3 Relic,22.0
+2137,6054dd5b5221e30057500f59,Axi V6 Relic,
+2138,6054dd5c5221e30057500f5a,Axi N5 Relic,14.0
+2139,6054dd5d5221e30057500f5b,Axi N4 Relic,
+2140,6054dd5e5221e30057500f5c,Axi V3 Relic,
+2141,6054dd5f5221e30057500f5d,Axi N2 Relic,16.4
+2142,6054dd605221e30057500f5e,Axi V2 Relic,10.4
+2143,6054dd615221e30057500f5f,Axi K5 Relic,10.9
+2144,6054dd635221e30057500f60,Axi T2 Relic,10.0
+2145,6054dd635221e30057500f61,Axi S2 Relic,15.5
+2146,6054dd655221e30057500f62,Axi L1 Relic,32.7
+2147,6054dd685221e30057500f63,Axi A1 Relic,9.0
+2148,6054dd6a5221e30057500f64,Axi N1 Relic,13.6
+2149,6054dd6b5221e30057500f65,Axi O4 Relic,
+2150,6054dd6d5221e30057500f66,Axi K4 Relic,
+2151,6054dd6d5221e30057500f67,Axi C3 Relic,
+2152,6054dd6f5221e30057500f68,Axi K1 Relic,8.7
+2153,6054dd705221e30057500f69,Axi A12 Relic,14.4
+2154,6054dd715221e30057500f6a,Axi H5 Relic,6.2
+2155,6054dd715221e30057500f6b,Axi V1 Relic,19.6
+2156,6054dd735221e30057500f6c,Axi T3 Relic,
+2157,6054dd745221e30057500f6d,Axi G3 Relic,
+2158,6054dd745221e30057500f6e,Axi R3 Relic,
+2159,6054dd755221e30057500f6f,Axi A6 Relic,8.5
+2160,6054dd775221e30057500f70,Axi P2 Relic,
+2161,6054dd785221e30057500f71,Axi A7 Relic,16.4
+2162,6054dd795221e30057500f72,Axi N6 Relic,33.0
+2163,6054dd7a5221e30057500f73,Axi S1 Relic,8.2
+2164,6054dd7a5221e30057500f74,Neo Z1 Relic,6.0
+2165,6054dd7b5221e30057500f75,Neo B4 Relic,7.0
+2166,6054dd7c5221e30057500f76,Neo K1 Relic,3.6
+2167,6054dd7d5221e30057500f77,Neo N7 Relic,10.4
+2168,6054dd7e5221e30057500f78,Neo B3 Relic,9.4
+2169,6054dd7f5221e30057500f79,Neo N6 Relic,15.1
+2170,6054dd805221e30057500f7a,Neo R2 Relic,4.6
+2171,6054dd825221e30057500f7b,Neo Z3 Relic,4.4
+2172,6054dd825221e30057500f7c,Neo S12 Relic,3.8
+2173,6054dd835221e30057500f7d,Neo B2 Relic,2.8
+2174,6054dd845221e30057500f7e,Neo O1 Relic,14.8
+2175,6054dd855221e30057500f7f,Neo S6 Relic,
+2176,6054dd865221e30057500f80,Neo V5 Relic,7.3
+2177,6054dd875221e30057500f81,Neo R4 Relic,5.0
+2178,6054dd885221e30057500f82,Neo M3 Relic,5.0
+2179,6054dd895221e30057500f83,Neo P1 Relic,3.4
+2180,6054dd8a5221e30057500f84,Neo I2 Relic,3.6
+2181,6054dd8b5221e30057500f85,Neo B1 Relic,
+2182,6054dd8c5221e30057500f86,Neo S13 Relic,17.1
+2183,6054dd8d5221e30057500f87,Neo N5 Relic,19.0
+2184,6054dd8e5221e30057500f88,Neo R1 Relic,4.4
+2185,6054dd925221e30057500f89,Neo T1 Relic,
+2186,6054dd925221e30057500f8a,Neo S5 Relic,18.2
+2187,6054dd945221e30057500f8b,Neo N15 Relic,1.8
+2188,6054dd945221e30057500f8c,Neo B7 Relic,2.0
+2189,6054dd955221e30057500f8d,Neo P2 Relic,2.0
+2190,6054dd965221e30057500f8e,Neo Z7 Relic,2.4
+2191,6054dd965221e30057500f8f,Neo N14 Relic,
+2192,6054dd975221e30057500f90,Neo G3 Relic,5.6
+2193,6054dd985221e30057500f91,Neo N11 Relic,7.8
+2194,6054dd995221e30057500f92,Neo N4 Relic,13.6
+2195,6054dd9a5221e30057500f93,Neo V9 Relic,9.4
+2196,6054dd9a5221e30057500f94,Neo N12 Relic,8.4
+2197,6054dd9b5221e30057500f95,Neo E2 Relic,7.4
+2198,6054dd9c5221e30057500f96,Neo Z6 Relic,2.4
+2199,6054dd9d5221e30057500f97,Neo S14 Relic,
+2200,6054dd9d5221e30057500f98,Neo N13 Relic,3.1
+2201,6054dd9e5221e30057500f99,Neo D2 Relic,3.6
+2202,6054dd9f5221e30057500f9a,Neo V4 Relic,8.6
+2203,6054dda05221e30057500f9b,Neo V6 Relic,7.4
+2204,6054dda15221e30057500f9c,Neo M1 Relic,4.5
+2205,6054dda25221e30057500f9d,Neo S9 Relic,5.6
+2206,6054dda25221e30057500f9e,Neo M2 Relic,5.2
+2207,6054dda45221e30057500f9f,Neo Z2 Relic,3.6
+2208,6054dda45221e30057500fa0,Neo N9 Relic,13.8
+2209,6054dda65221e30057500fa1,Neo A1 Relic,10.0
+2210,6054dda75221e30057500fa2,Neo V8 Relic,12.0
+2211,6054dda95221e30057500fa3,Neo B5 Relic,2.8
+2212,6054ddaa5221e30057500fa4,Neo V7 Relic,5.6
+2213,6054ddab5221e30057500fa5,Neo N8 Relic,5.1
+2214,6054ddac5221e30057500fa6,Neo L1 Relic,11.2
+2215,6054ddad5221e30057500fa7,Neo V3 Relic,8.2
+2216,6054ddae5221e30057500fa8,Neo V2 Relic,4.1
+2217,6054ddaf5221e30057500fa9,Neo G2 Relic,
+2218,6054ddb05221e30057500faa,Neo R3 Relic,4.4
+2219,6054ddb15221e30057500fab,Neo Z5 Relic,2.8
+2220,6054ddb15221e30057500fac,Neo I1 Relic,5.2
+2221,6054ddb25221e30057500fad,Neo T3 Relic,4.2
+2222,6054ddb35221e30057500fae,Neo N3 Relic,12.9
+2223,6054ddb35221e30057500faf,Neo H1 Relic,9.6
+2224,6054ddb55221e30057500fb0,Neo S8 Relic,6.3
+2225,6054ddb65221e30057500fb1,Neo S7 Relic,3.0
+2226,6054ddb75221e30057500fb2,Neo S3 Relic,
+2227,6054ddb85221e30057500fb3,Neo D1 Relic,13.0
+2228,6054ddb95221e30057500fb4,Neo C1 Relic,3.5
+2229,6054ddba5221e30057500fb5,Neo N10 Relic,5.9
+2230,6054ddbb5221e30057500fb6,Neo S11 Relic,4.0
+2231,6054ddbb5221e30057500fb7,Neo E1 Relic,17.2
+2232,6054ddbd5221e30057500fb8,Neo F1 Relic,23.0
+2233,6054ddbe5221e30057500fb9,Neo V1 Relic,15.4
+2234,6054ddc05221e30057500fba,Neo N2 Relic,16.8
+2235,6054ddc15221e30057500fbb,Neo H2 Relic,8.6
+2236,6054ddc25221e30057500fbc,Neo A2 Relic,2.0
+2237,6054ddc35221e30057500fbd,Neo G1 Relic,3.8
+2238,6054ddc45221e30057500fbe,Neo K2 Relic,4.6
+2239,6054ddc55221e30057500fbf,Neo N1 Relic,7.4
+2240,6054ddc65221e30057500fc0,Neo B6 Relic,3.8
+2241,6054ddc75221e30057500fc1,Neo S2 Relic,18.0
+2242,6054ddc85221e30057500fc2,Neo A3 Relic,3.3
+2243,6054ddc95221e30057500fc3,Neo Z4 Relic,
+2244,6054ddca5221e30057500fc4,Neo T2 Relic,2.0
+2245,6054ddcb5221e30057500fc5,Neo A4 Relic,12.6
+2246,6054ddcc5221e30057500fc6,Neo S10 Relic,26.4
+2247,6054ddcd5221e30057500fc7,Neo S1 Relic,15.6
+2248,6054ddce5221e30057500fc8,Meso T2 Relic,
+2249,6054ddcf5221e30057500fc9,Meso T1 Relic,2.5
+2250,6054ddd05221e30057500fca,Meso O2 Relic,10.2
+2251,6054ddd15221e30057500fcb,Meso S6 Relic,
+2252,6054ddd15221e30057500fcc,Meso M1 Relic,9.2
+2253,6054ddd25221e30057500fcd,Meso V5 Relic,
+2254,6054ddd45221e30057500fce,Meso N7 Relic,4.1
+2255,6054ddd55221e30057500fcf,Meso K2 Relic,10.6
+2256,6054ddd65221e30057500fd0,Meso A2 Relic,4.0
+2257,6054ddd65221e30057500fd1,Meso N4 Relic,9.0
+2258,6054ddd75221e30057500fd2,Meso S5 Relic,8.8
+2259,6054ddd85221e30057500fd3,Meso O1 Relic,
+2260,6054ddd95221e30057500fd4,Meso C5 Relic,5.2
+2261,6054ddda5221e30057500fd5,Meso R3 Relic,4.7
+2262,6054ddda5221e30057500fd6,Meso E4 Relic,3.9
+2263,6054dddb5221e30057500fd7,Meso V4 Relic,13.8
+2264,6054dddc5221e30057500fd8,Meso N8 Relic,15.6
+2265,6054dddd5221e30057500fd9,Meso S4 Relic,16.0
+2266,6054ddde5221e30057500fda,Meso N6 Relic,4.8
+2267,6054dddf5221e30057500fdb,Meso N3 Relic,
+2268,6054dde05221e30057500fdc,Meso F2 Relic,21.0
+2269,6054dde15221e30057500fdd,Meso T4 Relic,
+2270,6054dde25221e30057500fde,Meso D6 Relic,1.9
+2271,6054dde25221e30057500fdf,Meso P4 Relic,2.7
+2272,6054dde35221e30057500fe0,Meso O4 Relic,8.4
+2273,6054dde45221e30057500fe1,Meso S3 Relic,10.4
+2274,6054dde55221e30057500fe2,Meso N11 Relic,
+2275,6054dde65221e30057500fe3,Meso D5 Relic,8.1
+2276,6054dde75221e30057500fe4,Meso G2 Relic,
+2277,6054dde75221e30057500fe5,Meso C6 Relic,2.6
+2278,6054dde85221e30057500fe6,Meso V3 Relic,14.2
+2279,6054dde85221e30057500fe7,Meso K1 Relic,
+2280,6054ddea5221e30057500fe8,Meso H1 Relic,5.0
+2281,6054ddea5221e30057500fe9,Meso M2 Relic,5.4
+2282,6054ddeb5221e30057500fea,Meso A1 Relic,6.0
+2283,6054ddec5221e30057500feb,Meso Z2 Relic,4.6
+2284,6054dded5221e30057500fec,Meso P1 Relic,5.0
+2285,6054dded5221e30057500fed,Meso B3 Relic,9.6
+2286,6054ddee5221e30057500fee,Meso C2 Relic,21.5
+2287,6054ddef5221e30057500fef,Meso O3 Relic,13.1
+2288,6054ddf05221e30057500ff0,Meso S7 Relic,6.4
+2289,6054ddf15221e30057500ff1,Meso B2 Relic,9.2
+2290,6054ddf25221e30057500ff2,Meso Z1 Relic,5.3
+2291,6054ddf35221e30057500ff3,Meso D2 Relic,5.8
+2292,6054ddf35221e30057500ff4,Meso F1 Relic,12.2
+2293,6054ddf45221e30057500ff5,Meso S2 Relic,9.5
+2294,6054ddf75221e30057500ff6,Meso L1 Relic,8.2
+2295,6054ddf85221e30057500ff7,Meso C4 Relic,3.2
+2296,6054ddf95221e30057500ff8,Meso R2 Relic,7.8
+2297,6054ddf95221e30057500ff9,Meso N9 Relic,1.8
+2298,6054ddfa5221e30057500ffa,Meso B4 Relic,3.6
+2299,6054ddfb5221e30057500ffb,Meso I1 Relic,1.4
+2300,6054ddfc5221e30057500ffc,Meso K3 Relic,2.4
+2301,6054ddfc5221e30057500ffd,Meso N10 Relic,4.0
+2302,6054ddfd5221e30057500ffe,Meso P3 Relic,2.4
+2303,6054ddfe5221e30057500fff,Meso P2 Relic,2.2
+2304,6054ddfe5221e30057501000,Meso S1 Relic,
+2305,6054ddff5221e30057501001,Meso G1 Relic,5.6
+2306,6054de005221e30057501002,Meso C3 Relic,19.4
+2307,6054de015221e30057501003,Meso N5 Relic,9.7
+2308,6054de025221e30057501004,Meso V1 Relic,9.2
+2309,6054de045221e30057501005,Meso B1 Relic,14.6
+2310,6054de055221e30057501006,Meso E2 Relic,5.2
+2311,6054de065221e30057501007,Meso Z3 Relic,4.6
+2312,6054de065221e30057501008,Meso M3 Relic,5.6
+2313,6054de075221e30057501009,Meso F3 Relic,27.8
+2314,6054de085221e3005750100a,Meso E1 Relic,18.8
+2315,6054de095221e3005750100b,Meso N2 Relic,11.2
+2316,6054de0a5221e3005750100c,Meso V2 Relic,10.1
+2317,6054de0c5221e3005750100d,Meso R1 Relic,4.8
+2318,6054de0d5221e3005750100e,Meso D3 Relic,4.8
+2319,6054de0e5221e3005750100f,Meso T3 Relic,3.4
+2320,6054de0e5221e30057501010,Meso S8 Relic,
+2321,6054de0f5221e30057501011,Meso C1 Relic,11.5
+2322,6054de105221e30057501012,Meso E5 Relic,3.6
+2323,6054de115221e30057501013,Meso N1 Relic,
+2324,6054de125221e30057501014,Meso E3 Relic,4.7
+2325,6054de135221e30057501015,Meso D4 Relic,2.8
+2326,6054de145221e30057501016,Meso W1 Relic,7.8
+2327,6054de145221e30057501017,Meso V6 Relic,19.0
+2328,6054de155221e30057501018,Meso S9 Relic,12.8
+2329,6054de165221e30057501019,Meso D1 Relic,8.4
+2330,6054de175221e3005750101a,Lith H2 Relic,4.7
+2331,6054de185221e3005750101b,Lith Z1 Relic,7.2
+2332,6054de195221e3005750101c,Lith B1 Relic,10.4
+2333,6054de1a5221e3005750101d,Lith A2 Relic,5.8
+2334,6054de1b5221e3005750101e,Lith L1 Relic,4.0
+2335,6054de1b5221e3005750101f,Lith W1 Relic,8.8
+2336,6054de1c5221e30057501020,Lith V4 Relic,8.4
+2337,6054de1d5221e30057501021,Lith S6 Relic,8.6
+2338,6054de1e5221e30057501022,Lith N3 Relic,10.5
+2339,6054de1f5221e30057501023,Lith N4 Relic,3.2
+2340,6054de205221e30057501024,Lith M5 Relic,5.6
+2341,6054de215221e30057501025,Lith C6 Relic,1.6
+2342,6054de225221e30057501026,Lith C5 Relic,8.8
+2343,6054de235221e30057501027,Lith V6 Relic,17.5
+2344,6054de245221e30057501028,Lith V3 Relic,4.0
+2345,6054de255221e30057501029,Lith B4 Relic,4.6
+2346,6054de275221e3005750102a,Lith N2 Relic,17.0
+2347,6054de275221e3005750102b,Lith G1 Relic,64.4
+2348,6054de295221e3005750102c,Lith I1 Relic,3.9
+2349,6054de295221e3005750102d,Lith T5 Relic,
+2350,6054de2a5221e3005750102e,Lith G3 Relic,5.4
+2351,6054de2a5221e3005750102f,Lith B8 Relic,2.2
+2352,6054de2b5221e30057501030,Lith D4 Relic,
+2353,6054de2c5221e30057501031,Lith T3 Relic,8.6
+2354,6054de2c5221e30057501032,Lith S9 Relic,7.4
+2355,6054de2d5221e30057501033,Lith S5 Relic,6.6
+2356,6054de2e5221e30057501034,Lith C7 Relic,5.6
+2357,6054de2e5221e30057501035,Lith K4 Relic,8.8
+2358,6054de2f5221e30057501036,Lith T4 Relic,4.1
+2359,6054de305221e30057501037,Lith N6 Relic,
+2360,6054de305221e30057501038,Lith B7 Relic,4.0
+2361,6054de315221e30057501039,Lith P5 Relic,2.4
+2362,6054de325221e3005750103a,Lith D3 Relic,
+2363,6054de335221e3005750103b,Lith N5 Relic,
+2364,6054de335221e3005750103c,Lith P4 Relic,5.8
+2365,6054de345221e3005750103d,Lith S4 Relic,9.2
+2366,6054de355221e3005750103e,Lith S7 Relic,4.2
+2367,6054de365221e3005750103f,Lith C2 Relic,4.0
+2368,6054de385221e30057501040,Lith K2 Relic,2.6
+2369,6054de395221e30057501041,Lith B6 Relic,4.4
+2370,6054de3a5221e30057501042,Lith M3 Relic,5.6
+2371,6054de3b5221e30057501043,Lith C4 Relic,2.7
+2372,6054de3c5221e30057501044,Lith M2 Relic,12.6
+2373,6054de3d5221e30057501045,Lith V2 Relic,10.5
+2374,6054de3f5221e30057501046,Lith O2 Relic,13.2
+2375,6054de405221e30057501047,Lith P1 Relic,5.2
+2376,6054de415221e30057501048,Lith T2 Relic,
+2377,6054de415221e30057501049,Lith V5 Relic,9.6
+2378,6054de425221e3005750104a,Lith B3 Relic,4.6
+2379,6054de435221e3005750104b,Lith N1 Relic,
+2380,6054de455221e3005750104c,Lith K1 Relic,11.8
+2381,6054de455221e3005750104d,Lith C1 Relic,
+2382,6054de465221e3005750104e,Lith W2 Relic,5.0
+2383,6054de475221e3005750104f,Lith S10 Relic,3.0
+2384,6054de485221e30057501050,Lith P3 Relic,2.2
+2385,6054de495221e30057501051,Lith D2 Relic,3.8
+2386,6054de495221e30057501052,Lith M6 Relic,5.0
+2387,6054de4a5221e30057501053,Lith S3 Relic,
+2388,6054de4b5221e30057501054,Lith H1 Relic,7.8
+2389,6054de4c5221e30057501055,Lith B2 Relic,4.4
+2390,6054de4d5221e30057501056,Lith T1 Relic,8.4
+2391,6054de4e5221e30057501057,Lith A1 Relic,12.1
+2392,6054de4f5221e30057501058,Lith M1 Relic,11.1
+2393,6054de505221e30057501059,Lith P2 Relic,5.8
+2394,6054de515221e3005750105a,Lith A3 Relic,2.8
+2395,6054de525221e3005750105b,Lith M4 Relic,4.1
+2396,6054de535221e3005750105c,Lith G2 Relic,65.5
+2397,6054de545221e3005750105d,Lith F2 Relic,4.4
+2398,6054de555221e3005750105e,Lith V1 Relic,4.4
+2399,6054de565221e3005750105f,Lith B5 Relic,4.2
+2400,6054de575221e30057501060,Lith C3 Relic,
+2401,6054de585221e30057501061,Lith Z2 Relic,5.2
+2402,6054de595221e30057501062,Lith O1 Relic,7.4
+2403,6054de5a5221e30057501063,Lith F1 Relic,4.4
+2404,6054de5b5221e30057501064,Lith M7 Relic,4.4
+2405,6054de5c5221e30057501065,Lith K5 Relic,5.5
+2406,6054de5d5221e30057501066,Lith S2 Relic,4.3
+2407,6054de5e5221e30057501067,Lith K3 Relic,11.8
+2408,6054de5f5221e30057501068,Lith D1 Relic,2.6
+2409,6054de605221e30057501069,Lith L2 Relic,2.7
+2410,6054de605221e3005750106a,Lith S8 Relic,2.4
+2411,6054de615221e3005750106b,Lith V8 Relic,16.7
+2412,6054de625221e3005750106c,Lith V7 Relic,13.2
+2413,6054de635221e3005750106d,Lith S1 Relic,3.0
+2414,6054de645221e3005750106e,Aquapulmo,4.8
+2415,6054de655221e3005750106f,Ostimyr,3.4
+2416,6054de665221e30057501070,Vitreospina,1.8
+2417,6054de665221e30057501071,Cryptosuctus,2.7
+2418,6054de675221e30057501072,Barbisteo,1.8
+2419,6054de675221e30057501073,Kymaeros,2.2
+2420,6054de685221e30057501074,Amniophysi,2.4
+2421,6054de695221e30057501075,Lobotriscid,1.0
+2422,6054de695221e30057501076,Flagellocanth,3.2
+2423,6054de6a5221e30057501077,Glutinox,4.1
+2424,6054de6b5221e30057501078,Myxostomata,5.0
+2425,6054de6b5221e30057501079,Duroid,3.2
+2426,6054de6c5221e3005750107a,Chondricord,3.2
+2427,6054de6c5221e3005750107b,Charc Eel,1.8
+2428,6054de6e5221e3005750107c,Goopolla,18001.8
+2429,6054de6f5221e3005750107d,Murkray,2.8
+2430,6054de775221e3005750107e,Sharrac,4.0
+2431,6054de785221e3005750107f,Karkina,2.6
+2432,6054de795221e30057501080,Mawfish,
+2433,6054de7a5221e30057501081,Khut-Khut,
+2434,6054de7b5221e30057501082,Yogwun,
+2435,6054de7c5221e30057501083,Tralok,2.6
+2436,6054de7d5221e30057501084,Mortus Lungfish,2.4
+2437,6054de7e5221e30057501085,Glappid,4.0
+2438,6054de845221e30057501086,Norg,3.6
+2439,6054de8d5221e30057501087,Cuthol,3.7
+2440,6054de935221e30057501088,Mirewinder,15.8
+2441,6054de945221e30057501089,Sapcaddy,1.8
+2442,6054de955221e3005750108a,Eye-Eye,3.8
+2443,6054de965221e3005750108b,Echowinder,3.0
+2444,6054de985221e3005750108c,Brickie,2.6
+2445,6054de995221e3005750108d,Kriller,3.2
+2446,6054de9a5221e3005750108e,Synathid,3.1
+2447,6054de9d5221e3005750108f,Charamote,3.8
+2448,6054de9f5221e30057501090,Tromyzon,2.7
+2449,6054dea25221e30057501091,Scrubber,2.4
+2450,6054dea25221e30057501092,Tink,1.6
+2451,6054dea35221e30057501093,Recaster,1.8
+2452,6054dea55221e30057501094,Longwinder,3.0
+2453,6055de865221e30083f6f108,Hemorrhage,11.3
+2454,6055de865221e30083f6f109,Auto Omni,
+2455,6055de865221e30083f6f10a,Votive Onslaught,11.5
+2456,6055de865221e30083f6f10b,Cordon,
+2457,6055de865221e30083f6f10c,Internal Bleeding,21.5
+2458,6056347f90a69e004e862873,Fortifying Fire,9.0
+2459,6056348090a69e004e862874,Nautilus Cerebrum,13.8
+2460,6056348090a69e004e862875,Nautilus Blueprint,13.9
+2461,6056348090a69e004e862876,Protective Shots,7.4
+2462,6056348190a69e004e862877,Crimson Fugue,5.0
+2463,6056348190a69e004e862878,Scourging Warheads,
+2464,6056348190a69e004e862879,Worm's Torment,3.5
+2465,6056348290a69e004e86287a,Defensive Fire,12.3
+2466,6056348290a69e004e86287b,Orgone Tuning Matrix,4.2
+2467,6056348390a69e004e86287c,Indomitable Matrix,
+2468,6056348490a69e004e86287d,Nautilus Set,83.9
+2469,6056348590a69e004e86287e,Ironclad Matrix,3.9
+2470,6056348590a69e004e86287f,Granum's Nemesis,2.8
+2471,6056348590a69e004e862880,Onslaught Matrix,3.0
+2472,6056348590a69e004e862881,Waveband Disruptor,4.6
+2473,6056348590a69e004e862882,Nautilus Carapace,14.7
+2474,6056348690a69e004e862883,Raider Matrix,3.5
+2475,6056348690a69e004e862884,Phoenix Blaze,
+2476,6056348690a69e004e862885,Nautilus Systems,15.8
+2477,60575dd590a69e0070a89ed1,Carmine Penta Receiver,15.3
+2478,60575dd590a69e0070a89ed2,Carmine Penta Stock,13.3
+2479,60575dd590a69e0070a89ed3,Carmine Penta Barrel,13.3
+2480,60575dd690a69e0070a89ed4,Carmine Penta Blueprint,10.3
+2481,60575dd690a69e0070a89ed5,Carmine Penta Set,80.0
+2482,605b1de867ea0b004939c993,Athodai Blueprint,17.6
+2483,605b1de967ea0b004939c994,Athodai Barrel,20.1
+2484,605b1de967ea0b004939c995,Athodai Receiver,20.6
+2485,605b1de967ea0b004939c996,Athodai Set,86.5
+2486,6070924a84a7d7024402d51e,Halikar Wraith,66.4
+2487,60783deb84a7d703418582cf,Epitaph Receiver,8.4
+2488,60783dec84a7d703418582d0,Epitaph Set,23.5
+2489,60783dec84a7d703418582d1,Epitaph Barrel,9.2
+2490,60783dec84a7d703418582d2,Epitaph Blueprint,8.3
+2491,60896628ea93740269271780,Deimos Depths Scene,5.6
+2492,60896629ea93740269271781,Deimos Heart Scene,8.5
+2493,60896629ea93740269271782,Deimos Cenote Scene,3.4
+2494,6089662aea93740269271784,Deimos Crypt Scene,3.8
+2495,6089662bea93740269271785,Infested Ship Hologram Scene,
+2496,6089662bea93740269271786,The Cold Below Scene,
+2497,6089662cea93740269271787,Deimos Forsaken Scene,6.2
+2498,6089662cea93740269271788,Deimos Membrane Scene,
+2499,6089662dea93740269271789,Deimos Verge Scene,5.4
+2500,6089662dea9374026927178a,Axi G5 Relic,3.6
+2501,6089662dea9374026927178b,Neo K3 Relic,7.2
+2502,6089662dea9374026927178c,Neo Z8 Relic,7.6
+2503,6089662eea9374026927178d,Meso R4 Relic,4.2
+2504,6089662eea9374026927178e,Lith C8 Relic,5.0
+2505,6089662eea9374026927178f,Lith T6 Relic,
+2506,6089662eea93740269271790,Saturn Six Scene,11.8
+2507,60ad4a1bf1904300d012c6f6,Meso P5 Relic,1.9
+2508,60ad4a1bf1904300d012c6f7,Lith K6 Relic,3.4
+2509,60ad4a1bf1904300d012c6f8,Axi G6 Relic,
+2510,60ad4a1bf1904300d012c6f9,Volnus Prime Handle,16.3
+2511,60ad4a1bf1904300d012c6fa,Volnus Prime Head,5.0
+2512,60ad4a1bf1904300d012c6fb,Neo T4 Relic,2.8
+2513,60ad4a1bf1904300d012c6fc,Meso T5 Relic,
+2514,60ad4a1bf1904300d012c6fd,Meso Z4 Relic,3.4
+2515,60ad4a1bf1904300d012c6fe,Neo V10 Relic,1.5
+2516,60ad4a1bf1904300d012c6ff,Gara Prime Blueprint,23.0
+2517,60ad4a1bf1904300d012c700,Volnus Prime Set,21.2
+2518,60ad4a1bf1904300d012c701,Gara Prime Set,44.6
+2519,60ad4a1cf1904300d012c702,Gara Prime Neuroptics Blueprint,3.5
+2520,60ad4a1cf1904300d012c703,Gara Prime Systems Blueprint,3.4
+2521,60ad4a1cf1904300d012c704,Astilla Prime Blueprint,5.0
+2522,60ad4a1cf1904300d012c705,Axi N7 Relic,6.0
+2523,60ad4a1cf1904300d012c706,Astilla Prime Receiver,4.9
+2524,60ad4a1cf1904300d012c707,Astilla Prime Barrel,11.3
+2525,60ad4a1cf1904300d012c708,Astilla Prime Set,29.3
+2526,60ad4a1cf1904300d012c709,Lith A4 Relic,3.8
+2527,60ad4a1cf1904300d012c70a,Axi I1 Relic,
+2528,60ad4a1cf1904300d012c70b,Astilla Prime Stock,4.5
+2529,60ad4a1cf1904300d012c70c,Volnus Prime Blueprint,2.5
+2530,60ad4a1df1904300d012c70d,Neo A5 Relic,3.6
+2531,60ad4a1df1904300d012c70e,Gara Prime Chassis Blueprint,6.1
+2532,60cca19052f60b004dfea04a,Lith G4 Relic,2.2
+2533,60cca19052f60b004dfea04b,Repair Dispensary,11.7
+2534,60cca19052f60b004dfea04d,Primed Tactical Pump,52.5
+2535,60cca19052f60b004dfea04e,Airburst Rounds,13.0
+2536,60cca19152f60b004dfea04f,Neo D3 Relic,2.8
+2537,60cca19152f60b004dfea050,Fused Reservoir,10.5
+2538,60cca19152f60b004dfea051,Hearty Nourishment,14.0
+2539,60cca19152f60b004dfea052,Axi T7 Relic,10.2
+2540,60df11f0169993009bbb0d11,Prisma Machete,62.8
+2541,60df162816999300b9dd13c1,Opticor Vandal,85.0
+2542,60e5b8fb4794450053e9993d,Galvanized Hell,13.5
+2543,60e5b8fc4794450053e9993e,Malicious Code,8.1
+2544,60e5b8fc4794450053e9993f,Cela Bracket Blueprint,9.1
+2545,60e5b8fc4794450053e99940,Evasive Denial,9.5
+2546,60e5b8fc4794450053e99941,Galvanized Diffusion,14.5
+2547,60e5b8fc4794450053e99942,Swift Mercy,5.5
+2548,60e5b8fc4794450053e99943,Wanz Stabilizer Blueprint,6.1
+2549,60e5b8fd4794450053e99944,Galvanized Aptitude,13.9
+2550,60e5b8fd4794450053e99945,Zubb Bracket Blueprint,7.8
+2551,60e5b8fd4794450053e99946,Hec Hound Blueprint,9.7
+2552,60e5b8fd4794450053e99947,Galvanized Scope,13.8
+2553,60e5b8fd4794450053e99948,Galvanized Acceleration,13.5
+2554,60e5b8fd4794450053e99949,Power Drain,20.8
+2555,60e5b8fd4794450053e9994a,Counterbalance,7.4
+2556,60e5b8fd4794450053e9994b,Hinta Stabilizer,7.7
+2557,60e5b8fe4794450053e9994c,Repo Audit,
+2558,60e5b8fe4794450053e9994d,Galvanized Crosshairs,14.1
+2559,60e5b8fe4794450053e9994e,Garmr Core Blueprint,6.5
+2560,60e5b8fe4794450053e9994f,Focused Prospectus,12.4
+2561,60e5b8fe4794450053e99950,Dorma Hound Blueprint,9.6
+2562,60e5b8fe4794450053e99951,Hard Reset,13.6
+2563,60e5b8fe4794450053e99952,Bhaira Hound Blueprint,9.3
+2564,60e5b8ff4794450053e99953,Galvanized Shot,13.9
+2565,60e5b8ff4794450053e99954,Reflex Denial,10.3
+2566,60e5b8ff4794450053e99955,Adlet Core Blueprint,5.7
+2567,60e5b8ff4794450053e99956,Aerial Prospectus,11.0
+2568,60e5b8ff4794450053e99957,Synergized Prospectus,
+2569,60e5b8ff4794450053e99958,Frak Stabilizer Blueprint,6.6
+2570,60e5b8ff4794450053e99959,Raiju Core Blueprint,7.6
+2571,60e5b8ff4794450053e9995a,Firewall,8.9
+2572,60e5b9004794450053e9995b,Galvanized Savvy,14.3
+2573,60e5b9004794450053e9995c,Urga Bracket Blueprint,7.5
+2574,60e5b9004794450053e9995d,Null Audit,10.1
+2575,60e5b9004794450053e9995e,Oull,19.6
+2576,60e5b9004794450053e9995f,Diversified Denial,9.0
+2577,60e5b9004794450053e99960,Equilibrium Audit,13.8
+2578,60e5b9014794450053e99961,Galvanized Chamber,13.5
+2579,60e70f78479445008f27256b,New Loka Combat Emote,88.8
+2580,60e70f78479445008f27256c,Cephalon Suda Piloting Emote,
+2581,60e70f79479445008f27256d,Red Veil Chest Piece,
+2582,60e70f79479445008f27256e,Perrin Piloting Emote,48.6
+2583,60e70f79479445008f27256f,Suda Chest Piece,
+2584,60e70f79479445008f272570,Arbiters Piloting Emote,
+2585,60e70f79479445008f272571,Red Veil Knee Guards,
+2586,60e70f79479445008f272572,Secondary Merciless,1.0
+2587,60e70f79479445008f272573,Primary Merciless,1.5
+2588,60e70f79479445008f272574,Meridian Chest Plate,
+2589,60e70f7a479445008f272575,Meridian Armor Set,36.5
+2590,60e70f7a479445008f272576,Meridian Arm Spurs,
+2591,60e70f7a479445008f272577,Cephalon Suda Gunnery Emote,
+2592,60e70f7a479445008f272578,Solaris Leg Spurs,
+2593,60e70f7a479445008f272579,Lokan Knee Spurs,
+2594,60e70f7a479445008f27257a,Arbiters Combat Emote,
+2595,60e70f7a479445008f27257b,Steel Meridian Combat Emote,
+2596,60e70f7a479445008f27257c,Steel Meridian Piloting Emote,
+2597,60e70f7a479445008f27257d,Secondary Dexterity,6.6
+2598,60e70f7b479445008f27257e,Lokan Arm Plates,
+2599,60e70f7b479445008f27257f,Suda Leg Spurs,
+2600,60e70f7b479445008f272580,Steel Meridian Endurance Emote,
+2601,60e70f7b479445008f272581,Perrin Armor Set,30.0
+2602,60e70f7b479445008f272582,Ostron Chest Guard,
+2603,60e70f7b479445008f272583,Cephalon Suda Endurance Emote,
+2604,60e70f7c479445008f272584,Perrin Leg Guards,
+2605,60e70f7c479445008f272585,Hexis Chest Plate,
+2606,60e70f7c479445008f272586,Suda Arm Spurs,
+2607,60e70f7c479445008f272587,Suda Armor Set,36.8
+2608,60e70f7c479445008f272588,Perrin Chest Piece,
+2609,60e70f7d479445008f272589,Perrin Endurance Emote,
+2610,60e70f7d479445008f27258a,Hexis Arm Plates,
+2611,60e70f7d479445008f27258b,Solaris Chest Marker,
+2612,60e70f7d479445008f27258c,Solaris Armor Set,
+2613,60e70f7d479445008f27258d,Red Veil Engineering Emote,
+2614,60e70f7d479445008f27258e,New Loka Engineering Emote,
+2615,60e70f7d479445008f27258f,Red Veil Arm Insignia,
+2616,60e70f7d479445008f272590,Lokan Armor Set,34.8
+2617,60e70f7e479445008f272591,New Loka Piloting Emote,
+2618,60e70f7e479445008f272592,Solaris Arm Guards,
+2619,60e70f7e479445008f272593,Arbiters Engineering Emote,
+2620,60e70f7e479445008f272594,Ostron Armor Set,80.5
+2621,60e70f7e479445008f272595,Perrin Arm Guards,
+2622,60e70f7e479445008f272596,Lokan Chest Piece,
+2623,60e70f7e479445008f272597,Hexis Spurs,
+2624,60e70f7e479445008f272598,Cephalon Suda Engineering Emote,
+2625,60e70f7f479445008f272599,Hexis Armor Set,48.8
+2626,60e70f7f479445008f27259a,Arbiters Gunnery Emote,
+2627,60e70f7f479445008f27259b,New Loka Endurance Emote,
+2628,60e70f7f479445008f27259c,Arbiters Endurance Emote,
+2629,60e70f7f479445008f27259d,Secondary Deadhead,1.0
+2630,60e70f7f479445008f27259e,Steel Meridian Gunnery Emote,34.8
+2631,60e70f7f479445008f27259f,Ostron Leg Guards,
+2632,60e70f80479445008f2725a0,Meridian Leg Spurs,
+2633,60e70f80479445008f2725a1,Ostron Arm Guards,
+2634,60e70f80479445008f2725a2,Cephalon Suda Combat Emote,
+2635,60e70f80479445008f2725a3,Red Veil Piloting Emote,
+2636,60e70f80479445008f2725a4,Primary Deadhead,1.2
+2637,60e70f80479445008f2725a5,Red Veil Armor Set,44.3
+2638,60e70f80479445008f2725a6,Primary Dexterity,1.0
+2639,60f3feb1b64404003f0bf5fa,Ambassador Barrel,1.2
+2640,60f3feb1b64404003f0bf5fb,Ambassador Set,25.6
+2641,60f3feb1b64404003f0bf5fc,Ambassador Receiver,1.2
+2642,60f3feb1b64404003f0bf5fd,Ambassador Stock,1.1
+2643,60f3feb1b64404003f0bf5fe,Ambassador Blueprint,27.7
+2644,6139101830dd5b004b7f9093,Nidus Prime Blueprint,6.9
+2645,6139101830dd5b004b7f9094,Meso B5 Relic,
+2646,6139101830dd5b004b7f9095,Neo N17 Relic,3.0
+2647,6139101830dd5b004b7f9096,Strun Prime Set,27.3
+2648,6139101830dd5b004b7f9097,Meso S10 Relic,4.8
+2649,6139101930dd5b004b7f9098,Lith K7 Relic,4.8
+2650,6139101930dd5b004b7f9099,Lith N8 Relic,3.4
+2651,6139101930dd5b004b7f909a,Neo P3 Relic,1.8
+2652,6139101930dd5b004b7f909b,Magnus Prime Set,18.7
+2653,6139101930dd5b004b7f909c,Primed Magazine Warp,46.8
+2654,6139101930dd5b004b7f909d,Axi M2 Relic,
+2655,6139101930dd5b004b7f909e,Nidus Prime Set,56.6
+2656,6139101930dd5b004b7f909f,Strun Prime Blueprint,10.7
+2657,6139101930dd5b004b7f90a0,Axi I2 Relic,6.2
+2658,6139101a30dd5b004b7f90a1,Butcher's Revelry,16.0
+2659,6139101a30dd5b004b7f90a2,Magnus Prime Blueprint,2.6
+2660,6139101a30dd5b004b7f90a3,Lith N7 Relic,3.5
+2661,6139101a30dd5b004b7f90a4,Strun Prime Receiver,3.7
+2662,6139101a30dd5b004b7f90a5,Meso B6 Relic,5.6
+2663,6139101a30dd5b004b7f90a6,Neo T5 Relic,2.0
+2664,6139101a30dd5b004b7f90a7,Strun Prime Barrel,4.8
+2665,6139101a30dd5b004b7f90a8,Nidus Prime Systems Blueprint,3.4
+2666,6139101a30dd5b004b7f90a9,Strun Prime Stock,3.6
+2667,6139101a30dd5b004b7f90aa,Lith T7 Relic,5.0
+2668,6139101a30dd5b004b7f90ab,Axi A14 Relic,7.6
+2669,6139101a30dd5b004b7f90ac,Nidus Prime Neuroptics Blueprint,26.9
+2670,6139101a30dd5b004b7f90ad,Nidus Prime Chassis Blueprint,16.5
+2671,6139101b30dd5b004b7f90ae,Magnus Prime Receiver,3.6
+2672,6139101b30dd5b004b7f90af,Magnus Prime Barrel,13.6
+2673,6139101b30dd5b004b7f90b0,Neo N16 Relic,3.8
+2674,61460dcce330e600455dcea0,Ghoulsaw Blade Blueprint,19.0
+2675,61460dcce330e600455dcea1,Ghoulsaw Grip Blueprint,
+2676,61460dcce330e600455dcea2,Ghoulsaw Engine Blueprint,
+2677,61460dcde330e600455dcea3,Ghoulsaw Set,12.9
+2678,61460dcde330e600455dcea4,Ghoulsaw Chassis Blueprint,
+2679,61460dcde330e600455dcea5,Ghoulsaw Blueprint,
+2680,614f83a3e330e60063b618fa,Primed Ammo Stock,57.4
+2681,6169ab3bc02a2f0045919275,Vastilok,77.0
+2682,61a25ff968fd79003fe3fd53,Vampiric Grasp,13.2
+2683,61a25ff968fd79003fe3fd54,Champion's Blessing,14.8
+2684,61a25ff968fd79003fe3fd55,Lith L3 Relic,
+2685,61a25ffa68fd79003fe3fd56,Swift Bite,14.4
+2686,61a25ffa68fd79003fe3fd57,Meso B7 Relic,
+2687,61a25ffa68fd79003fe3fd58,Meso P6 Relic,
+2688,61a25ffa68fd79003fe3fd59,Neo A6 Relic,
+2689,61a25ffa68fd79003fe3fd5a,Neo H3 Relic,
+2690,61a25ffa68fd79003fe3fd5b,Lith R1 Relic,
+2691,61a25ffa68fd79003fe3fd5c,The Relentless Lost,11.5
+2692,61a25ffa68fd79003fe3fd5d,Lith K8 Relic,
+2693,61a25ffa68fd79003fe3fd5e,Neo D4 Relic,
+2694,61a25ffa68fd79003fe3fd5f,Axi D3 Relic,
+2695,61a25ffa68fd79003fe3fd60,Axi M3 Relic,
+2696,61a25ffa68fd79003fe3fd61,Lith N9 Relic,
+2697,61bb64fb3132ff00482b5fb1,Axi P4 Relic,
+2698,61bb64fb3132ff00482b5fb2,Knell Prime Set,19.2
+2699,61bb64fb3132ff00482b5fb3,Boreal's Contempt,14.0
+2700,61bb64fb3132ff00482b5fb4,Nira's Anguish,5.6
+2701,61bb64fb3132ff00482b5fb5,Meso A3 Relic,4.0
+2702,61bb64fb3132ff00482b5fb6,Axi S9 Relic,
+2703,61bb64fb3132ff00482b5fb7,Amar's Contempt,8.3
+2704,61bb64fb3132ff00482b5fb8,Scourge Prime Blade,2.1
+2705,61bb64fb3132ff00482b5fb9,Lith T8 Relic,4.0
+2706,61bb64fc3132ff00482b5fba,Harrow Prime Blueprint,2.5
+2707,61bb64fc3132ff00482b5fbb,Harrow Prime Set,31.0
+2708,61bb64fc3132ff00482b5fbc,Meso G3 Relic,3.0
+2709,61bb64fc3132ff00482b5fbd,Meso I2 Relic,2.6
+2710,61bb64fc3132ff00482b5fbe,Amar's Anguish,6.2
+2711,61bb64fd3132ff00482b5fbf,Nira's Hatred,8.4
+2712,61bb64fd3132ff00482b5fc0,Knell Prime Barrel,17.8
+2713,61bb64fd3132ff00482b5fc1,Axi T8 Relic,2.6
+2714,61bb64fd3132ff00482b5fc2,Lith H3 Relic,2.8
+2715,61bb64fd3132ff00482b5fc3,Axi C7 Relic,12.6
+2716,61bb64fd3132ff00482b5fc4,Harrow Prime Neuroptics Blueprint,3.4
+2717,61bb64fd3132ff00482b5fc5,Scourge Prime Barrel,12.4
+2718,61bb64fd3132ff00482b5fc6,Knell Prime Blueprint,1.6
+2719,61bb64fd3132ff00482b5fc7,Boreal's Hatred,6.9
+2720,61bb64fd3132ff00482b5fc8,Lith S11 Relic,3.2
+2721,61bb64fd3132ff00482b5fc9,Neo K4 Relic,2.0
+2722,61bb64fd3132ff00482b5fca,Neo N18 Relic,2.6
+2723,61bb64fd3132ff00482b5fcb,Amar's Hatred,9.9
+2724,61bb64fd3132ff00482b5fcc,Lith T9 Relic,6.6
+2725,61bb64fd3132ff00482b5fcd,Boreal's Anguish,5.4
+2726,61bb64fe3132ff00482b5fce,Harrow Prime Chassis Blueprint,3.8
+2727,61bb64fe3132ff00482b5fcf,Scourge Prime Set,27.8
+2728,61bb64fe3132ff00482b5fd0,Nira's Contempt,5.8
+2729,61bb64fe3132ff00482b5fd1,Axi K6 Relic,8.8
+2730,61bb64fe3132ff00482b5fd2,Harrow Prime Systems Blueprint,20.0
+2731,61bb64fe3132ff00482b5fd3,Lith C9 Relic,
+2732,61bb64fe3132ff00482b5fd4,Scourge Prime Handle,3.3
+2733,61bb64fe3132ff00482b5fd5,Knell Prime Receiver,3.0
+2734,61bb64fe3132ff00482b5fd6,Scourge Prime Blueprint,8.2
+2735,61bb64fe3132ff00482b5fd7,Meso S11 Relic,
+2736,6214e88fe3c4660048a8b97e,Thermal Transfer,12.0
+2737,6214e88fe3c4660048a8b97f,Neo P4 Relic,
+2738,6214e890e3c4660048a8b980,Gourmand,13.0
+2739,6214e890e3c4660048a8b981,Praghasa Throne Room Scene,
+2740,6214e890e3c4660048a8b982,Surging Blades,13.0
+2741,6214e890e3c4660048a8b983,Biting Frost,13.7
+2742,6214e890e3c4660048a8b984,Lith N10 Relic,3.5
+2743,622c032966a58f0048549b1a,Primed Sniper Ammo Mutation,59.7
+2744,6242037666a58f0108c3d479,Garuda Prime Chassis Blueprint,3.9
+2745,6242037666a58f0108c3d47a,Corvas Prime Set,22.7
+2746,6242037666a58f0108c3d47b,Lith N11 Relic,1.7
+2747,6242037666a58f0108c3d47c,Nagantaka Prime Set,20.5
+2748,6242037666a58f0108c3d47d,Axi K7 Relic,
+2749,6242037666a58f0108c3d47e,Lith S12 Relic,2.8
+2750,6242037666a58f0108c3d47f,Corvas Prime Barrel,15.5
+2751,6242037666a58f0108c3d480,Corvas Prime Blueprint,3.2
+2752,6242037666a58f0108c3d481,Nagantaka Prime Receiver,3.9
+2753,6242037666a58f0108c3d482,Nagantaka Prime Blueprint,9.1
+2754,6242037666a58f0108c3d483,Lith H4 Relic,1.3
+2755,6242037666a58f0108c3d484,Corvas Prime Stock,2.6
+2756,6242037666a58f0108c3d485,Nagantaka Prime Stock,3.3
+2757,6242037666a58f0108c3d486,Garuda Prime Systems Blueprint,24.9
+2758,6242037766a58f0108c3d487,Meso G4 Relic,5.0
+2759,6242037766a58f0108c3d488,Axi S11 Relic,
+2760,6242037766a58f0108c3d489,Lith Z3 Relic,2.6
+2761,6242037766a58f0108c3d48a,Corvas Prime Receiver,3.8
+2762,6242037766a58f0108c3d48b,Axi S10 Relic,
+2763,6242037766a58f0108c3d48c,Lith G5 Relic,5.5
+2764,6242037766a58f0108c3d48d,Meso P7 Relic,
+2765,6242037766a58f0108c3d48e,Lith N12 Relic,1.4
+2766,6242037766a58f0108c3d48f,Nagantaka Prime Barrel,3.9
+2767,6242037766a58f0108c3d490,Garuda Prime Set,44.4
+2768,6242037766a58f0108c3d491,Neo N20 Relic,2.0
+2769,6242037766a58f0108c3d492,Garuda Prime Neuroptics Blueprint,11.8
+2770,6242037766a58f0108c3d493,Meso N12 Relic,
+2771,6242037766a58f0108c3d494,Axi G7 Relic,7.3
+2772,6242037866a58f0108c3d495,Neo C2 Relic,1.8
+2773,6242037866a58f0108c3d496,Neo M4 Relic,2.9
+2774,6242037866a58f0108c3d497,Garuda Prime Blueprint,2.2
+2775,626a109cf40db6004517215c,Zariman Chrysalith Scene,
+2776,626a109cf40db6004517215d,Zariman Reliquary Drive Scene,
+2777,626a109df40db6004517215e,Zariman Lunaro Court Scene,
+2778,626a1978f40db600660a1d7a,Emergence Dissipate,44.7
+2779,626a1978f40db600660a1d7b,Molt Vigor,4.3
+2780,626a1979f40db600660a1d7c,Galeforce Dawn,6.5
+2781,626a1979f40db600660a1d7d,Zariman Cargo Bay Scene,
+2782,626a1979f40db600660a1d7e,Zariman Schoolyard Scene,
+2783,626a1979f40db600660a1d7f,Zariman Angel Roost Scene,
+2784,626a1979f40db600660a1d80,Zariman Serenity Levels Scene,
+2785,626a1979f40db600660a1d81,Emergence Renewed,2.7
+2786,626a197af40db600660a1d82,Zariman Dormizone Scene,
+2787,626a197af40db600660a1d83,Eternal Eradicate,4.6
+2788,626a197af40db600660a1d84,Zariman Hall Of Legems Scene,
+2789,626a197af40db600660a1d85,Zariman Brig Scene,
+2790,626a197af40db600660a1d86,Zariman Albrecht Park Scene,
+2791,626a197af40db600660a1d87,Molt Efficiency,8.1
+2792,626a197bf40db600660a1d88,Emergence Savior,2.5
+2793,626a197bf40db600660a1d89,Zariman Agri-Zone Scene,
+2794,626a197bf40db600660a1d8a,Zariman Docking Bay Scene,
+2795,626a197bf40db600660a1d8b,Cascadia Overcharge,5.0
+2796,626a197cf40db600660a1d8c,Range Advantage,173.9
+2797,626a197df40db600660a1d8d,Combat Reload,33.0
+2798,626a197ef40db600660a1d8e,Zariman Habitation Zone Scene,
+2799,626a197ef40db600660a1d8f,Zariman Amphitheatre Scene,
+2800,626ca573f40db600829c9d09,Laetum Blueprint,7.4
+2801,626ca573f40db600829c9d0a,Aeolak Receiver Blueprint,46.6
+2802,626ca573f40db600829c9d0b,Hespar Handle Blueprint,19.9
+2803,626ca573f40db600829c9d0c,Praedos Blueprint,11.2
+2804,626ca573f40db600829c9d0d,Aeolak Barrel Blueprint,23.7
+2805,626ca573f40db600829c9d0e,Aeolak Set,178.5
+2806,626ca573f40db600829c9d0f,Hespar Set,178.0
+2807,626ca573f40db600829c9d10,Hespar Blade Blueprint,141.1
+2808,626ca573f40db600829c9d11,Aeolak Stock Blueprint,46.5
+2809,626ca573f40db600829c9d12,Phenmor Blueprint,8.9
+2810,62a2b833a554aa00a86de35c,Eternal Onslaught,5.2
+2811,62a2b833a554aa00a86de35d,Dog Days Night Scene,91.9
+2812,62a2b943fbd62c0038ef9a2d,Innodem Blueprint,9.3
+2813,62a2baeafbd62c00450b71d7,Felarx Blueprint,11.3
+2814,62a2baebfbd62c00450b71d8,Molt Reconstruct,8.3
+2815,62a2baebfbd62c00450b71d9,Molt Augmented,8.7
+2816,62a2baebfbd62c00450b71da,Parallax Set,12.1
+2817,62a2baebfbd62c00450b71db,Eternal Logistics,82.8
+2818,62a2baebfbd62c00450b71dd,Parallax Avionics Blueprint,4.0
+2819,62a2baecfbd62c00450b71de,Parallax Engines Blueprint,4.4
+2820,62a2baecfbd62c00450b71df,Parallax Fuselage Blueprint,4.6
+2821,62af145c5d2dab0054229038,Cascadia Empowered,4.5
+2822,62af145c5d2dab0054229039,Prisma Shade Set,83.0
+2823,62af145c5d2dab005422903a,Fractalized Reset,4.1
+2824,62af145d5d2dab005422903c,Cascadia Flare,5.1
+2825,62af145d5d2dab005422903f,Prisma Burst Laser,75.3
+2826,62af145e5d2dab0054229040,Cascadia Accuracy,37.0
+2827,62d3078580f54c00b5ddf5cc,Crescent Vulpaphyla Imprint,27.9
+2828,62d3078580f54c00b5ddf5cd,Sly Vulpaphyla Imprint,27.7
+2829,62d3078580f54c00b5ddf5ce,Medjay Predasite Imprint,27.6
+2830,62d3078680f54c00b5ddf5cf,Vizier Predasite Imprint,27.9
+2831,62d3078680f54c00b5ddf5d0,Panzer Vulpaphyla Imprint,34.5
+2832,62d3078680f54c00b5ddf5d1,Pharaoh Predasite Imprint,35.5
+2833,62d3493f75156700ce450de7,Hystrix Prime Blueprint,5.8
+2834,62d3493f75156700ce450de8,Axi K10 Relic,
+2835,62d3493f75156700ce450de9,Axi N8 Relic,
+2836,62d3493f75156700ce450dea,Meso O5 Relic,8.3
+2837,62d3493f75156700ce450deb,Meso P8 Relic,
+2838,62d3493f75156700ce450dec,Neo N21 Relic,6.0
+2839,62d3493f75156700ce450ded,Khora Prime Chassis Blueprint,3.4
+2840,62d3494075156700ce450dee,Dual Keres Prime Set,34.1
+2841,62d3494075156700ce450def,Axi K9 Relic,2.6
+2842,62d3494075156700ce450df0,Hystrix Prime Set,18.4
+2843,62d3494075156700ce450df1,Axi G8 Relic,7.4
+2844,62d3494075156700ce450df2,Meso H3 Relic,5.0
+2845,62d3494075156700ce450df3,Dual Keres Prime Handle,4.7
+2846,62d3494075156700ce450df4,Khora Prime Set,50.0
+2847,62d3494075156700ce450df5,Khora Prime Blueprint,15.6
+2848,62d3494075156700ce450df6,Neo G4 Relic,2.6
+2849,62d3494075156700ce450df7,Hystrix Prime Receiver,8.3
+2850,62d3494075156700ce450df8,Neo D5 Relic,4.0
+2851,62d3494075156700ce450df9,Lith K9 Relic,5.8
+2852,62d3494075156700ce450dfa,Axi K8 Relic,6.4
+2853,62d3494175156700ce450dfb,Vile Discharge,55.0
+2854,62d3494175156700ce450dfc,Meso H2 Relic,6.2
+2855,62d3494175156700ce450dfd,Hystrix Prime Barrel,4.9
+2856,62d3494175156700ce450dfe,Meso V7 Relic,2.2
+2857,62d3494175156700ce450dff,Khora Prime Neuroptics Blueprint,17.2
+2858,62d3494175156700ce450e00,Dual Keres Prime Blueprint,8.8
+2859,62d3494175156700ce450e01,Neo S15 Relic,
+2860,62d3494175156700ce450e02,Axi S12 Relic,
+2861,62d3494175156700ce450e03,Critical Precision,55.0
+2862,62d3494175156700ce450e04,Khora Prime Systems Blueprint,5.0
+2863,62d3494175156700ce450e05,Dual Keres Prime Blade,4.7
+2864,62fd5d36b8a9cc00378321bc,Peculiar Audience,19.3
+2865,6322918add457f0072aeb8b1,Archon Intensify,36.5
+2866,63229385dd457f0096113c3d,Lith N13 Relic,
+2867,63229385dd457f0096113c3e,Neo Z9 Relic,
+2868,63229385dd457f0096113c3f,Archon Continuity,36.5
+2869,63229385dd457f0096113c40,Meso W2 Relic,5.4
+2870,63229385dd457f0096113c41,Neo E3 Relic,
+2871,63229386dd457f0096113c42,Archon Flow,37.7
+2872,63229386dd457f0096113c43,Archon Vitality,37.5
+2873,63229386dd457f0096113c44,Axi T9 Relic,
+2874,63229386dd457f0096113c45,Archon Stretch,39.1
+2875,63229386dd457f0096113c46,Lith S13 Relic,
+2876,633e2e69f570d10793afb811,Lith H6 Relic,3.0
+2877,633e2e6af570d10793afb812,Tatsu Prime Blade,3.5
+2878,633e2e6af570d10793afb813,Neo T6 Relic,1.6
+2879,633e2e6af570d10793afb814,Meso P10 Relic,2.0
+2880,633e2e6af570d10793afb815,Revenant Prime Chassis Blueprint,5.0
+2881,633e2e6af570d10793afb816,Revenant Prime Systems Blueprint,15.4
+2882,633e2e6af570d10793afb817,Tatsu Prime Set,22.2
+2883,633e2e6af570d10793afb818,Tatsu Prime Blueprint,3.1
+2884,633e2e6af570d10793afb819,Meso N13 Relic,3.0
+2885,633e2e6af570d10793afb81a,Revenant Prime Set,45.0
+2886,633e2e6bf570d10793afb81b,Phantasma Prime Barrel,14.5
+2887,633e2e6bf570d10793afb81c,Lith P6 Relic,2.4
+2888,633e2e6bf570d10793afb81d,Revenant Prime Neuroptics Blueprint,3.9
+2889,633e2e6bf570d10793afb81e,Tatsu Prime Handle,12.5
+2890,633e2e6bf570d10793afb81f,Meso K4 Relic,4.5
+2891,633e2e6bf570d10793afb820,Phantasma Prime Blueprint,4.2
+2892,633e2e6bf570d10793afb821,Phantasma Prime Set,40.4
+2893,633e2e6cf570d10793afb822,Lith H5 Relic,4.6
+2894,633e2e6cf570d10793afb823,Axi T10 Relic,3.2
+2895,633e2e6cf570d10793afb824,Phantasma Prime Receiver,3.2
+2896,633e2e6cf570d10793afb825,Axi N9 Relic,7.4
+2897,633e2e6cf570d10793afb826,Lith R2 Relic,5.0
+2898,633e2e6cf570d10793afb827,Revenant Prime Blueprint,12.1
+2899,633e2e6cf570d10793afb828,Meso P9 Relic,4.6
+2900,633e2e6cf570d10793afb829,Lith S14 Relic,1.3
+2901,633e2e6cf570d10793afb82a,Phantasma Prime Stock,9.6
+2902,6364d904f6d2030069a9f91d,Lith B9 Relic,
+2903,6364d904f6d2030069a9f91e,Axi A15 Relic,
+2904,6364d904f6d2030069a9f91f,Axi S13 Relic,
+2905,6364d904f6d2030069a9f920,Neo S16 Relic,
+2906,6364d904f6d2030069a9f921,Neo I3 Relic,
+2907,6364d904f6d2030069a9f922,Meso O6 Relic,6.4
+2908,636d085bd6e304004d0be569,Vericres,45.8
+2909,63886516e7c988007b5bd509,Conjunction Voltage,4.6
+2910,63886516e7c988007b5bd50a,Primary Frostbite,107.9
+2911,63886516e7c988007b5bd50b,Arcane Rise,108.3
+2912,63886516e7c988007b5bd50c,Perigale Set,11.5
+2913,63886517e7c988007b5bd50d,Veilbreak Forest Scene,
+2914,63886517e7c988007b5bd50e,Perigale Stock,5.1
+2915,63886517e7c988007b5bd50f,Sarofang Blade,4.3
+2916,63886517e7c988007b5bd510,Veilbreak Factory Scene,
+2917,63886517e7c988007b5bd511,Lua Circulus Scene,152.0
+2918,63886517e7c988007b5bd512,Arcane Blessing,6.4
+2919,63886517e7c988007b5bd513,Sarofang Handle,5.0
+2920,63886517e7c988007b5bd514,Sarofang Set,6.5
+2921,63886518e7c988007b5bd515,Veilbreak Murex Scene,
+2922,63886518e7c988007b5bd516,Perigale Barrel,5.6
+2923,63886518e7c988007b5bd517,Perigale Receiver,6.2
+2924,639a8d9274b02f003889eb6d,Lith G6 Relic,1.7
+2925,639a8d9274b02f003889eb6e,Axi S14 Relic,
+2926,639a8d9274b02f003889eb6f,Meso T6 Relic,16.0
+2927,639a8d9274b02f003889eb70,Neo C3 Relic,1.4
+2928,639a8d9374b02f003889eb71,Baruuk Prime Chassis Blueprint,5.7
+2929,639a8d9374b02f003889eb72,Meso A4 Relic,8.0
+2930,639a8d9374b02f003889eb73,Axi N10 Relic,6.7
+2931,639a8d9374b02f003889eb74,Axi B5 Relic,6.8
+2932,639a8d9374b02f003889eb75,Neo A8 Relic,5.0
+2933,639a8d9374b02f003889eb76,Meso V8 Relic,9.6
+2934,639a8d9374b02f003889eb77,Baruuk Prime Blueprint,8.7
+2935,639a8d9374b02f003889eb78,Neo K5 Relic,1.6
+2936,639a8d9374b02f003889eb79,Meso K5 Relic,6.0
+2937,639a8d9374b02f003889eb7a,Lith V9 Relic,15.0
+2938,639a8d9374b02f003889eb7b,Lith B10 Relic,5.6
+2939,639a8d9374b02f003889eb7c,Neo A7 Relic,
+2940,639a8d9374b02f003889eb7d,Axi G9 Relic,8.4
+2941,639a8d9374b02f003889eb7e,Baruuk Prime Systems Blueprint,6.9
+2942,639a8d9374b02f003889eb7f,Neo D6 Relic,
+2943,639a8d9374b02f003889eb80,Axi F1 Relic,10.6
+2944,639a8d9474b02f003889eb81,Baruuk Prime Neuroptics Blueprint,20.8
+2945,639a8d9474b02f003889eb82,Meso R5 Relic,7.2
+2946,639a8d9474b02f003889eb83,Lith A5 Relic,
+2947,639a8d9474b02f003889eb84,Baruuk Prime Set,53.5
+2948,639a8d9474b02f003889eb85,Lith H7 Relic,7.2
+2949,639a941c74b02f008887784a,Cobra & Crane Prime Guard,10.5
+2950,639a941c74b02f008887784b,Afuris Prime Barrel,4.7
+2951,639a941c74b02f008887784c,Afuris Prime Set,59.9
+2952,639a941d74b02f008887784d,Afuris Prime Link,3.8
+2953,639a941d74b02f008887784e,Cobra & Crane Prime Blueprint,4.6
+2954,639a941d74b02f008887784f,Afuris Prime Blueprint,2.1
+2955,639a941d74b02f0088877850,Cobra & Crane Prime Blade,4.1
+2956,639a941d74b02f0088877851,Cobra & Crane Prime Hilt,4.2
+2957,639a941e74b02f0088877852,Cobra & Crane Prime Set,29.4
+2958,639a941e74b02f0088877853,Afuris Prime Receiver,15.5
+2959,63ee00fc10125411da49e6e6,Corufell Receiver,10.5
+2960,63ee00fc10125411da49e6e7,Primary Plated Round,366.0
+2961,63ee00fc10125411da49e6e8,Shattered Storm,14.0
+2962,63ee00fd10125411da49e6e9,Cathode Current,14.2
+2963,63ee00fd10125411da49e6ea,Arcane Steadfast,15.6
+2964,63ee00fd10125411da49e6ec,Lith D5 Relic,15.6
+2965,63ee00fd10125411da49e6ed,Steflos Barrel,8.2
+2966,63ee00fd10125411da49e6ee,Steflos Stock,7.9
+2967,63ee00fe10125411da49e6f0,Steflos Set,27.6
+2968,63ee00fe10125411da49e6f1,Corufell Set,31.1
+2969,63ee00fe10125411da49e6f2,Corufell Handle,9.3
+2970,63ee00fe10125411da49e6f3,Lith P7 Relic,
+2971,63ee00fe10125411da49e6f4,Arcane Double Back,11.8
+2972,63ee00fe10125411da49e6f5,Secondary Kinship,11.0
+2973,63ee00ff10125411da49e6f6,Steflos Receiver,7.9
+2974,63ee00ff10125411da49e6f7,Merulina Guardian,14.6
+2975,63ee00ff10125411da49e6f8,Mesmer Shield,12.6
+2976,63ee00ff10125411da49e6f9,Neo R5 Relic,8.0
+2977,63ee00ff10125411da49e6fa,Secondary Encumber,15.1
+2978,63ee00ff10125411da49e6fb,Neo A9 Relic,
+2979,63ee00ff10125411da49e6fc,Meso L2 Relic,
+2980,63ee00ff10125411da49e6fd,Axi M4 Relic,11.4
+2981,63ee010010125411da49e6fe,Citrine's Last Wish Factory Scene,111.8
+2982,63ee010010125411da49e6ff,Corufell Barrel,10.1
+2983,641263df7d179f02100c6d40,Hildryn Prime Blueprint,21.7
+2984,641263e07d179f02100c6d41,Hildryn Prime Systems Blueprint,3.5
+2985,641263e07d179f02100c6d42,Shade Prime Blueprint,5.0
+2986,641263e07d179f02100c6d43,Hildryn Prime Set,49.3
+2987,641263e07d179f02100c6d44,Shade Prime Systems,7.4
+2988,641263e07d179f02100c6d45,Larkspur Prime Set,39.6
+2989,641263e07d179f02100c6d46,Hildryn Prime Neuroptics Blueprint,5.9
+2990,641263e07d179f02100c6d47,Larkspur Prime Barrel,12.5
+2991,641263e07d179f02100c6d48,Shade Prime Cerebrum,5.0
+2992,641263e07d179f02100c6d49,Shade Prime Set,34.2
+2993,641263e07d179f02100c6d4a,Larkspur Prime Stock,4.0
+2994,641263e07d179f02100c6d4b,Hildryn Prime Chassis Blueprint,6.7
+2995,641263e07d179f02100c6d4c,Larkspur Prime Receiver,7.8
+2996,641263e07d179f02100c6d4d,Shade Prime Carapace,8.6
+2997,641263e07d179f02100c6d4e,Larkspur Prime Blueprint,4.1
+2998,641264a47d179f02190e41e3,Lith S15 Relic,1.8
+2999,641264a47d179f02190e41e4,Meso N14 Relic,2.2
+3000,641264a47d179f02190e41e5,Lith R3 Relic,1.9
+3001,641264a47d179f02190e41e6,Meso D7 Relic,1.6
+3002,641264a47d179f02190e41e7,Axi H6 Relic,3.6
+3003,641264a47d179f02190e41e8,Lith B11 Relic,1.6
+3004,641264a57d179f02190e41e9,Meso S12 Relic,1.6
+3005,641264a57d179f02190e41ea,Lith H8 Relic,2.3
+3006,641264a57d179f02190e41eb,Meso H4 Relic,2.6
+3007,641264a57d179f02190e41ec,Axi G10 Relic,4.2
+3008,641264a57d179f02190e41ed,Axi A16 Relic,3.5
+3009,641264a57d179f02190e41ee,Neo S17 Relic,2.2
+3010,641264a57d179f02190e41ef,Neo N22 Relic,1.8
+3011,641264a57d179f02190e41f0,Axi B6 Relic,3.9
+3012,641264a57d179f02190e41f1,Axi K11 Relic,3.4
+3013,641264a57d179f02190e41f2,Lith K10 Relic,2.8
+3014,641264a57d179f02190e41f3,Neo L2 Relic,2.3
+3015,641264a57d179f02190e41f4,Meso P11 Relic,1.9
+3016,644b00217ec1900044b97722,Primary Obstruct,8.7
+3017,644b00227ec1900044b97723,Arcane Intention,7.7
+3018,644b00227ec1900044b97724,Secondary Shiver,10.5
+3019,644b00227ec1900044b97725,Lith V10 Relic,6.2
+3020,644b00227ec1900044b97726,Meso P12 Relic,7.1
+3021,644b00227ec1900044b97727,Longbow Sharpshot,14.1
+3022,644b00227ec1900044b97728,Netherbarrow Region Scene,22.0
+3023,644b00227ec1900044b97729,Shotgun Vendetta,35.4
+3024,644b00237ec1900044b9772a,Undercroft Opera Scene,11.0
+3025,644b00237ec1900044b9772b,Neo A10 Relic,9.2
+3026,644b00237ec1900044b9772c,Axi K12 Relic,8.6
+3027,644b00237ec1900044b9772d,Axi I3 Relic,8.6
+3028,644b00237ec1900044b9772e,Magus Aggress,9.2
+3029,644b00237ec1900044b9772f,Meso C7 Relic,9.4
+3030,644b00237ec1900044b97730,Undercroft Park Scene,20.0
+3031,644b00237ec1900044b97731,Castle Town Scene,18.2
+3032,644b00247ec1900044b97732,Mainland Hamlets Scene,14.2
+3033,644b00247ec1900044b97733,Arcane Reaper,26.1
+3034,644b00247ec1900044b97734,Upperhaven Scene,19.0
+3035,644b00247ec1900044b97735,Mountain's Edge,9.7
+3036,644b00247ec1900044b97736,Orowyrm Arena Scene,13.2
+3037,644b00257ec1900044b97737,Primary Exhilarate,11.8
+3038,645104637ec190030e510936,Cinta Upper Limb Blueprint,8.9
+3039,645104637ec190030e510937,Cinta Grip Blueprint,8.9
+3040,645104637ec190030e510938,Cinta String Blueprint,8.8
+3041,645104637ec190030e510939,Cinta Set,38.2
+3042,645104637ec190030e51093a,Cinta Lower Limb Blueprint,9.4
+3043,645ba2a57ec1900802a58a42,Amphitheater Scene,15.8
+3044,645ba2a57ec1900802a58a43,Namaes,
+3045,645ba2a57ec1900802a58a44,Haav,611.7
+3046,645ba2a57ec1900802a58a45,Xiran,
+3047,645ba2a67ec1900802a58a46,Teshin's Cave Scene,23.2
+3048,645ba2a67ec1900802a58a47,Seonn,
+3049,645ba2a67ec1900802a58a48,Archarbor Scene,21.4
+3050,645ba2a67ec1900802a58a49,Inaak,
+3051,6467860a7ec1900db1ca9cc6,Prisma Lenz,66.3
+3052,64743c757ec190141a5475b1,Sentient Surge,42.3
+3053,64743c767ec190141a5475b2,Sentient Barrage,24.5
+3054,649322af7ec190215a693091,Arcane Power Ramp,14.8
+3055,649322af7ec190215a693092,Primary Blight,28.0
+3056,649322b07ec190215a693093,Secondary Outburst,16.7
+3057,649322b07ec190215a693094,Akimbo Slip Shot,9.8
+3058,6493d52a7ec1902281122e72,Rauta Barrel,14.5
+3059,6493d52b7ec1902281122e73,Rauta Set,38.3
+3060,6493d52b7ec1902281122e74,Rauta Receiver,14.6
+3061,6493d52b7ec1902281122e75,Rauta Stock,16.7
+3062,64c2aa1466456704eba6ba2b,Neo L3 Relic,4.6
+3063,64c2aa1466456704eba6ba2c,Meso C8 Relic,2.6
+3064,64c2aa1466456704eba6ba2d,Wisp Prime Chassis Blueprint,14.4
+3065,64c2aa1466456704eba6ba2e,Gunsen Prime Blueprint,5.4
+3066,64c2aa1466456704eba6ba2f,Gunsen Prime Set,90.6
+3067,64c2aa1466456704eba6ba30,Fulmin Prime Blueprint,5.8
+3068,64c2aa1466456704eba6ba31,Gunsen Prime Handle,9.7
+3069,64c2aa1466456704eba6ba32,Fulmin Prime Barrel,8.2
+3070,64c2aa1466456704eba6ba33,Neo C4 Relic,1.5
+3071,64c2aa1466456704eba6ba34,Neo D7 Relic,2.0
+3072,64c2aa1466456704eba6ba35,Wisp Prime Set,94.2
+3073,64c2aa1466456704eba6ba36,Fulmin Prime Set,72.6
+3074,64c2aa1466456704eba6ba37,Fulmin Prime Stock,14.8
+3075,64c2aa1566456704eba6ba38,Wisp Prime Neuroptics Blueprint,14.0
+3076,64c2aa1566456704eba6ba39,Neo F2 Relic,2.6
+3077,64c2aa1566456704eba6ba3a,Neo N23 Relic,2.0
+3078,64c2aa1566456704eba6ba3b,Lith H9 Relic,4.3
+3079,64c2aa1566456704eba6ba3c,Meso G5 Relic,3.0
+3080,64c2aa1566456704eba6ba3d,Intrepid Stand,13.4
+3081,64c2aa1566456704eba6ba3e,Axi W3 Relic,8.1
+3082,64c2aa1566456704eba6ba3f,Gunsen Prime Blade,19.9
+3083,64c2aa1566456704eba6ba40,Ulfrun's Endurance,12.8
+3084,64c2aa1566456704eba6ba41,Lith W3 Relic,4.1
+3085,64c2aa1566456704eba6ba42,Meso P13 Relic,1.9
+3086,64c2aa1566456704eba6ba43,Temporal Erosion,14.4
+3087,64c2aa1666456704eba6ba44,Wisp Prime Systems Blueprint,8.3
+3088,64c2aa1666456704eba6ba45,Shadow Haze,14.1
+3089,64c2aa1666456704eba6ba46,Fulmin Prime Receiver,22.5
+3090,64c2aa1666456704eba6ba47,Meso K6 Relic,4.1
+3091,64c2aa1666456704eba6ba48,Axi H7 Relic,3.7
+3092,64c2aa1666456704eba6ba49,Neo T7 Relic,1.8
+3093,64c2aa1666456704eba6ba4a,Wisp Prime Blueprint,42.7
+3094,64c2ab1c66456704fef15835,Eximus Advantage,72.0
+3095,64c2ab1c66456704fef15836,Metamorphic Magazine,210.0
+3096,64c3a3a16645670594f57a5c,Dais Cay Scene,
+3097,64c3a3a16645670594f57a5d,Undercroft Outskirts Scene,
+3098,64c3a3a26645670594f57a5e,Little Cay Scene,
+3099,64c3a3a26645670594f57a5f,Crater Cay Scene,
+3100,64c3a3a26645670594f57a60,Winding Isles Scene,
+3101,64c3a3a26645670594f57a61,Basin Cay Scene,
+3102,64c3a3a26645670594f57a62,Undercroft Dax Camp Scene,
+3103,64c3a3a26645670594f57a63,Undercroft Township Scene,
+3104,64c3a3a36645670594f57a64,Undercroft Lunaro Scene,
+3105,64df999889997a0052defcb1,Prisma Ohma,63.4
+3106,64eda5d4facd4806c393e638,Lith L4 Relic,
+3107,64eda5d5facd4806c393e639,Undercroft Lodging Scene,
+3108,64eda5d5facd4806c393e63a,Axi D4 Relic,3.6
+3109,64eda5d5facd4806c393e63b,Meso F4 Relic,5.7
+3110,64eda5d5facd4806c393e63c,Neo B8 Relic,4.5
+3111,64eda5d5facd4806c393e63d,Lith M8 Relic,6.0
