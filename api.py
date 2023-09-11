@@ -1,5 +1,4 @@
 import requests
-import json
 import pandas as pd
 import time
 
@@ -16,7 +15,7 @@ itemsId = []
 itemsUrlName = []
 
 # Gathers id, url_name, and url_name for all items
-while(index != itemsLength):
+while(index != 10):
     urlName = r.json()['payload']['items'][index]['url_name']
     id = r.json()['payload']['items'][index]['id']
     name = r.json()['payload']['items'][index]['item_name']
@@ -39,8 +38,8 @@ listLength = len(itemsId)
 ordersAvgPlat = []
 ordersLastSold = []
 ordersItemType = []
-ordersMaxMod = []
-ordersUnrankedMod = []
+ordersAvgPlatMaxMod = []
+ordersLastSoldMaxMod = []
 
 print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'urlNameLength: ', len(itemsUrlName))
 
@@ -82,33 +81,26 @@ while index != listLength:
                 
                 lastSold, error2 = fetchLastSold(data, ordersLength, error2)
                 ordersLastSold.append(lastSold)
-                
+
                 if 'mod_rank' in (data['payload']['statistics_closed']['90days'][ordersLength] or data['payload']['statistics_closed']['90days'][int((ordersLength)/2)]):
-                    # Checks if the mod_rank object is in the indexed item data for both the unranked, [ordersLength], or "maxed", int((ordersLength)/2)],  mod
+                    # Checks if the mod_rank object is in the indexed item data for both the unranked, ordersLength, or "maxed", int((ordersLength)/2),  mod
                     ordersItemType.append('Mod')
                     if(data['payload']['statistics_closed']['90days'][ordersLength]['mod_rank'] > 0):
                         # Checks if the indexed mod is actually maxed
-                        avgMaxedPlat, error6 = fetchAvgPlat(data, ordersLength, error1)
-                        ordersMaxMod.append(avgPlat)
+                        avgMaxedPlat, error6 = fetchAvgPlat(data, int(((ordersLength)/2)), error1)
+                        ordersAvgPlatMaxMod.append(avgMaxedPlat)
                 
-                        lastSoldMaxed, error7 = fetchLastSold(data, ordersLength, error2)
-                        ordersMaxMod.append(lastSoldMaxed)
+                        lastSoldMaxed, error7 = fetchLastSold(data, int(((ordersLength)/2)), error2)
+                        ordersLastSoldMaxMod.append(lastSoldMaxed)
                     else:
-                        ordersMaxMod.append(None)
-                    if(data['payload']['statistics_closed']['90days'][ordersLength]['mod_rank'] == 0):
-                        # Checks if the indexed mod is actually unranked
-                        unrankedModPlat = data['payload']['statistics_closed']['90days'][int((ordersLength)/2)]
-                        ordersUnrankedMod.append(unrankedModPlat)
-                    else:
-                        ordersUnrankedMod.append(None)
-                else:
+                        ordersAvgPlatMaxMod.append(None)
+                        ordersLastSoldMaxMod.append(None)
                     #Handle the case when the item type isn't a mod
                     ordersItemType.append('Item')
-                    ordersMaxMod.append('N.A.')
-                    ordersUnrankedMod.append('N.A.')
+                    ordersAvgPlatMaxMod.append('N.A.')
+                    ordersLastSoldMaxMod.append('N.A.')
                     
-                    
-                print(f"Item {index}: {ordersUrl} - avgPlat: {avgPlat} | lastSold: {lastSold}")
+                print(f"Item {index}: {ordersUrl} - avgPlat: {avgPlat} | lastSold: {lastSold} | avgPlatMaxed: {avgMaxedPlat} | lastSoldMaxed: {lastSoldMaxed}")
             else:
                 # Handle the case when there is no data for the item
                 lastSold = None
@@ -137,8 +129,8 @@ while index != listLength:
     
     index += 1
     
-print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'avgPlatLength: ', len(ordersAvgPlat), 'lastSoldLength: ', len(ordersLastSold))
-data = { "itemId": itemsId, "itemName": itemsName, "avgPlat": ordersAvgPlat, "lastSold": ordersLastSold}
+print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'itemType: ', len(ordersItemType), 'avgPlatLength: ', len(ordersAvgPlat), 'lastSoldLength: ', len(ordersLastSold), 'avgPlatMaxed: ', len(ordersAvgPlatMaxMod), 'lastSoldMaxed: ', len(ordersLastSoldMaxMod))
+data = { "itemId": itemsId, "itemName": itemsName, "itemType": ordersItemType, "avgPlat": ordersAvgPlat, "lastSold": ordersLastSold, "avgPlatMaxed": ordersAvgPlatMaxMod, "lastSoldMaxed": ordersLastSoldMaxMod}
 df = pd.DataFrame(data)
 print(df)
 
@@ -152,4 +144,4 @@ print('Network errors: ', error5)
 
 end_time = time.time()
 execution_time = end_time - start_time
-print('\nProgram execution time:', execution_time ,"seconds", execution_time/60 ,"minutes", (execution_time/60)/60 ,"hours")
+print('\nProgram execution time:', round(execution_time, 2) ,"seconds or", round((execution_time/60), 3) ,"minutes or", round(((execution_time/60)/60), 4) ,"hours")
