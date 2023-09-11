@@ -15,7 +15,7 @@ itemsId = []
 itemsUrlName = []
 
 # Gathers id, url_name, and url_name for all items
-while(index != 10):
+while(index != itemsLength):
     urlName = r.json()['payload']['items'][index]['url_name']
     id = r.json()['payload']['items'][index]['id']
     name = r.json()['payload']['items'][index]['item_name']
@@ -26,15 +26,19 @@ while(index != 10):
     index += 1
     
 index = 0
-error1 = 0
-error2 = 0
-error3 = 0
-error4 = 0
-error5 = 0
-error6 = 0
-error7 = 0
-
+aPError = 0
+lSError = 0
+nDError = 0
+dFError = 0
+NError = 0
+apError2 = 0
+lSError2 = 0
+mRError = 0
+nMDError = 0
+avgMaxedPlat = None
+lastSoldMaxed = None
 listLength = len(itemsId)
+
 ordersAvgPlat = []
 ordersLastSold = []
 ordersItemType = []
@@ -51,7 +55,7 @@ def fetchAvgPlat(data, ordersLength, error):
         # Handle key error when the expected JSON structure is not found
         avgPlat = None
         error += 1
-        print(f"    JSON structure error: {key} (Item {index})")
+        print(f"        JSON structure error: {key} (Item {index})")
     return avgPlat, error
 
 def fetchLastSold(data, ordersLength, error):
@@ -60,7 +64,7 @@ def fetchLastSold(data, ordersLength, error):
     except KeyError as key:
         lastSold = None
         error += 1
-        print(f"    JSON structure error: {key} (Item {index})")
+        print(f"        JSON structure error: {key} (Item {index})")
     return lastSold, error
     
 
@@ -76,26 +80,37 @@ while index != listLength:
             ordersLength = len(r.json()['payload']['statistics_closed']['90days']) - 1
             if ordersLength > 0:
                 
-                avgPlat, error1 = fetchAvgPlat(data, ordersLength, error1)
+                avgPlat, aPError = fetchAvgPlat(data, ordersLength, aPError)
                 ordersAvgPlat.append(avgPlat)
                 
-                lastSold, error2 = fetchLastSold(data, ordersLength, error2)
+                lastSold, lSError = fetchLastSold(data, ordersLength, lSError)
                 ordersLastSold.append(lastSold)
 
-                if 'mod_rank' in (data['payload']['statistics_closed']['90days'][ordersLength] or data['payload']['statistics_closed']['90days'][int((ordersLength)/2)]):
-                    # Checks if the mod_rank object is in the indexed item data for both the unranked, ordersLength, or "maxed", int((ordersLength)/2),  mod
+                if 'mod_rank' in (data['payload']['statistics_closed']['90days'][ordersLength] or data['payload']['statistics_closed']['90days'][ordersLength - 1]):
+                    # Checks if the mod_rank object is in the indexed item data for both the unranked, ordersLength, or "maxed", ordersLength - 1,  mod
                     ordersItemType.append('Mod')
-                    if(data['payload']['statistics_closed']['90days'][ordersLength]['mod_rank'] > 0):
-                        # Checks if the indexed mod is actually maxed
-                        avgMaxedPlat, error6 = fetchAvgPlat(data, int(((ordersLength)/2)), error1)
-                        ordersAvgPlatMaxMod.append(avgMaxedPlat)
-                
-                        lastSoldMaxed, error7 = fetchLastSold(data, int(((ordersLength)/2)), error2)
-                        ordersLastSoldMaxMod.append(lastSoldMaxed)
+                    if ordersLength > 1:
+                        
+                        if(data['payload']['statistics_closed']['90days'][ordersLength - 1]['mod_rank'] > 0):
+                            # Checks if the indexed mod is actually maxed
+                            avgMaxedPlat, aPError2 = fetchAvgPlat(data, ordersLength - 1, aPError2)
+                            ordersAvgPlatMaxMod.append(avgMaxedPlat)
+                    
+                            lastSoldMaxed, lSError2 = fetchLastSold(data, ordersLength - 1, lSError2)
+                            ordersLastSoldMaxMod.append(lastSoldMaxed)
+                        else:
+                            ordersAvgPlatMaxMod.append(None)
+                            ordersLastSoldMaxMod.append(None)
+                            mRError += 1
+                            print(f"                Mod rank mismatch: (Item {index})")
+                            
                     else:
-                        ordersAvgPlatMaxMod.append(None)
-                        ordersLastSoldMaxMod.append(None)
-                    #Handle the case when the item type isn't a mod
+                            ordersAvgPlatMaxMod.append(None)
+                            ordersLastSoldMaxMod.append(None)
+                            nMDError += 1
+                            print(f"            No maxed mod data available: (Item {index})")
+                else:
+                    # Handle the case when the item type isn't a mod
                     ordersItemType.append('Item')
                     ordersAvgPlatMaxMod.append('N.A.')
                     ordersLastSoldMaxMod.append('N.A.')
@@ -103,29 +118,32 @@ while index != listLength:
                 print(f"Item {index}: {ordersUrl} - avgPlat: {avgPlat} | lastSold: {lastSold} | avgPlatMaxed: {avgMaxedPlat} | lastSoldMaxed: {lastSoldMaxed}")
             else:
                 # Handle the case when there is no data for the item
-                lastSold = None
-                ordersLastSold.append(lastSold)
-                avgPlat = None
-                ordersAvgPlat.append(avgPlat)
-                error3 += 1
-                print(f"Item {index}: {ordersUrl} - No data available")
+                ordersLastSold.append(None)
+                ordersAvgPlat.append(None)
+                ordersItemType.append(None)
+                ordersAvgPlatMaxMod.append(None)
+                ordersLastSoldMaxMod.append(None)
+                nDError += 1
+                print(f"    No data available: (Item {index})")
         else:
             # Handle the case when data is not in the expected format
-            lastSold = None
-            ordersLastSold.append(lastSold)
-            avgPlat = None
-            ordersAvgPlat.append(avgPlat)
-            error4 += 1
-            print(f"Item {index}: {ordersUrl} - Data format error")
+            ordersLastSold.append(None)
+            ordersAvgPlat.append(None)
+            ordersItemType.append(None)
+            ordersAvgPlatMaxMod.append(None)
+            ordersLastSoldMaxMod.append(None)
+            dFError += 1
+            print(f"    Data format error: (Item {index})")
         
     except requests.exceptions.RequestException as e:
         # Handle network-related errors
-        lastSold = None
-        ordersLastSold.append(lastSold)
-        avgPlat = None
-        ordersAvgPlat.append(avgPlat)
-        error5 += 1
-        print(f"Item {index}: {ordersUrl} - Error fetching data: {e}")
+        ordersLastSold.append(None)
+        ordersAvgPlat.append(None)
+        ordersItemType.append(None)
+        ordersAvgPlatMaxMod.append(None)
+        ordersLastSoldMaxMod.append(None)
+        NError += 1
+        print(f"Error fetching data: {e} (Item {index})")
     
     index += 1
     
@@ -136,12 +154,16 @@ print(df)
 
 df.to_csv('items.csv')
 
-print('avgPlat fetch errors: ', error1)
-print('lastSold fetch errors: ', error2)
-print('No data errors: ', error3)
-print('Data format errors: ', error4)
-print('Network errors: ', error5)
+print('avgPlat fetch errors: ', aPError)
+print('lastSold fetch errors: ', lSError)
+print('avgPlat fetch errors (Mod): ', aPError)
+print('lastSold fetch errors (Mod): ', lSError)
+print('Mod rank mismatch errors: ', mRError)
+print('No maxed mod data errors:', nMDError)
+print('No data errors: ', nDError)
+print('Data format errors: ', dFError)
+print('Network errors: ', NError)
 
 end_time = time.time()
 execution_time = end_time - start_time
-print('\nProgram execution time:', round(execution_time, 2) ,"seconds or", round((execution_time/60), 3) ,"minutes or", round(((execution_time/60)/60), 4) ,"hours")
+print('\nProgram execution time:', round(execution_time, 2) ,"seconds or", round((execution_time/60), 3) ,"minutes or", round(((execution_time/60)/60), 4) ,"hours\n")
