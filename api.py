@@ -31,12 +31,14 @@ lSError = 0
 nDError = 0
 dFError = 0
 NError = 0
-apError2 = 0
+aPError2 = 0
 lSError2 = 0
 mRError = 0
 nMDError = 0
-avgMaxedPlat = None
-lastSoldMaxed = None
+avgMaxedPlat = 0
+lastSoldMaxed = 0
+avgPlatDiff = 0
+lastSoldPlatDiff = 0
 listLength = len(itemsId)
 
 ordersAvgPlat = []
@@ -44,6 +46,8 @@ ordersLastSold = []
 ordersItemType = []
 ordersAvgPlatMaxMod = []
 ordersLastSoldMaxMod = []
+ordersAvgPlatDiff = []
+ordersLastSoldPlatDiff = []
 
 print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'urlNameLength: ', len(itemsUrlName))
 
@@ -53,7 +57,7 @@ def fetchAvgPlat(data, ordersLength, error):
         avgPlat = data['payload']['statistics_closed']['90days'][ordersLength]['moving_avg']
     except KeyError as key:
         # Handle key error when the expected JSON structure is not found
-        avgPlat = None
+        avgPlat = 0
         error += 1
         print(f"        JSON structure error: {key} (Item {index})")
     return avgPlat, error
@@ -62,7 +66,7 @@ def fetchLastSold(data, ordersLength, error):
     try:
         lastSold = data['payload']['statistics_closed']['90days'][ordersLength]['wa_price']
     except KeyError as key:
-        lastSold = None
+        lastSold = 0
         error += 1
         print(f"        JSON structure error: {key} (Item {index})")
     return lastSold, error
@@ -81,10 +85,17 @@ while index != listLength:
             if ordersLength > 0:
                 
                 avgPlat, aPError = fetchAvgPlat(data, ordersLength, aPError)
-                ordersAvgPlat.append(avgPlat)
-                
                 lastSold, lSError = fetchLastSold(data, ordersLength, lSError)
-                ordersLastSold.append(lastSold)
+                
+                # Allows for values to be able to still be used in math by keeping them 'float' values only, not 'NoneType' and 'float'
+                if avgPlat != 0:
+                    ordersAvgPlat.append(avgPlat)
+                else:
+                    ordersAvgPlat.append(None)
+                if lastSold != 0:
+                    ordersLastSold.append(lastSold)
+                else:
+                    ordersLastSold.append(None)
 
                 if 'mod_rank' in (data['payload']['statistics_closed']['90days'][ordersLength] or data['payload']['statistics_closed']['90days'][ordersLength - 1]):
                     # Checks if the mod_rank object is in the indexed item data for both the unranked, ordersLength, or "maxed", ordersLength - 1,  mod
@@ -92,30 +103,49 @@ while index != listLength:
                     if ordersLength > 1:
                         
                         if(data['payload']['statistics_closed']['90days'][ordersLength - 1]['mod_rank'] > 0):
-                            # Checks if the indexed mod is actually maxed
+                            # Checks if the indexed mod is actually maxed 
                             avgMaxedPlat, aPError2 = fetchAvgPlat(data, ordersLength - 1, aPError2)
-                            ordersAvgPlatMaxMod.append(avgMaxedPlat)
-                    
                             lastSoldMaxed, lSError2 = fetchLastSold(data, ordersLength - 1, lSError2)
-                            ordersLastSoldMaxMod.append(lastSoldMaxed)
+                            
+                            # Allows for values to be able to still be used in math by keeping them 'float' values only, not 'NoneType' and 'float'
+                            if avgMaxedPlat!= 0:
+                                ordersAvgPlatMaxMod.append(avgMaxedPlat)
+                            else:
+                                ordersAvgPlatMaxMod.append(None)
+                            if lastSoldMaxed != 0:
+                                ordersLastSoldMaxMod.append(lastSoldMaxed)
+                            else:
+                                ordersLastSoldMaxMod.append(None)
+                            
+                            avgPlatDiff = avgMaxedPlat - avgPlat
+                            ordersAvgPlatDiff.append(round(avgPlatDiff, 2))
+                            lastSoldPlatDiff = lastSoldMaxed - lastSold
+                            ordersLastSoldPlatDiff.append(round(lastSoldPlatDiff, 2))
                         else:
+                            ordersAvgPlatDiff.append(None)
+                            ordersLastSoldPlatDiff.append(None)
                             ordersAvgPlatMaxMod.append(None)
                             ordersLastSoldMaxMod.append(None)
                             mRError += 1
                             print(f"                Mod rank mismatch: (Item {index})")
                             
                     else:
-                            ordersAvgPlatMaxMod.append(None)
-                            ordersLastSoldMaxMod.append(None)
-                            nMDError += 1
-                            print(f"            No maxed mod data available: (Item {index})")
+                        ordersAvgPlatDiff.append(None)
+                        ordersLastSoldPlatDiff.append(None)
+                        ordersAvgPlatMaxMod.append(None)
+                        ordersLastSoldMaxMod.append(None)
+                        nMDError += 1
+                        print(f"            No maxed mod data available: (Item {index})")
                 else:
                     # Handle the case when the item type isn't a mod
+                    ordersAvgPlatDiff.append('N.A.')
+                    ordersLastSoldPlatDiff.append('N.A.')
                     ordersItemType.append('Item')
                     ordersAvgPlatMaxMod.append('N.A.')
                     ordersLastSoldMaxMod.append('N.A.')
                     
-                print(f"Item {index}: {ordersUrl} - avgPlat: {avgPlat} | lastSold: {lastSold} | avgPlatMaxed: {avgMaxedPlat} | lastSoldMaxed: {lastSoldMaxed}")
+                print(f"Item {index}: {ordersUrl} - avgPlat: {ordersAvgPlat[index]} | lastSold: {ordersLastSold[index]} | avgPlatMaxed: {ordersAvgPlatMaxMod[index]}", 
+                      f" | lastSoldMaxed: {ordersLastSoldMaxMod[index]} | avgPlatDiff: {ordersAvgPlatDiff[index]} | lastSoldPlatDiff {ordersLastSoldPlatDiff[index]}")
             else:
                 # Handle the case when there is no data for the item
                 ordersLastSold.append(None)
@@ -123,6 +153,8 @@ while index != listLength:
                 ordersItemType.append(None)
                 ordersAvgPlatMaxMod.append(None)
                 ordersLastSoldMaxMod.append(None)
+                ordersAvgPlatDiff.append(None)
+                ordersLastSoldPlatDiff.append(None)
                 nDError += 1
                 print(f"    No data available: (Item {index})")
         else:
@@ -132,6 +164,8 @@ while index != listLength:
             ordersItemType.append(None)
             ordersAvgPlatMaxMod.append(None)
             ordersLastSoldMaxMod.append(None)
+            ordersAvgPlatDiff.append(None)
+            ordersLastSoldPlatDiff.append(None)
             dFError += 1
             print(f"    Data format error: (Item {index})")
         
@@ -142,13 +176,21 @@ while index != listLength:
         ordersItemType.append(None)
         ordersAvgPlatMaxMod.append(None)
         ordersLastSoldMaxMod.append(None)
+        ordersAvgPlatDiff.append(None)
+        ordersLastSoldPlatDiff.append(None)
         NError += 1
         print(f"Error fetching data: {e} (Item {index})")
     
     index += 1
     
-print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'itemType: ', len(ordersItemType), 'avgPlatLength: ', len(ordersAvgPlat), 'lastSoldLength: ', len(ordersLastSold), 'avgPlatMaxed: ', len(ordersAvgPlatMaxMod), 'lastSoldMaxed: ', len(ordersLastSoldMaxMod))
-data = { "itemId": itemsId, "itemName": itemsName, "itemType": ordersItemType, "avgPlat": ordersAvgPlat, "lastSold": ordersLastSold, "avgPlatMaxed": ordersAvgPlatMaxMod, "lastSoldMaxed": ordersLastSoldMaxMod}
+print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'itemType: ', len(ordersItemType),
+      'avgPlatLength: ', len(ordersAvgPlat), 'lastSoldLength: ', len(ordersLastSold),
+      'avgPlatMaxedLength: ', len(ordersAvgPlatMaxMod),'lastSoldMaxedLength: ', len(ordersLastSoldMaxMod),
+      'avgPlatDiffLength', len(ordersAvgPlatDiff), 'lastSoldPlatDiffLength', len(ordersLastSoldPlatDiff))
+
+data = { "itemId": itemsId, "itemName": itemsName, "itemType": ordersItemType, "avgPlat": ordersAvgPlat, 
+        "lastSold": ordersLastSold, "avgPlatMaxed": ordersAvgPlatMaxMod, "lastSoldMaxed": ordersLastSoldMaxMod,
+        "avgPlatDiff": ordersAvgPlatDiff, "lastSoldPlatDiff": ordersLastSoldPlatDiff}
 df = pd.DataFrame(data)
 print(df)
 
