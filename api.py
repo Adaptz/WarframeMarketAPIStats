@@ -1,3 +1,4 @@
+from __future__ import print_function
 import requests
 import pandas as pd
 import time
@@ -6,7 +7,7 @@ start_time = time.time()
 
 infoUrl = 'https://api.warframe.market/v1/items'
 r = requests.get(infoUrl)
-print(r.status_code)
+print('\nResponse Code: ',r.status_code, '\n')
 
 itemsLength = len(r.json()['payload']['items'])
 index = 1
@@ -24,6 +25,7 @@ while(index != itemsLength):
     itemsName.append(name)
     itemsUrlName.append(urlName)
     index += 1
+    print(index,' / ',itemsLength,' Items Stored', end='\r')
     
 index = 0
 aPError = 0
