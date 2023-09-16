@@ -1,5 +1,5 @@
 from __future__ import print_function
-import requests
+# import requests
 import asyncio
 import aiohttp
 import pandas as pd
@@ -10,14 +10,12 @@ start_time = time.time()
 
 infoUrl = 'https://api.warframe.market/v1/items'
 
-# print('\nResponse Code: ',s.status_code, '\n')
-
 itemsName = []
 itemsId = []
 itemsUrlName = []
 items = []
 
-
+# Gathers id, url_name, and url_name for all items using asyncio
 async def fetchInfo():
     async with aiohttp.ClientSession() as session:
         response = await session.get(infoUrl, ssl = False)
@@ -42,25 +40,10 @@ async def fetchInfo():
 # loop.run_until_complete(items)
 # loop.close
 asyncio.run(fetchInfo())
-
-# # Gathers id, url_name, and url_name for all items
-# for item in items:
-#     urlName = data['payload']['items'][index]['url_name']
-#     id = data['payload']['items'][index]['id']
-#     name = data['payload']['items'][index]['item_name']
-    
-#     itemsId.append(id)
-#     itemsName.append(name)
-#     itemsUrlName.append(urlName)
-#     index += 1
-#     print(index,' / ',itemsLength,' Items Stored', end='\r')
     
 end_time = time.time()
 execution_time = end_time - start_time
 print('\n\nItems info fetch time:', round(execution_time, 2) ,"seconds\n")
-    
-
-# listLength = len(itemsId)
 
 ordersAvgPlat = []
 ordersLastSold = []
@@ -91,7 +74,8 @@ def fetchLastSold(data, ordersLength, error, index):
         error += 1
         print(f"        JSON structure error: {key} (Item {index})")
     return lastSold, error
-    
+
+
 async def fetchStats():
     async with aiohttp.ClientSession() as session:
         index = 0
