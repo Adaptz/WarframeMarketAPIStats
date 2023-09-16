@@ -1,31 +1,63 @@
 from __future__ import print_function
 import requests
+import asyncio
+import aiohttp
 import pandas as pd
 import time
+
 
 start_time = time.time()
 
 infoUrl = 'https://api.warframe.market/v1/items'
-r = requests.get(infoUrl)
-print('\nResponse Code: ',r.status_code, '\n')
 
-itemsLength = len(r.json()['payload']['items'])
-index = 1
+# print('\nResponse Code: ',s.status_code, '\n')
+
 itemsName = []
 itemsId = []
 itemsUrlName = []
+items = []
 
-# Gathers id, url_name, and url_name for all items
-while(index != itemsLength):
-    urlName = r.json()['payload']['items'][index]['url_name']
-    id = r.json()['payload']['items'][index]['id']
-    name = r.json()['payload']['items'][index]['item_name']
+
+async def fetchInfo():
+    async with aiohttp.ClientSession() as session:
+        response = await session.get(infoUrl, ssl = False)
+        data = await response.json()
+        itemsLength = len(data['payload']['items'])
+        index = 0
+        while(index != itemsLength):
+            items.append(index)
+            index += 1 
+            
+        for item in items:
+            urlName = data['payload']['items'][item]['url_name']
+            id = data['payload']['items'][item]['id']
+            name = data['payload']['items'][item]['item_name']
+            
+            itemsId.append(id)
+            itemsName.append(name)
+            itemsUrlName.append(urlName)
+            print(item,' / ',itemsLength,' Items Stored', end='\r')
+
+# loop = asyncio.get_event_loop()
+# loop.run_until_complete(items)
+# loop.close
+asyncio.run(fetchInfo())
+
+# # Gathers id, url_name, and url_name for all items
+# for item in items:
+#     urlName = data['payload']['items'][index]['url_name']
+#     id = data['payload']['items'][index]['id']
+#     name = data['payload']['items'][index]['item_name']
     
-    itemsId.append(id)
-    itemsName.append(name)
-    itemsUrlName.append(urlName)
-    index += 1
-    print(index,' / ',itemsLength,' Items Stored', end='\r')
+#     itemsId.append(id)
+#     itemsName.append(name)
+#     itemsUrlName.append(urlName)
+#     index += 1
+#     print(index,' / ',itemsLength,' Items Stored', end='\r')
+    
+end_time = time.time()
+execution_time = end_time - start_time
+print('\n\nItems info fetch time:', round(execution_time, 2) ,"seconds\n")
     
 index = 0
 aPError = 0
@@ -74,16 +106,16 @@ def fetchLastSold(data, ordersLength, error):
     return lastSold, error
     
 
-while index != listLength:
+for item in itemsUrlName:
     try:
-        ordersUrl = 'https://api.warframe.market/v1/items/' + itemsUrlName[index] + '/statistics'
-        r = requests.get(ordersUrl)
+        ordersUrl = 'https://api.warframe.market/v1/items/{}/statistics'
+        r = requests.get(ordersUrl.format(item))
         r.raise_for_status()  # Raise an exception for HTTP errors
         
         data = r.json()
         
         if 'payload' in data and 'statistics_closed' in data['payload'] and '90days' in data['payload']['statistics_closed']:
-            ordersLength = len(r.json()['payload']['statistics_closed']['90days']) - 1
+            ordersLength = len(data['payload']['statistics_closed']['90days']) - 1
             if ordersLength > 0:
                 
                 avgPlat, aPError = fetchAvgPlat(data, ordersLength, aPError)
@@ -146,7 +178,7 @@ while index != listLength:
                     ordersAvgPlatMaxMod.append('N.A.')
                     ordersLastSoldMaxMod.append('N.A.')
                     
-                print(f"Item {index}: {ordersUrl} - avgPlat: {ordersAvgPlat[index]} | lastSold: {ordersLastSold[index]} | avgPlatMaxed: {ordersAvgPlatMaxMod[index]}", 
+                print(f"Item {index}: {ordersUrl.format(item)} - avgPlat: {ordersAvgPlat[index]} | lastSold: {ordersLastSold[index]} | avgPlatMaxed: {ordersAvgPlatMaxMod[index]}", 
                       f" | lastSoldMaxed: {ordersLastSoldMaxMod[index]} | avgPlatDiff: {ordersAvgPlatDiff[index]} | lastSoldPlatDiff {ordersLastSoldPlatDiff[index]}")
             else:
                 # Handle the case when there is no data for the item
