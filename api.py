@@ -4,6 +4,7 @@ import asyncio
 import aiohttp
 import pandas as pd
 import time
+import numpy as np
 
 
 start_time = time.time()
@@ -159,11 +160,11 @@ async def fetchStats():
                                 print(f"            No maxed mod data available: (Item {index})")
                         else:
                             # Handle the case when the item type isn't a mod
-                            ordersAvgPlatDiff.append('N.A.')
-                            ordersLastSoldPlatDiff.append('N.A.')
+                            ordersAvgPlatDiff.append(np.nan)
+                            ordersLastSoldPlatDiff.append(np.nan)
                             ordersItemType.append('Item')
-                            ordersAvgPlatMaxMod.append('N.A.')
-                            ordersLastSoldMaxMod.append('N.A.')
+                            ordersAvgPlatMaxMod.append(np.nan)
+                            ordersLastSoldMaxMod.append(np.nan)
                             
                         print(f"Item {index}: {ordersUrl.format(item)} - avgPlat: {ordersAvgPlat[index]} | lastSold: {ordersLastSold[index]} | avgPlatMaxed: {ordersAvgPlatMaxMod[index]}", 
                             f" | lastSoldMaxed: {ordersLastSoldMaxMod[index]} | avgPlatDiff: {ordersAvgPlatDiff[index]} | lastSoldPlatDiff {ordersLastSoldPlatDiff[index]}")
