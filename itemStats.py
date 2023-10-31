@@ -2,50 +2,14 @@ from __future__ import print_function
 # import requests
 import asyncio
 import aiohttp
-import attr
 import pandas as pd
 import time
 import numpy as np
 
+from itemsInfo import itemsName, itemsId, itemsUrlName
+
 
 start_time = time.time()
-
-infoUrl = 'https://api.warframe.market/v1/items'
-
-itemsName = []
-itemsId = []
-itemsUrlName = []
-items = []
-
-# Gathers id, url_name, and url_name for all items using asyncio
-async def fetchInfo():
-    async with aiohttp.ClientSession() as session:
-        response = await session.get(infoUrl, ssl = False)
-        data = await response.json()
-        itemsLength = len(data['payload']['items'])
-        index = 0
-        while(index != itemsLength):
-            items.append(index)
-            index += 1 
-            
-        for item in items:
-            urlName = data['payload']['items'][item]['url_name']
-            id = data['payload']['items'][item]['id']
-            name = data['payload']['items'][item]['item_name']
-            
-            itemsId.append(id)
-            itemsName.append(name)
-            itemsUrlName.append(urlName)
-            print(item + 1,' / ',itemsLength,' Items Stored', end='\r')
-
-# loop = asyncio.get_event_loop()
-# loop.run_until_complete(items)
-# loop.close
-asyncio.run(fetchInfo())
-    
-end_time = time.time()
-execution_time = end_time - start_time
-print('\n\nItems info fetch time:', round(execution_time, 2) ,"seconds\n")
 
 ordersAvgPlat = []
 ordersLastSold = []
@@ -95,13 +59,11 @@ async def fetchStats():
         avgPlatDiff = 0
         lastSoldPlatDiff = 0
         requests = 10
-        rate = 1/requests # sets rate limit of 10 requests/second
         
         for item in itemsUrlName:
+            rate = 1/requests # sets rate limit of 10 requests/second
             try:
                 ordersUrl = 'https://api.warframe.market/v1/items/{}/statistics'
-                # Adds rate limit
-                await asyncio.sleep(rate)
                 response = await session.get(ordersUrl.format(item), ssl = False)
                 # session.raise_for_status()  # Raise an exception for HTTP errors
                 
@@ -195,6 +157,9 @@ async def fetchStats():
                     ordersLastSoldPlatDiff.append(None)
                     dFError += 1
                     print(f"    Data format error: (Item {index})")
+                    
+                # Adds rate limit
+                await asyncio.sleep(rate)
                 
             except aiohttp.ClientError as e:
                 # Handle network-related errors
@@ -206,7 +171,7 @@ async def fetchStats():
                 ordersAvgPlatDiff.append(None)
                 ordersLastSoldPlatDiff.append(None)
                 NError += 1
-                requests = requests - 1
+                requests = requests - 1 # lowers amount of requests per second by 1
                 print(f"Aiohttp client error: {e} (Item {index})")
             
             index += 1
