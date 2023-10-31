@@ -41,4 +41,10 @@ sns.kdeplot(data = items, x = 'avgPlatMaxed')
 
 #%%
 sns.boxplot(data = items, x = 'avgPlatMaxed')
+
+#%%
+sns.kdeplot(data = items, x = 'avgPlatDiff')
+
+#%%
+sns.boxplot(data = items, x = 'avgPlatDiff')
 #%%

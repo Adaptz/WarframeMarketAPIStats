@@ -2,6 +2,7 @@ from __future__ import print_function
 # import requests
 import asyncio
 import aiohttp
+import attr
 import pandas as pd
 import time
 import numpy as np
@@ -93,10 +94,14 @@ async def fetchStats():
         lastSoldMaxed = 0
         avgPlatDiff = 0
         lastSoldPlatDiff = 0
+        requests = 10
+        rate = 1/requests # sets rate limit of 10 requests/second
         
         for item in itemsUrlName:
             try:
                 ordersUrl = 'https://api.warframe.market/v1/items/{}/statistics'
+                # Adds rate limit
+                await asyncio.sleep(rate)
                 response = await session.get(ordersUrl.format(item), ssl = False)
                 # session.raise_for_status()  # Raise an exception for HTTP errors
                 
@@ -201,6 +206,7 @@ async def fetchStats():
                 ordersAvgPlatDiff.append(None)
                 ordersLastSoldPlatDiff.append(None)
                 NError += 1
+                requests = requests - 1
                 print(f"Aiohttp client error: {e} (Item {index})")
             
             index += 1
