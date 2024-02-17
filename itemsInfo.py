@@ -52,9 +52,9 @@ infoType = []
 async def fetchInfo():
     async with aiohttp.ClientSession() as session:
         index = 0
-        requests = 10
+        requests = 7
         for item in itemsUrlName:
-            rate = 1/requests # sets rate limit of 10 requests/second
+            rate = 1/requests # sets rate limit of 7 requests/second
             try:
                 infoUrl = 'https://api.warframe.market/v1/items/{}'
                 
@@ -63,9 +63,52 @@ async def fetchInfo():
                 if 'payload' in data and 'item' in data['payload']:
                     tags = data['payload']['item']['items_in_set'][0]['tags']
                     if 'mod' in tags:
-                        infoType.append('Mod')
+                        if 'riven_mod' in tags:
+                            infoType.append('Riven')
+                        else:
+                            infoType.append('Mod')
                     elif 'arcane_enhancement' in tags:
                         infoType.append('Arcane')
+                    elif 'weapon' in tags:
+                        infoType.append('Weapon')
+                    elif 'warframe' in tags:
+                        infoType.append('Warframe')
+                    elif 'blueprint' in  tags:
+                        infoType.append('Blueprint')
+                    elif 'misc' in tags:
+                        infoType.append('Misc.')
+                    elif 'relic' in tags:
+                        infoType.append('Relic')
+                    elif 'fish' in tags:
+                        infoType.append('Fish')
+                    elif 'scene' in tags:
+                        infoType.append('Scene')
+                    elif 'emote' in tags:
+                        infoType.append('Emote')
+                    elif 'gem' in tags:
+                        infoType.append('Gem')
+                    elif 'sentinel' in tags:
+                        infoType.append('Sentinel')
+                    elif 'component' in tags:
+                        infoType.append('Component')
+                    elif 'skin' in tags:
+                        infoType.append('Skin')
+                    elif 'lens' in tags:
+                        infoType.append('Lens')
+                    elif 'imprint' in tags:
+                        infoType.append('Imprint')
+                    elif 'ayatan_sculpture' in tags:
+                        infoType.append('Ayatan Sculpture')
+                    elif 'collectible' in tags:
+                        infoType.append('Collectible')
+                    elif 'ayatan_star' in tags:
+                        infoType.append('Ayatan Star')
+                    elif 'beacon' in tags:
+                        infoType.append('Beacon')
+                    elif 'fusion core' in tags:
+                        infoType.append('Fusion Core')
+                    elif 'key' in tags:
+                        infoType.append('Key')
                     else:
                         infoType.append('Other')
                 else:
@@ -84,6 +127,11 @@ async def fetchInfo():
                 
             print(f"Item {index}: {infoUrl.format(item)} - Type : {infoType[index]}")
             index += 1
+            
+        uniqueTypes = set(infoType)
+        for type in uniqueTypes:
+            count = infoType.count(type)
+            print(f'{type}: {count}')
 
             
 asyncio.run(fetchInfo())

@@ -6,14 +6,13 @@ import pandas as pd
 import time
 import numpy as np
 
-from itemsInfo import itemsName, itemsId, itemsUrlName
+from itemsInfo import itemsName, itemsId, itemsUrlName, infoType
 
 
 start_time = time.time()
 
 ordersAvgPlat = []
 ordersLastSold = []
-ordersItemType = []
 ordersAvgPlatMaxMod = []
 ordersLastSoldMaxMod = []
 ordersAvgPlatDiff = []
@@ -58,10 +57,10 @@ async def fetchStats():
         lastSoldMaxed = 0
         avgPlatDiff = 0
         lastSoldPlatDiff = 0
-        requests = 10
+        requests = 7
         
         for item in itemsUrlName:
-            rate = 1/requests # sets rate limit of 10 requests/second
+            rate = 1/requests # sets rate limit of 7 requests/second
             try:
                 ordersUrl = 'https://api.warframe.market/v1/items/{}/statistics'
                 response = await session.get(ordersUrl.format(item), ssl = False)
@@ -85,11 +84,9 @@ async def fetchStats():
                             ordersLastSold.append(lastSold)
                         else:
                             ordersLastSold.append(None)
-
-                        if 'mod_rank' in (data['payload']['statistics_closed']['90days'][ordersLength] or data['payload']['statistics_closed']['90days'][ordersLength - 1]):
+                        if infoType[index] == 'Mod':
                             # Checks if the mod_rank object is in the indexed item data for both the unranked, ordersLength, or "maxed", ordersLength - 1,  mod
-                            ordersItemType.append('Mod')
-                            if ordersLength > 1:
+                            if ordersLength > 1 and 'mod_rank' in data['payload']['statistics_closed']['90days'][ordersLength - 1]:
                                 
                                 if(data['payload']['statistics_closed']['90days'][ordersLength - 1]['mod_rank'] > 0):
                                     # Checks if the indexed mod is actually maxed 
@@ -129,7 +126,6 @@ async def fetchStats():
                             # Handle the case when the item type isn't a mod
                             ordersAvgPlatDiff.append(np.nan)
                             ordersLastSoldPlatDiff.append(np.nan)
-                            ordersItemType.append('Item')
                             ordersAvgPlatMaxMod.append(np.nan)
                             ordersLastSoldMaxMod.append(np.nan)
                             
@@ -139,7 +135,6 @@ async def fetchStats():
                         # Handle the case when there is no data for the item
                         ordersLastSold.append(None)
                         ordersAvgPlat.append(None)
-                        ordersItemType.append(None)
                         ordersAvgPlatMaxMod.append(None)
                         ordersLastSoldMaxMod.append(None)
                         ordersAvgPlatDiff.append(None)
@@ -150,7 +145,6 @@ async def fetchStats():
                     # Handle the case when data is not in the expected format
                     ordersLastSold.append(None)
                     ordersAvgPlat.append(None)
-                    ordersItemType.append(None)
                     ordersAvgPlatMaxMod.append(None)
                     ordersLastSoldMaxMod.append(None)
                     ordersAvgPlatDiff.append(None)
@@ -165,7 +159,6 @@ async def fetchStats():
                 # Handle network-related errors
                 ordersLastSold.append(None)
                 ordersAvgPlat.append(None)
-                ordersItemType.append(None)
                 ordersAvgPlatMaxMod.append(None)
                 ordersLastSoldMaxMod.append(None)
                 ordersAvgPlatDiff.append(None)
@@ -176,12 +169,12 @@ async def fetchStats():
             
             index += 1
     
-        print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'itemType: ', len(ordersItemType),
+        print('itemIdLength: ', len(itemsId), 'itemNameLength: ', len(itemsName), 'itemType: ', len(infoType),
             'avgPlatLength: ', len(ordersAvgPlat), 'lastSoldLength: ', len(ordersLastSold),
             'avgPlatMaxedLength: ', len(ordersAvgPlatMaxMod),'lastSoldMaxedLength: ', len(ordersLastSoldMaxMod),
             'avgPlatDiffLength', len(ordersAvgPlatDiff), 'lastSoldPlatDiffLength', len(ordersLastSoldPlatDiff))
 
-        data = { "itemId": itemsId, "itemName": itemsName, "itemType": ordersItemType, "avgPlat": ordersAvgPlat, 
+        data = { "itemId": itemsId, "itemName": itemsName, "itemType": infoType, "avgPlat": ordersAvgPlat, 
                 "lastSold": ordersLastSold, "avgPlatMaxed": ordersAvgPlatMaxMod, "lastSoldMaxed": ordersLastSoldMaxMod,
                 "avgPlatDiff": ordersAvgPlatDiff, "lastSoldPlatDiff": ordersLastSoldPlatDiff}
         df = pd.DataFrame(data)
