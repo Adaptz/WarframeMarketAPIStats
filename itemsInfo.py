@@ -136,7 +136,7 @@ async def fetchInfo():
             
 asyncio.run(fetchInfo())
 
-data = { "Id": itemsId, "Name": itemsName, "Type": infoType, "UrlName": itemsUrlName, "Url": itemsUrl}
+data = { "Id": itemsId, "Name": itemsName, "Type": infoType, "UrlName": itemsUrlName}
 df = pd.DataFrame(data)
 print(df)
 
