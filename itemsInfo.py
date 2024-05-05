@@ -136,9 +136,11 @@ async def fetchInfo():
             
 asyncio.run(fetchInfo())
 
-data = { "Id": itemsId, "Name": itemsName, "Type": infoType}
+data = { "Id": itemsId, "Name": itemsName, "Type": infoType, "UrlName": itemsUrlName, "Url": itemsUrl}
 df = pd.DataFrame(data)
 print(df)
+
+df.to_csv('itemsInfo.csv')
     
 end_time = time.time()
 execution_time = end_time - start_time

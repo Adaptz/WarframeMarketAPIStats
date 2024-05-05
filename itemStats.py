@@ -6,7 +6,16 @@ import pandas as pd
 import time
 import numpy as np
 
-from itemsInfo import itemsName, itemsId, itemsUrlName, infoType
+
+# Commented to avoid updating itemInfo.csv every time
+# from itemsInfo import itemsName, itemsId, itemsUrlName, infoType
+
+info = pd.read_csv("itemsInfo.csv")
+
+itemsName = info['Name'].tolist()
+itemsId = info['Id'].tolist()
+itemsUrlName = info['UrlName'].tolist()
+infoType = info['Type'].tolist()
 
 
 start_time = time.time()
@@ -180,7 +189,7 @@ async def fetchStats():
         df = pd.DataFrame(data)
         print(df)
 
-        df.to_csv('items.csv')
+        df.to_csv('itemStats.csv')
 
         print('avgPlat fetch errors: ', aPError)
         print('lastSold fetch errors: ', lSError)
