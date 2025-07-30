@@ -8,7 +8,7 @@ import numpy as np
 
 
 # Commented to avoid updating itemInfo.csv every time
-# from itemsInfo import itemsName, itemsId, itemsUrlName, infoType
+from itemsInfo import itemsName, itemsId, itemsUrlName, infoType
 
 info = pd.read_csv("itemsInfo.csv")
 

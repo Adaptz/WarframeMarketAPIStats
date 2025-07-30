@@ -25,7 +25,7 @@
 23,5783bf20d9b6753790c89e8d,Fluctus Stock,Weapon,fluctus_stock
 24,5783bf27d9b6753790c89e8e,Decurion Barrel,Weapon,decurion_barrel
 25,59a48b625cd9938cfede703c,Hydroid Prime Set,Warframe,hydroid_prime_set
-26,595567c18e34b5ed3cb3d9bd,Cleanse Corrupted,Mod,cleanse_corrupted
+26,595567c18e34b5ed3cb3d9bd,Cleanse Orokin,Mod,cleanse_corrupted
 27,598b06b4ab6b61be6fec0fb4,Kappa Beacon,Misc.,kappa_beacon
 28,59eba86952f90ed715e14158,Star Crimzian,Gem,star_crimzian
 29,5a04750c6c4655012038ddcb,Virtuos Strike,Arcane,virtuos_strike
@@ -131,7 +131,7 @@
 129,59eba86952f90ed715e14157,Marquise Veridos,Gem,marquise_veridos
 130,54aaf284e77989627dc20627,Arcane Reverb Helmet,Skin,arcane_reverb_helmet
 131,5526aec0e779896af9418258,Explosive Legerdemain,Mod,explosive_legerdemain
-132,595567c18e34b5ed3cb3d9bc,Smite Corrupted,Mod,smite_corrupted
+132,595567c18e34b5ed3cb3d9bc,Smite Orokin,Mod,smite_corrupted
 133,54aaf29ce7798971c40870b8,Arcane Hemlock Helmet,Skin,arcane_hemlock_helmet
 134,5526aec0e779896af941825b,Vampire Leech,Mod,vampire_leech
 135,5d21ce47f4604c012d1e0c15,Zhuge Prime Blueprint,Weapon,zhuge_prime_blueprint
@@ -163,9 +163,9 @@
 161,54e0c9eee7798903744178ac,Total Eclipse,Mod,total_eclipse
 162,54aaf2ade779897b41e2872c,Arcane Pulse Helmet,Skin,arcane_pulse_helmet
 163,59dfeb63115f1d887cfd7abc,Vigilante Pursuit,Mod,vigilante_pursuit
-164,554d3f0ce779894445a848f5,Purging Slash,Mod,purging_slash
+164,554d3f0ce779894445a848f5,Purging Slash,,purging_slash
 165,54aaf2f8e779892b01b42391,Arcane Mag Gauss Helmet,Skin,arcane_mag_gauss_helmet
-166,54aaf526e779896a8c2ecfd8,Ancient Fusion Core,Fusion Core,ancient_fusion_core
+166,54aaf526e779896a8c2ecfd8,Ancient Fusion Core,,ancient_fusion_core
 167,59e91860f25be4e10d36571f,Furax Wraith Right Gauntlet,Weapon,furax_wraith_right_gauntlet
 168,554d3f0ce779894445a848fe,Auger Strike,Mod,auger_strike
 169,54a73e65e779893a797fff71,Nyx Prime Neuroptics Blueprint,Warframe,nyx_prime_neuroptics_blueprint
@@ -240,7 +240,7 @@
 238,5bb7658e92ea46005b6d386d,Primed Expel Grineer,Mod,primed_expel_grineer
 239,5bb7658f92ea46005b6d386e,Primed Expel Corpus,Mod,primed_expel_corpus
 240,5bb7658f92ea46005b6d386f,Primed Expel Infested,Mod,primed_expel_infested
-241,5bbcec53f639cf007b7357cf,Primed Expel Corrupted,Mod,primed_expel_corrupted
+241,5bbcec53f639cf007b7357cf,Primed Expel Orokin,Mod,primed_expel_corrupted
 242,5be5f5a13ffcc7038857f113,Quaking Hand,Mod,quaking_hand
 243,5be5f5a23ffcc7038857f119,Flame Gland,Mod,flame_gland
 244,5be5f5a23ffcc7038857f11c,Dividing Blades,Mod,dividing_blades
@@ -391,7 +391,7 @@
 389,54a74455e779892d5e515692,Blazing Steel,Mod,blazing_steel
 390,54a74455e779892d5e51569b,Fired Up,Mod,fired_up
 391,54a74455e779892d5e5156ac,Shattering Storm,Mod,shattering_storm
-392,57b4e5486f6b2fda8ea6caa4,Sense Danger,Mod,sense_danger
+392,57b4e5486f6b2fda8ea6caa4,Fear Sense,Mod,sense_danger
 393,57b86950315399578ef1a6bd,Bullet Dance,Mod,bullet_dance
 394,57bc948ae506eb45ea25144c,Twin Vipers Wraith Blueprint,Weapon,twin_vipers_wraith_blueprint
 395,54a74455e779892d5e5156be,Split Chamber,Mod,split_chamber
@@ -716,7 +716,7 @@
 714,5a04750b6c4655012038ddc9,Exodia Force,Arcane,exodia_force
 715,5a04750e6c4655012038ddd0,Virtuos Ghost,Arcane,virtuos_ghost
 716,59385f6716efa3a742b15f60,Chromatic Blade,Mod,chromatic_blade
-717,595567c18e34b5ed3cb3d9bb,Expel Corrupted,Mod,expel_corrupted
+717,595567c18e34b5ed3cb3d9bb,Expel Orokin,Mod,expel_corrupted
 718,59dfeb5c115f1d887cfd7ab3,Gladiator Aegis,Mod,gladiator_aegis
 719,5911f11d97a0add8e9d5da4d,Neutralizing Justice,Mod,neutralizing_justice
 720,5be5f5a23ffcc7038857f123,Radiant Zodian,Gem,radiant_zodian
@@ -799,7 +799,7 @@
 797,567af35fcbfa8f05d076a51c,Maximum Capacity,Mod,maximum_capacity
 798,584470092c2ada00787e0888,Savior Decoy,Mod,savior_decoy
 799,54a74455e779892d5e5156dc,Stalking Fan,Mod,stalking_fan
-800,5992f2fa6a92654847b8df2a,Primed Bane Of Corrupted,Mod,primed_bane_of_corrupted
+800,5992f2fa6a92654847b8df2a,Primed Bane Of Orokin,Mod,primed_bane_of_corrupted
 801,54a74455e779892d5e5156e4,Warm Coat,Mod,warm_coat
 802,54a74455e779892d5e5156e5,Tainted Mag,Mod,tainted_mag
 803,567af35fcbfa8f05d076a523,Tactical Retreat,Mod,tactical_retreat
@@ -1221,7 +1221,7 @@
 1219,5eb5e49a04d55c04e80d6a80,Primed Cleanse Grineer,Mod,primed_cleanse_grineer
 1220,5eb5e49b04d55c04e80d6a81,Primed Cleanse Infested,Mod,primed_cleanse_infested
 1221,5eb5e49c04d55c04e80d6a82,Primed Cleanse Corpus,Mod,primed_cleanse_corpus
-1222,5eb5e49d04d55c04e80d6a83,Primed Cleanse Corrupted,Mod,primed_cleanse_corrupted
+1222,5eb5e49d04d55c04e80d6a83,Primed Cleanse Orokin,Mod,primed_cleanse_corrupted
 1223,5ecd08d704d55c0806f85348,Abundant Mutation,Mod,abundant_mutation
 1224,5ecd08d704d55c0806f8534a,Dizzying Rounds,Mod,dizzying_rounds
 1225,5ecd08d804d55c0806f8534c,Revealing Spores,Mod,revealing_spores
@@ -1343,7 +1343,7 @@
 1341,563893fcb66f83093e823472,Primed Target Cracker,Mod,primed_target_cracker
 1342,567af35fcbfa8f05d076a4eb,Reflex Draw,Mod,reflex_draw
 1343,573b80590ec44a47787a6918,Akstiletto Prime Link,Weapon,akstiletto_prime_link
-1344,595567c18e34b5ed3cb3d9ba,Bane Of Corrupted,Mod,bane_of_corrupted
+1344,595567c18e34b5ed3cb3d9ba,Bane Of Orokin,Mod,bane_of_corrupted
 1345,595be9628e34b5ed3cb3d9d0,Hunhow's Datascape Scene,Misc.,hunhows_datascape_scene
 1346,54a74454e779892d5e515629,Maim,Mod,maim
 1347,592dd262011e88f094afec7d,Oberon Prime Blueprint,Warframe,oberon_prime_blueprint
@@ -1818,7 +1818,7 @@
 1816,587a15c8c13d58ede882322b,Primed Regen,Mod,primed_regen
 1817,54a74454e779892d5e51562a,Rifle Aptitude,Mod,rifle_aptitude
 1818,59dfeb6c115f1d887cfd7ac1,Augur Pact,Mod,augur_pact
-1819,5740c1999d238d4a03d2851a,Fatal Teleport,Mod,fatal_teleport
+1819,5740c1999d238d4a03d2851a,Teleport Rush,Mod,fatal_teleport
 1820,58dbcc9e70b42255d6321e8e,Proboscis,Mod,proboscis
 1821,54a74454e779892d5e515639,Furor,Mod,furor
 1822,54a74454e779892d5e515672,Virulent Scourge,Mod,virulent_scourge
@@ -1954,7 +1954,7 @@
 1952,5dfea030145697027e409302,Shedu Handle,Weapon,shedu_handle
 1953,5dfea13f1456970294aff371,Spectra Vandal Barrel,Weapon,spectra_vandal_barrel
 1954,5dfea1441456970294aff38b,Vasca Kavat Imprint,Imprint,vasca_kavat_imprint
-1955,5dfea1441456970294aff38f,Primed Smite Corrupted,Mod,primed_smite_corrupted
+1955,5dfea1441456970294aff38f,Primed Smite Orokin,Mod,primed_smite_corrupted
 1956,5dfea1461456970294aff396,Grendel Neuroptics Locator,Mod,grendel_neuroptics_locator
 1957,5dff6e0f14569703166749cc,Forward Artillery,Mod,forward_artillery
 1958,5dff6e1014569703166749ef,Munitions Vortex,Mod,munitions_vortex
@@ -2672,7 +2672,7 @@
 2670,6139101b30dd5b004b7f90b0,Neo N16 Relic,Relic,neo_n16_relic
 2671,61460dcce330e600455dcea0,Ghoulsaw Blade,Weapon,ghoulsaw_blade_blueprint
 2672,61460dcce330e600455dcea1,Ghoulsaw Grip,Weapon,ghoulsaw_grip_blueprint
-2673,61460dcce330e600455dcea2,Ghoulsaw Engine Blueprint,Weapon,ghoulsaw_engine_blueprint
+2673,61460dcce330e600455dcea2,Ghoulsaw Engine,Weapon,ghoulsaw_engine_blueprint
 2674,61460dcde330e600455dcea3,Ghoulsaw Set,Weapon,ghoulsaw_set
 2675,61460dcde330e600455dcea4,Ghoulsaw Chassis,Weapon,ghoulsaw_chassis_blueprint
 2676,61460dcde330e600455dcea5,Ghoulsaw Blueprint,Weapon,ghoulsaw_blueprint
@@ -3294,3 +3294,321 @@
 3292,663268d2e85cac3856c86dc1,Okina Prime Blade,Weapon,okina_prime_blade
 3293,66453d566cf5812870c33d29,Clip Delegation,Mod,clip_delegation
 3294,66453d686cf5812870c33d2b,Photon Overcharge,Mod,photon_overcharge
+3295,665d132c941a9cc3e8b9014b,Cinta Blueprint,Weapon,cinta_blueprint
+3296,667236b88ba7c81b70d02c90,Arcane Ice Storm,Arcane,arcane_ice_storm
+3297,667236dd8ba7c81b70d02c92,Secondary Surge,Arcane,secondary_surge
+3298,6672373e8ba7c81b70d02c94,Arcane Battery,Arcane,arcane_battery
+3299,667237598ba7c81b70d02c96,Secondary Fortifier,Arcane,secondary_fortifier
+3300,667237638ba7c81b70d02c98,The Ballroom Simulacrum,Other,the_ballroom_simulacrum
+3301,667237698ba7c81b70d02c9a,The Citadel Simulacrum,Other,the_citadel_simulacrum
+3302,6672376b8ba7c81b70d02c9c,Orowyrm Arena Simulacrum,Other,orowyrm_arena_simulacrum
+3303,6672376e8ba7c81b70d02c9e,Sanctum Simulacrum,Other,sanctum_simulacrum
+3304,667237708ba7c81b70d02ca0,Zanuka Arena Simulacrum,Other,zanuka_arena_simulacrum
+3305,667237748ba7c81b70d02ca2,Grineer Asteroid Simulacrum,Other,grineer_asteroid_simulacrum
+3306,667237778ba7c81b70d02ca4,Orokin Derelict Simulacrum,Other,orokin_derelict_simulacrum
+3307,6672377c8ba7c81b70d02ca6,Ambulas Arena Simulacrum,Other,ambulas_arena_simulacrum
+3308,667237838ba7c81b70d02ca8,Red Veil Temple Simulacrum,Other,red_veil_temple_simulacrum
+3309,667237878ba7c81b70d02caa,Moonlit Courtyard Simulacrum,Other,moonlit_courtyard_simulacrum
+3310,667237a58ba7c81b70d02cac,Shotgun Elementalist,Mod,shotgun_elementalist
+3311,667237bd8ba7c81b70d02cae,Semi-Shotgun Cannonade,Mod,shotgun_cannonade
+3312,667237ec8ba7c81b70d02cb0,Rifle Elementalist,Mod,rifle_elementalist
+3313,6672381a8ba7c81b70d02cb2,Semi-Rifle Cannonade,Mod,semi_rifle_cannonade
+3314,667238388ba7c81b70d02cb4,Pistol Elementalist,Mod,pistol_elementalist
+3315,667238628ba7c81b70d02cb6,Semi-Pistol Cannonade,Mod,semi_pistol_cannonade
+3316,667238898ba7c81b70d02cb8,Melee Elementalist,Mod,melee_elementalist
+3317,667238a28ba7c81b70d02cba,Dark Propagation,Mod,dark_propagation
+3318,667238bc8ba7c81b70d02cbc,Temporal Artillery,Mod,temporal_artillery
+3319,667238d78ba7c81b70d02cbe,Spectral Spirit,Mod,spectral_spirit
+3320,667238fc8ba7c81b70d02cc0,Wrecking Wall,Mod,wrecking_wall
+3321,667c25a207a5007fadf3ecaa,Melee Afflictions,Arcane,melee_afflictions
+3322,667ebc4259acb6bf03ebc329,Primed Dual Rounds,Mod,primed_dual_rounds
+3323,667ec83159acb6bf03ebc32b,Lith E1 Relic,Relic,lith_e1_relic
+3324,667ec83459acb6bf03ebc32d,Lith K11 Relic,Relic,lith_k11_relic
+3325,667ec83659acb6bf03ebc32f,Lith H10 Relic,Relic,lith_h10_relic
+3326,667ec83959acb6bf03ebc331,Meso S14 Relic,Relic,meso_s14_relic
+3327,667ec83b59acb6bf03ebc333,Meso B10 Relic,Relic,meso_b10_relic
+3328,667ec83e59acb6bf03ebc335,Meso N16 Relic,Relic,meso_n16_relic
+3329,667ec83f59acb6bf03ebc337,Meso S13 Relic,Relic,meso_s13_relic
+3330,667ec84159acb6bf03ebc339,Neo G5 Relic,Relic,neo_g5_relic
+3331,667ec84759acb6bf03ebc33c,Axi R4 Relic,Relic,axi_r4_relic
+3332,667ec85159acb6bf03ebc33e,Axi T11 Relic,Relic,axi_t11_relic
+3333,667ec85359acb6bf03ebc340,Axi S15 Relic,Relic,axi_s15_relic
+3334,66912e8259acb6bf03ebc342,Primed Deadly Efficiency,Mod,primed_deadly_efficiency
+3335,669bd42a59acb6bf03ebc344,Neo G6 Relic,Relic,neo_g6_relic
+3336,66a3a59b2bca759c7edfc9a6,Axi M5 Relic,Relic,axi_m5_relic
+3337,66a51c8e66bbb2aedca694b0,Akmagnus Prime Set,Weapon,akmagnus_prime_set
+3338,66a51c8f66bbb2aedca694b1,Akmagnus Prime Blueprint,Weapon,akmagnus_prime_blueprint
+3339,66a51c9166bbb2aedca694b2,Akmagnus Prime Link,Weapon,akmagnus_prime_link
+3340,66c6080266bbb2aedca6957b,Sevagoth Prime Set,Warframe,sevagoth_prime_set
+3341,66c6080266bbb2aedca6957c,Sevagoth Prime Blueprint,Warframe,sevagoth_prime_blueprint
+3342,66c6080366bbb2aedca6957d,Sevagoth Prime Neuroptics Blueprint,Warframe,sevagoth_prime_neuroptics_blueprint
+3343,66c6080366bbb2aedca6957e,Sevagoth Prime Chassis Blueprint,Warframe,sevagoth_prime_chassis_blueprint
+3344,66c6080366bbb2aedca6957f,Sevagoth Prime Systems Blueprint,Warframe,sevagoth_prime_systems_blueprint
+3345,66c6097966bbb2aedca69581,Axi S17 Relic,Relic,axi_s17_relic
+3346,66c6097b66bbb2aedca69583,Axi S16 Relic,Relic,axi_s16_relic
+3347,66c6097c66bbb2aedca69585,Axi O6 Relic,Relic,axi_o6_relic
+3348,66c6097d66bbb2aedca69587,Neo P7 Relic,Relic,neo_p7_relic
+3349,66c6097e66bbb2aedca69589,Neo B9 Relic,Relic,neo_b9_relic
+3350,66c6098266bbb2aedca6958b,Neo Z11 Relic,Relic,neo_z11_relic
+3351,66c6098366bbb2aedca6958d,Neo G7 Relic,Relic,neo_g7_relic
+3352,66c6098366bbb2aedca6958f,Neo A13 Relic,Relic,neo_a13_relic
+3353,66c6098466bbb2aedca69591,Neo E4 Relic,Relic,neo_e4_relic
+3354,66c6098566bbb2aedca69593,Meso F5 Relic,Relic,meso_f5_relic
+3355,66c6098666bbb2aedca69595,Meso A7 Relic,Relic,meso_a7_relic
+3356,66c6098666bbb2aedca69597,Meso H7 Relic,Relic,meso_h7_relic
+3357,66c6098766bbb2aedca69599,Meso N17 Relic,Relic,meso_n17_relic
+3358,66c6098866bbb2aedca6959b,Lith G12 Relic,Relic,lith_g12_relic
+3359,66c6098966bbb2aedca6959d,Lith N15 Relic,Relic,lith_n15_relic
+3360,66c6098a66bbb2aedca6959f,Lith W4 Relic,Relic,lith_w4_relic
+3361,66c6098b66bbb2aedca695a1,Lith C12 Relic,Relic,lith_c12_relic
+3362,66c60c2766bbb2aedca695a3,Epitaph Prime Set,Weapon,epitaph_prime_set
+3363,66c60c2766bbb2aedca695a4,Epitaph Prime Blueprint,Weapon,epitaph_prime_blueprint
+3364,66c60c2766bbb2aedca695a5,Epitaph Prime Barrel,Weapon,epitaph_prime_barrel
+3365,66c60c2766bbb2aedca695a6,Epitaph Prime Receiver,Weapon,epitaph_prime_receiver
+3366,66c60c9066bbb2aedca695a8,Nautilus Prime Set,Sentinel,nautilus_prime_set
+3367,66c60c9066bbb2aedca695a9,Nautilus Prime Blueprint,Sentinel,nautilus_prime_blueprint
+3368,66c60c9066bbb2aedca695aa,Nautilus Prime Cerebrum,Sentinel,nautilus_prime_cerebrum
+3369,66c60c9066bbb2aedca695ab,Nautilus Prime Carapace,Sentinel,nautilus_prime_carapace
+3370,66c60c9166bbb2aedca695ac,Nautilus Prime Systems,Sentinel,nautilus_prime_systems
+3371,66f6d4663a826eccf651c36e,Burning Hate,Mod,burning_hate
+3372,66f6d46b3a826eccf651c370,Unseen Dread,Mod,unseen_dread
+3373,66fd67b33a826eccf651cd4b,Prey Of Dynar,Mod,prey_of_dynar
+3374,66fd67d13a826eccf651cd4d,Aegis Gale,Mod,aegis_gale
+3375,66fd67dc3a826eccf651cd4f,Coil Recharge,Mod,coil_recharge
+3376,66fd67e93a826eccf651cd51,Gastro,Mod,gastro
+3377,66fd67fb3a826eccf651cd53,Higasa Serration,Mod,higasa_serration
+3378,66fd68073a826eccf651cd55,Amanata Pressure,Mod,amanata_pressure
+3379,66fd69223a826eccf651cd57,Sepsis Claws,Mod,sepsis_claws
+3380,66fd692b3a826eccf651cd59,Burning Claws,Mod,burning_claws
+3381,66fd69303a826eccf651cd5b,Shocking Claws,Mod,shocking_claws
+3382,66fd69423a826eccf651cd5d,Chilling Claws,Mod,chilling_claws
+3383,66fd69503a826eccf651cd5f,Assassin Posture,Mod,assassin_posture
+3384,66fd69593a826eccf651cd61,Frenzied Posture,Mod,frenzied_posture
+3385,66fd69603a826eccf651cd63,Protector Posture,Mod,protector_posture
+3386,66fd69673a826eccf651cd65,Persistent Posture,Mod,persistent_posture
+3387,66fd696d3a826eccf651cd67,Elusive Posture,Mod,elusive_posture
+3388,66fd69733a826eccf651cd69,Balanced Posture,Mod,balanced_posture
+3389,66fd69c33a826eccf651cd6b,Resourceful Retriever,Mod,resourceful_retriever
+3390,66fd69d03a826eccf651cd6d,Loyal Retriever,Mod,loyal_retriever
+3391,66fd69d63a826eccf651cd6f,Prosperous Retriever,Mod,prosperous_retriever
+3392,66fd69fb3a826eccf651cd71,Precision Conditioning,Mod,precision_conditioning
+3393,66fd6a1c3a826eccf651cd73,Immunity Resistance,Mod,immunity_resistance
+3394,66fd6a303a826eccf651cd75,Magnetic Strike,Mod,magnetic_strike
+3395,66fd6a383a826eccf651cd77,Bell Ringer,Mod,bell_ringer
+3396,66fd6a413a826eccf651cd79,Bloodthirst,Mod,bloodthirst
+3397,66fd6a503a826eccf651cd7b,Disabling Conditioning,Mod,disabling_conditioning
+3398,66fd6a5b3a826eccf651cd7d,Cull The Weak,Mod,cull_the_weak
+3399,66fd6acc3a826eccf651cd7f,Brute Conditioning,Mod,brute_conditioning
+3400,66fd6c7b3a826eccf651cd82,Galvanized Steel,Mod,galvanized_steel
+3401,66fd6c933a826eccf651cd84,Galvanized Reflex,Mod,galvanized_reflex
+3402,66fd6ca03a826eccf651cd86,Galvanized Elementalist,Mod,galvanized_elementalist
+3403,672229f51ce4caca2fe98667,Lith D6 Relic,Relic,lith_d6_relic
+3404,672229fc1ce4caca2fe98669,Meso H8 Relic,Relic,meso_h8_relic
+3405,67222a101ce4caca2fe9866b,Neo C5 Relic,Relic,neo_c5_relic
+3406,67222a151ce4caca2fe9866d,Neo K8 Relic,Relic,neo_k8_relic
+3407,67222a181ce4caca2fe9866f,Axi G13 Relic,Relic,axi_g13_relic
+3408,67222a1c1ce4caca2fe98671,Axi N11 Relic,Relic,axi_n11_relic
+3409,673516a9db3ac2cfade14a70,Xaku Prime Set,Warframe,xaku_prime_set
+3410,673516aadb3ac2cfade14a71,Xaku Prime Blueprint,Warframe,xaku_prime_blueprint
+3411,673516abdb3ac2cfade14a72,Xaku Prime Neuroptics Blueprint,Warframe,xaku_prime_neuroptics_blueprint
+3412,673516acdb3ac2cfade14a73,Xaku Prime Chassis Blueprint,Warframe,xaku_prime_chassis_blueprint
+3413,673516addb3ac2cfade14a74,Xaku Prime Systems Blueprint,Warframe,xaku_prime_systems_blueprint
+3414,673516c5db3ac2cfade14a76,Trumna Prime Set,Weapon,trumna_prime_set
+3415,673516c6db3ac2cfade14a77,Trumna Prime Blueprint,Weapon,trumna_prime_blueprint
+3416,673516c7db3ac2cfade14a78,Trumna Prime Barrel,Weapon,trumna_prime_barrel
+3417,673516c8db3ac2cfade14a79,Trumna Prime Receiver,Weapon,trumna_prime_receiver
+3418,673516c9db3ac2cfade14a7a,Trumna Prime Stock,Weapon,trumna_prime_stock
+3419,673516dddb3ac2cfade14a7c,Quassus Prime Set,Weapon,quassus_prime_set
+3420,673516dedb3ac2cfade14a7d,Quassus Prime Blueprint,Weapon,quassus_prime_blueprint
+3421,673516dfdb3ac2cfade14a7e,Quassus Prime Handle,Weapon,quassus_prime_handle
+3422,673516e0db3ac2cfade14a7f,Quassus Prime Blade,Weapon,quassus_prime_blade
+3423,6735180cdb3ac2cfade14a81,Axi A19 Relic,Relic,axi_a19_relic
+3424,6735180ddb3ac2cfade14a82,Axi G14 Relic,Relic,axi_g14_relic
+3425,6735180edb3ac2cfade14a83,Axi H8 Relic,Relic,axi_h8_relic
+3426,6735180fdb3ac2cfade14a84,Axi T12 Relic,Relic,axi_t12_relic
+3427,67351810db3ac2cfade14a85,Neo W2 Relic,Relic,neo_w2_relic
+3428,67351810db3ac2cfade14a86,Neo G8 Relic,Relic,neo_g8_relic
+3429,67351811db3ac2cfade14a87,Neo Q1 Relic,Relic,neo_q1_relic
+3430,67351812db3ac2cfade14a88,Neo L4 Relic,Relic,neo_l4_relic
+3431,67351813db3ac2cfade14a89,Meso V10 Relic,Relic,meso_v10_relic
+3432,67351814db3ac2cfade14a8a,Meso T7 Relic,Relic,meso_t7_relic
+3433,67351815db3ac2cfade14a8b,Meso E6 Relic,Relic,meso_e6_relic
+3434,67351815db3ac2cfade14a8c,Meso G8 Relic,Relic,meso_g8_relic
+3435,67351816db3ac2cfade14a8d,Lith M9 Relic,Relic,lith_m9_relic
+3436,67351817db3ac2cfade14a8e,Lith G13 Relic,Relic,lith_g13_relic
+3437,6735194edb3ac2cfade14a90,Lith N16 Relic,Relic,lith_n16_relic
+3438,6735194edb3ac2cfade14a91,Lith X1 Relic,Relic,lith_x1_relic
+3439,675c59247b18977f6e6453e8,Arcane Crepuscular,Arcane,arcane_crepuscular
+3440,675c59297b18977f6e6453ea,Arcane Impetus,Arcane,arcane_impetus
+3441,675c59347b18977f6e6453ec,Primary Crux,Arcane,primary_crux
+3442,675c5cd07b18977f6e6453ee,Secondary Enervate,Arcane,secondary_enervate
+3443,675c5cd97b18977f6e6453f0,Melee Doughty,Arcane,melee_doughty
+3444,675c5ed17b18977f6e6453f2,Arcane Camisado,Arcane,arcane_camisado
+3445,675c5edc7b18977f6e6453f4,Arcane Bellicose,Arcane,arcane_bellicose
+3446,675c5ee47b18977f6e6453f6,Arcane Truculence,Arcane,arcane_truculence
+3447,675c610e7b18977f6e6453f8,Mall Rotunda Simulacrum,Other,mall_rotunda_simulacrum
+3448,675c61117b18977f6e6453fa,Höllvanian Courtyard Simulacrum,Other,höllvanian_courtyard_simulacrum
+3449,675c61507b18977f6e6453fc,Höllvanian Terrace In Summer Scene,Scene,höllvanian_terrace_in_summer
+3450,675c615f7b18977f6e6453fe,Tech Titan Electronics Store Scene,Scene,tech_titan_electronics_store
+3451,675c61627b18977f6e645400,Höllvanian Intersection In Winter Scene,Scene,höllvanian_intersection_in_winter
+3452,675c61697b18977f6e645402,Höllvania Central Mall Subway,Scene,höllvania_central_mall_subway
+3453,675c616b7b18977f6e645404,Höllvanian Tenements In Summer Scene,Scene,höllvanian_tenements_in_summer
+3454,675c61737b18977f6e645406,Höllvanian Historic Quarter In Spring Scene,Scene,höllvanian_historic_quarter_in_spring
+3455,675c61797b18977f6e645408,Höllvanian Old Town In Fall Scene,Scene,höllvanian_old_town_in_fall
+3456,675c618a7b18977f6e64540a,Orbit Arcade Scene,Scene,orbit_arcade
+3457,675c61997b18977f6e64540c,Central Mall Backroom Scene,Scene,central_mall_backroom
+3458,675c61b47b18977f6e64540e,Magnetic Welt,Mod,magnetic_welt
+3459,675c61c07b18977f6e645410,Magnetic Strafe,Mod,magnetic_strafe
+3460,675c61ce7b18977f6e645412,Radon Claws,Mod,radon_claws
+3461,675c61d47b18977f6e645414,Magnetic Claws,Mod,magnetic_claws
+3462,675c61e47b18977f6e645416,Primary Acuity,Mod,primary_acuity
+3463,675c61ff7b18977f6e645418,Spectral Serration,Mod,spectral_serration
+3464,675c620f7b18977f6e64541a,Magnetic Capacity,Mod,magnetic_capacity
+3465,675c621d7b18977f6e64541c,Pistol Acuity,Mod,pistol_acuity
+3466,675c62297b18977f6e64541e,Merciless Gunfight,Mod,merciless_gunfight
+3467,675c62337b18977f6e645420,Magnetic Rush,Mod,magnetic_rush
+3468,675c62587b18977f6e645422,Worthy Comradery,Mod,worthy_comradery
+3469,675c62647b18977f6e645424,Summoner’s Wrath,Mod,summoner’s_wrath
+3470,675c627f7b18977f6e645426,Magnetized Cycle,Mod,magnetized_cycle
+3471,675c628e7b18977f6e645428,Magnetized Core,Mod,magnetized_core
+3472,675d11b247952ab3ea1928f8,Reconifex Set,Weapon,reconifex_set
+3473,67661f9c47952ab3ea192901,Reconifex Barrel,Weapon,reconifex_barrel
+3474,67661f9d47952ab3ea192902,Reconifex Receiver,Weapon,reconifex_receiver
+3475,67661f9e47952ab3ea192903,Reconifex Stock,Weapon,reconifex_stock
+3476,67661ffc47952ab3ea192905,Vesper 77 Set,Weapon,vesper_77_set
+3477,67661ffd47952ab3ea192906,Vesper 77 Barrel,Weapon,vesper_77_barrel
+3478,67661ffe47952ab3ea192907,Vesper 77 Receiver,Weapon,vesper_77_receiver
+3479,6766200047952ab3ea192908,Vesper 77 Handle,Weapon,vesper_77_handle
+3480,67acd8fa125398d92c8bb4df,Cedo Prime Set,Weapon,cedo_prime_set
+3481,67acd8fb125398d92c8bb4e0,Cedo Prime Blueprint,Weapon,cedo_prime_blueprint
+3482,67acd8fc125398d92c8bb4e1,Cedo Prime Receiver,Weapon,cedo_prime_receiver
+3483,67acd8fd125398d92c8bb4e2,Cedo Prime Barrel,Weapon,cedo_prime_barrel
+3484,67acd8fd125398d92c8bb4e3,Cedo Prime Stock,Weapon,cedo_prime_stock
+3485,67acd912125398d92c8bb4e5,Dual Zoren Prime Set,Weapon,dual_zoren_prime_set
+3486,67acd913125398d92c8bb4e6,Dual Zoren Prime Blueprint,Weapon,dual_zoren_prime_blueprint
+3487,67acd914125398d92c8bb4e7,Dual Zoren Prime Handle,Weapon,dual_zoren_prime_handle
+3488,67acd915125398d92c8bb4e8,Dual Zoren Prime Blade,Weapon,dual_zoren_prime_blade
+3489,67acd93f125398d92c8bb4ea,Lavos Prime Set,Warframe,lavos_prime_set
+3490,67acd941125398d92c8bb4eb,Lavos Prime Blueprint,Warframe,lavos_prime_blueprint
+3491,67acd943125398d92c8bb4ec,Lavos Prime Neuroptics Blueprint,Warframe,lavos_prime_neuroptics_blueprint
+3492,67acd944125398d92c8bb4ed,Lavos Prime Chassis Blueprint,Warframe,lavos_prime_chassis_blueprint
+3493,67acd945125398d92c8bb4ee,Lavos Prime Systems Blueprint,Warframe,lavos_prime_systems_blueprint
+3494,67acda89125398d92c8bb4f0,Axi P9 Relic,Relic,axi_p9_relic
+3495,67acda8a125398d92c8bb4f1,Axi M6 Relic,Relic,axi_m6_relic
+3496,67acda8b125398d92c8bb4f2,Axi Z2 Relic,Relic,axi_z2_relic
+3497,67acda8b125398d92c8bb4f3,Axi F3 Relic,Relic,axi_f3_relic
+3498,67acda8c125398d92c8bb4f4,Axi P8 Relic,Relic,axi_p8_relic
+3499,67acda8d125398d92c8bb4f5,Neo D9 Relic,Relic,neo_d9_relic
+3500,67acda8e125398d92c8bb4f6,Neo T9 Relic,Relic,neo_t9_relic
+3501,67acda8e125398d92c8bb4f7,Neo X1 Relic,Relic,neo_x1_relic
+3502,67acda8f125398d92c8bb4f8,Neo C6 Relic,Relic,neo_c6_relic
+3503,67acda90125398d92c8bb4f9,Meso A8 Relic,Relic,meso_a8_relic
+3504,67acda91125398d92c8bb4fa,Lith S16 Relic,Relic,lith_s16_relic
+3505,67acda92125398d92c8bb4fb,Lith A7 Relic,Relic,lith_a7_relic
+3506,67acda93125398d92c8bb4fc,Lith Q1 Relic,Relic,lith_q1_relic
+3507,67acda93125398d92c8bb4fd,Lith L5 Relic,Relic,lith_l5_relic
+3508,67c83ffb646a0f91834334fd,Meso P15 Relic,Relic,meso_p15_relic
+3509,67c84007646a0f91834334ff,Biotic Rounds,Mod,biotic_rounds
+3510,67c84009646a0f9183433501,Leaded Gas,Mod,leaded_gas
+3511,67db5f459cec3e52e62523d8,Lith S17 Relic,Relic,lith_s17_relic
+3512,67db5f469cec3e52e62523d9,Meso S15 Relic,Relic,meso_s15_relic
+3513,67db5f469cec3e52e62523da,Meso M5 Relic,Relic,meso_m5_relic
+3514,67db5f479cec3e52e62523db,Neo N19 Relic,Relic,neo_n19_relic
+3515,67db5f489cec3e52e62523dc,Neo S19 Relic,Relic,neo_s19_relic
+3516,67db5f499cec3e52e62523dd,Axi N12 Relic,Relic,axi_n12_relic
+3517,67db600a9cec3e52e62523df,Worm Away,Mod,worm_away
+3518,67db600c9cec3e52e62523e0,Trojan Tracker,Mod,trojan_tracker
+3519,67db600d9cec3e52e62523e1,Soft Safe,Mod,soft_safe
+3520,67db600e9cec3e52e62523e2,Anti-V,Mod,anti_v
+3521,67db600f9cec3e52e62523e3,ByteRyte,Mod,byteryte
+3522,67db60119cec3e52e62523e4,Keep-Clean,Mod,keep_clean
+3523,67db60129cec3e52e62523e5,Drive-Duster,Mod,drive_duster
+3524,67db60149cec3e52e62523e6,Computer Cop,Mod,computer_cop
+3525,67db60559cec3e52e62523e8,Quick Correct,Mod,quick_correct
+3526,67db60559cec3e52e62523e9,Immuno Shield,Mod,immuno_shield
+3527,67db60559cec3e52e62523ea,Instant Secure,Mod,instant_secure
+3528,67db60569cec3e52e62523eb,Threat Blocker,Mod,threat_blocker
+3529,67db60569cec3e52e62523ec,Turbo Protect,Mod,turbo_protect
+3530,67db60639cec3e52e62523ee,Technocyte Coda Stadium Scene,Scene,technocyte_coda_stadium_scene
+3531,67db60849cec3e52e62523f0,Cataclysmic Gate,Mod,cataclysmic_gate
+3532,67db60849cec3e52e62523f1,Omikuji's Fortune,Mod,omikujis_fortune
+3533,67db60859cec3e52e62523f2,Conductive Sphere,Mod,conductive_sphere
+3534,67db60859cec3e52e62523f3,Fused Crucible,Mod,fused_crucible
+3535,67db60869cec3e52e62523f4,Arcane Escapist,Arcane,arcane_escapist
+3536,67db60889cec3e52e62523f5,Arcane Hot Shot,Arcane,arcane_hot_shot
+3537,67db60899cec3e52e62523f6,Arcane Universal Fallout,Arcane,arcane_universal_fallout
+3538,67e40050cedcd0be6d135929,Riot-848 Set,Weapon,riot_848_set
+3539,67e40053cedcd0be6d13592b,Riot-848 Barrel Blueprint,Weapon,riot_848_barrel
+3540,67e40054cedcd0be6d13592c,Riot-848 Receiver Blueprint,Weapon,riot_848_receiver
+3541,67e40055cedcd0be6d13592d,Riot-848 Stock Blueprint,Weapon,riot_848_stock
+3542,67e8c6bdcedcd0be6d13594a,Purgator 1 Set,Weapon,purgator_1_set
+3543,67e8c6becedcd0be6d13594b,Purgator 1 Barrel,Weapon,purgator_1_barrel
+3544,67e8c6bfcedcd0be6d13594c,Purgator 1 Receiver,Weapon,purgator_1_receiver
+3545,67e8c6c0cedcd0be6d13594d,Purgator 1 Stock,Weapon,purgator_1_stock
+3546,67e8c929cedcd0be6d13594f,EFV-5 Jupiter Set,Weapon,efv_5_jupiter_set
+3547,67e8c929cedcd0be6d135950,EFV-5 Jupiter Barrel,Weapon,efv_5_jupiter_barrel
+3548,67e8c92acedcd0be6d135951,EFV-5 Jupiter Receiver,Weapon,efv_5_jupiter_receiver
+3549,67e8c92bcedcd0be6d135952,EFV-5 Jupiter Stock,Weapon,efv_5_jupiter_stock
+3550,67e8c971cedcd0be6d135954,EFV-8 Mars Set,Weapon,efv_8_mars_set
+3551,67e8c972cedcd0be6d135955,EFV-8 Mars Barrel,Weapon,efv_8_mars_barrel
+3552,67e8c973cedcd0be6d135956,EFV-8 Mars Receiver,Weapon,efv_8_mars_receiver
+3553,67e8c974cedcd0be6d135957,EFV-8 Mars Stock,Weapon,efv_8_mars_stock
+3554,67e8c995cedcd0be6d135959,Dual Viciss Set,Weapon,dual_viciss_set
+3555,67e8c996cedcd0be6d13595a,Dual Viciss Blade,Weapon,dual_viciss_blade
+3556,67e8c997cedcd0be6d13595b,Dual Viciss Hilt,Weapon,dual_viciss_hilt
+3557,67eff367cedcd0be6d13595e,Primed Steady Hands,Mod,primed_steady_hands
+3558,68028a0a24bd8dc3de5797d4,Primed Stabilizer,Mod,primed_stabilizer
+3559,6814dc7c35715d4f3e9c64b6,Primed Counterbalance,Mod,primed_counterbalance
+3560,682df3b835715d4f3e9c64bd,Lith A8 Relic,Relic,lith_a8_relic
+3561,682df3c135715d4f3e9c64bf,Lith Q2 Relic,Relic,lith_q2_relic
+3562,682df3c735715d4f3e9c64c1,Lith Y1 Relic,Relic,lith_y1_relic
+3563,682df3d135715d4f3e9c64c3,Lith Z4 Relic,Relic,lith_z4_relic
+3564,682df3e135715d4f3e9c64c5,Meso K7 Relic,Relic,meso_k7_relic
+3565,682df3ea35715d4f3e9c64c7,Meso P16 Relic,Relic,meso_p16_relic
+3566,682df3fa35715d4f3e9c64c9,Neo A14 Relic,Relic,neo_a14_relic
+3567,682df40435715d4f3e9c64cb,Neo D10 Relic,Relic,neo_d10_relic
+3568,682df41035715d4f3e9c64cd,Neo G9 Relic,Relic,neo_g9_relic
+3569,682df42135715d4f3e9c64cf,Axi N13 Relic,Relic,axi_n13_relic
+3570,682df42735715d4f3e9c64d1,Axi V12 Relic,Relic,axi_v12_relic
+3571,682df42d35715d4f3e9c64d3,Axi Y1 Relic,Relic,axi_y1_relic
+3572,682dfa9835715d4f3e9c64e6,Yareli Prime Set,Warframe,yareli_prime_set
+3573,682dfa9835715d4f3e9c64e7,Yareli Prime Blueprint,Warframe,yareli_prime_blueprint
+3574,682dfa9835715d4f3e9c64e8,Yareli Prime Neuroptics Blueprint,Warframe,yareli_prime_neuroptics_blueprint
+3575,682dfa9835715d4f3e9c64e9,Yareli Prime Chassis Blueprint,Warframe,yareli_prime_chassis_blueprint
+3576,682dfa9835715d4f3e9c64ea,Yareli Prime Systems Blueprint,Warframe,yareli_prime_systems_blueprint
+3577,682dfb5635715d4f3e9c64ec,Daikyu Prime Set,Weapon,daikyu_prime_set
+3578,682dfb5635715d4f3e9c64ed,Daikyu Prime Blueprint,Weapon,daikyu_prime_blueprint
+3579,682dfb5635715d4f3e9c64ee,Daikyu Prime Lower Limb,Weapon,daikyu_prime_lower_limb
+3580,682dfb5635715d4f3e9c64ef,Daikyu Prime Upper Limb,Weapon,daikyu_prime_upper_limb
+3581,682dfb5735715d4f3e9c64f0,Daikyu Prime Grip,Weapon,daikyu_prime_grip
+3582,682dfb5735715d4f3e9c64f1,Daikyu Prime String,Weapon,daikyu_prime_string
+3583,682dfb8835715d4f3e9c64f3,Kompressa Prime Set,Weapon,kompressa_prime_set
+3584,682dfb8835715d4f3e9c64f4,Kompressa Prime Blueprint,Weapon,kompressa_prime_blueprint
+3585,682dfb8835715d4f3e9c64f5,Kompressa Prime Barrel,Weapon,kompressa_prime_barrel
+3586,682dfb8835715d4f3e9c64f6,Kompressa Prime Receiver,Weapon,kompressa_prime_reciever
+3587,68306e70ce567bcd85d673d0,Axi C9 Relic,Relic,axi_c9_relic
+3588,683070cbce567bcd85d673d2,Höllvanian Collapsed Underground Scene,Scene,höllvanian_collapsed_underground_scene
+3589,683070d2ce567bcd85d673d4,Lavo's Playplace Scene,Scene,lavos_playplace_scene
+3590,683070d8ce567bcd85d673d6,Höllvanian Subway Junction Scene,Scene,höllvanian_subway_junction_scene
+3591,6842df9e16f8ae708bcc24ff,Lith T13 Relic,Relic,lith_t13_relic
+3592,6842dfc016f8ae708bcc2501,Lith A9 Relic,Relic,lith_a9_relic
+3593,6842dfca16f8ae708bcc2503,Meso R6 Relic,Relic,meso_r6_relic
+3594,6842dfda16f8ae708bcc2505,Neo P8 Relic,Relic,neo_p8_relic
+3595,6842dff316f8ae708bcc2507,Axi B9 Relic,Relic,axi_b9_relic
+3596,6842e26516f8ae708bcc2509,Meso T8 Relic,Relic,meso_t8_relic
+3597,6842e26816f8ae708bcc250b,Lith M10 Relic,Relic,lith_m10_relic
+3598,6846e70e43db1b86d7b1c613,Pain Points,Mod,pain_points
+3599,685d4f1ef41598dddb4cc2f2,Spontaneous Singularity,Mod,spontaneous_singularity
+3600,685d4fbff41598dddb4cc2f4,Volatile Recompense,Mod,volatile_recompense
+3601,685d4fcef41598dddb4cc2f6,Prismatic Companion,Mod,prismatic_companion
+3602,685d4fdbf41598dddb4cc2f8,Razor Mortar,Mod,razor_mortar
+3603,685d4ff2f41598dddb4cc2fa,Jade's Judgment,Mod,jades_judgment
+3604,685f1bf7731e63abe79a5cfa,Primed Smite The Murmur,Mod,primed_smite_the_murmur
+3605,6877cad0731e63abe79a5cfc,Octopede Arena Scene,Misc.,octopede_arena_scene
+3606,6877cad6731e63abe79a5cfe,Isleweaver Cloud Islet Scene,Misc.,isleweaver_cloud_islet_scene
+3607,6877cadd731e63abe79a5d00,Isleweaver Drift Atoll Scene,Misc.,isleweaver_drift_atoll_scene
+3608,6877cae9731e63abe79a5d02,Scholar's Landing Scene,Misc.,scholars_landing_scene
+3609,6877caf1731e63abe79a5d04,Duviri Throne Room Scene,Misc.,duviri_throne_room_scene
+3610,687915b1731e63abe79a5d07,Solstice Square Stage Scene,Scene,solstice_square_stage_scene
+3611,687915bb731e63abe79a5d09,Kullervo's Hold Scene,Misc.,kullervos_hold_scene
+3612,68839bb9731e63abe79a5d0b,Primed Expel The Murmur,Mod,primed_expel_the_murmur
